@@ -17,7 +17,7 @@ const items = events.map((e) => `  <item>
     <link>${esc(e.url)}</link>
     <guid isPermaLink="false">${esc(e.url)}</guid>
     <pubDate>${new Date(data.updated_at || Date.now()).toUTCString()}</pubDate>
-    <description>${esc([e.start ? "Time: " + e.start : "", e.venue ? "Venue: " + e.venue : "", e.summary || ""].filter(Boolean).join(" | "))}</description>
+    <description>${esc([e.start ? "Time: " + e.start : "", e.venue ? "Venue: " + e.venue : "", e.summary ? (e.summary_zh ? e.summary + " ｜ " + e.summary_zh : e.summary) : ""].filter(Boolean).join(" | "))}</description>
   </item>`).join("\n");
 writeFileSync(join(root, "feed.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
