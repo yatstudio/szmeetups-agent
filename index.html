@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SZMeetups · Agent Mirror — What's on in Shenzhen</title>
+<meta name="description" content="Unofficial agent-friendly mirror of szmeetups.com: Shenzhen meetups, shows, nightlife, exhibitions and festivals as structured data (events.json + RSS + ICS), updated daily.">
+<style>
+:root{--bg:#f6f6f4;--card:#fff;--ink:#101828;--mut:#667085;--line:#e7e7e3;--red:#d92d20;--blue:#175cd3;--green:#027a48;--amber:#b54708;--radius:18px;--shadow:0 1px 2px rgba(16,24,40,.05),0 10px 30px rgba(16,24,40,.05)}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+.wrap{max-width:1020px;margin:0 auto;padding:0 24px}
+header{color:#fff;padding:56px 0 42px;background:radial-gradient(640px 320px at 12% -10%,rgba(217,45,32,.30),transparent 62%),radial-gradient(760px 380px at 88% 0%,rgba(23,92,211,.34),transparent 62%),#0a0c10}
+header h1{font-size:clamp(1.9rem,5vw,2.8rem);font-weight:850;margin:0;letter-spacing:.01em}
+header h1 .mirror{color:#ffd60a}
+.tagline{color:#a7b0bf;font-size:.98rem;margin-top:14px;line-height:1.8;max-width:680px}
+.tagline b{color:#eef1f6}
+.stats{display:flex;gap:40px;margin-top:26px;padding-top:22px;border-top:1px solid rgba(255,255,255,.14);flex-wrap:wrap}
+.stat b{font-size:1.8rem;font-weight:850;font-variant-numeric:tabular-nums;display:block;line-height:1.05}
+.stat span{font-size:.78rem;color:#9aa3b2;letter-spacing:.05em}
+.agentbar{background:linear-gradient(90deg,#b54708,#d92d20);color:#fff}
+.agentbar .wrap{display:flex;gap:14px;align-items:center;padding-top:13px;padding-bottom:13px;flex-wrap:wrap}
+.agentbar p{margin:0;font-size:.96rem;flex:1;min-width:240px}
+.agentbar button{flex:0 0 auto;background:#fff;color:#7a2e0e;border:0;border-radius:999px;padding:10px 18px;font-weight:800;cursor:pointer;min-height:42px;font-size:.92rem;font-family:inherit}
+.bar{position:sticky;top:0;z-index:20;background:rgba(246,246,244,.92);backdrop-filter:blur(10px);padding:14px 0 10px;margin:0 -24px;padding-left:24px;padding-right:24px}
+input[type=search]{width:100%;padding:13px 16px;border:1px solid var(--line);border-radius:14px;font-size:1rem;background:#fff}
+.fgroup{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:10px}
+.flabel{font-size:.78rem;color:var(--mut);font-weight:750;min-width:4.6em}
+.seg{display:inline-flex;gap:6px;flex-wrap:wrap;align-items:center}
+.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:6px 13px;font-size:.87rem;cursor:pointer;min-height:36px;color:var(--ink);font-weight:550;font-family:inherit}
+.chip.on{background:#0a0c10;color:#fff;border-color:#0a0c10;font-weight:750}
+.fres{margin-left:auto;font-size:.85rem;color:var(--mut);font-weight:650}
+.fclear{margin-left:auto;background:none;border:0;color:var(--red);font-weight:750;cursor:pointer;font-size:.88rem;min-height:36px;font-family:inherit}
+.dayhead{position:sticky;top:var(--barh,150px);z-index:10;display:flex;align-items:baseline;gap:12px;padding:28px 0 12px;background:var(--bg)}
+.dayhead .dnum{font-size:2.5rem;font-weight:900;line-height:1;font-variant-numeric:tabular-nums}
+.dayhead .dmeta{font-size:1.02rem;font-weight:750}
+.dayhead .drel{font-size:.78rem;font-weight:800;color:#fff;background:var(--red);border-radius:7px;padding:3px 10px}
+.dayhead .drel.future{background:#0a0c10}
+.dayhead .ongoing{font-size:.78rem;font-weight:800;color:#fff;background:var(--amber);border-radius:7px;padding:3px 10px}
+.ev{display:flex;gap:18px;margin-bottom:14px}
+.rail{flex:0 0 78px;text-align:right;padding-top:22px}
+.rail .t1{font-size:1.2rem;font-weight:850;font-variant-numeric:tabular-nums;line-height:1.2}
+.rail .t2{font-size:.78rem;color:var(--mut);font-variant-numeric:tabular-nums;margin-top:2px}
+.card{flex:1;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px 18px;box-shadow:var(--shadow)}
+.trow{display:flex;gap:12px;align-items:flex-start;justify-content:space-between}
+.card h3{margin:0;font-size:1.22rem;font-weight:820;line-height:1.4;flex:1;min-width:0}
+.card h3 a{color:var(--ink);text-decoration:none}
+.card h3 a:hover{text-decoration:underline}
+.titlezh{font-size:.95rem;color:#344054;font-weight:650;margin-top:2px}
+.fee{flex:0 0 auto;font-size:.88rem;font-weight:900;border-radius:999px;padding:5px 14px;margin-top:2px;white-space:nowrap}
+.fee.free{background:#dcfae6;color:var(--green)}
+.fee.paid{background:#fef0c7;color:var(--amber)}
+.fee.na{background:#f2f4f7;color:var(--mut);font-weight:600}
+.loc{font-size:.97rem;color:#344054;margin:7px 0 2px}
+.loc .pin{color:var(--red)}
+.meta{font-size:.84rem;color:var(--mut);line-height:1.7}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
+.tag{font-size:.76rem;font-weight:650;background:#f2f4f7;border-radius:8px;padding:3px 10px;color:#344054}
+.sum{font-size:.95rem;line-height:1.65;margin:8px 0 0;color:#1d2939;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+.btn{display:inline-flex;align-items:center;min-height:42px;padding:8px 16px;border-radius:11px;font-size:.9rem;font-weight:700;text-decoration:none;border:1px solid var(--line);color:#344054;background:#fff}
+.btn.primary{background:#0a0c10;color:#fff;border-color:#0a0c10}
+.btn.nav{background:#f0f9ff;border-color:#bfe3ff;color:#026aa2}
+.subcard{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:26px;margin:28px 0 6px;box-shadow:var(--shadow)}
+.subcard h3{margin:0 0 10px;font-size:1.18rem;font-weight:820}
+.subcard .prompt{background:#f2f4f7;border-radius:12px;padding:14px 16px;font-size:.92rem;line-height:1.7}
+.foot{font-size:.83rem;color:var(--mut);padding:26px 0 50px;line-height:2}
+.foot a{color:var(--blue)}
+.empty{padding:46px 0;text-align:center;color:var(--mut)}
+@media (max-width:640px){
+.wrap{padding:0 16px}
+header{padding:40px 0 32px}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:16px 22px}
+.stat b{font-size:1.4rem}
+.bar{margin:0 -16px;padding:10px 16px 8px}
+input[type=search]{font-size:16px;padding:11px 14px}
+.dayhead .dnum{font-size:1.9rem}
+.dayhead{padding:18px 0 8px}
+.ev{flex-direction:column;gap:0;margin-bottom:12px}
+.rail{flex:none;text-align:left;padding:0 0 3px;display:flex;gap:9px;align-items:baseline}
+.rail .t1{font-size:1.02rem}.rail .t2{font-size:.8rem;margin-top:0}
+.card{padding:18px}
+.btn{min-height:40px;padding:7px 13px;font-size:.87rem}
+}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<h1>SZMeetups <span class="mirror">· Agent Mirror</span></h1>
+<div class="tagline"><b>What's on in Shenzhen</b> — meetups · language exchanges · shows &amp; nightlife · exhibitions · festivals · trade shows, mirrored from <b>szmeetups.com</b> as structured data for humans and AI agents, updated daily. 深圳活动，英文为主、中文辅助。</div>
+<div class="stats">
+<div class="stat"><b id="st-total">–</b><span>UPCOMING EVENTS</span></div>
+<div class="stat"><b id="st-week">–</b><span>STARTING IN 7 DAYS</span></div>
+<div class="stat"><b id="st-free">–</b><span>FREE</span></div>
+<div class="stat"><b id="st-upd">–</b><span>LAST UPDATED</span></div>
+</div>
+</div></header>
+<div class="agentbar"><div class="wrap">
+<p>🤖 <b>Don't browse — delegate.</b> Copy the subscription prompt to your Agent and get Shenzhen event reminders matched to your interests.</p>
+<button onclick="copyPrompt(this)">Copy Agent prompt</button>
+</div></div>
+
+<div class="wrap">
+<div class="bar">
+<input type="search" id="q" placeholder="Search events / venues / organisers… 搜索活动、地点">
+<div class="fgroup"><span class="flabel">Category</span><span class="seg" id="g-cats"></span></div>
+<div class="fgroup"><span class="flabel">Area 区域</span><span class="seg" id="g-areas"></span><span class="fres" id="fres"></span><button id="fclear" class="fclear" hidden>Clear ✕</button></div>
+</div>
+<div id="list"><div class="empty">Loading…</div></div>
+
+<div class="subcard" id="agent-sub">
+<h3>🤖 Let your Agent watch this for you</h3>
+<p class="sum">Copy this to your Agent (Codex / Muse / Hermes / Globot — any agent with web access):</p>
+<p class="prompt" id="subprompt">Please subscribe to the "SZMeetups Agent Mirror" and remind me about Shenzhen events: data source https://yatstudio.github.io/szmeetups-agent/events.json (updated daily, no login needed; it is an unofficial mirror of szmeetups.com). Fetch it once a day and filter by my interests and my area. Tell me the same day when a new event matches my interests; for events I say I want to attend, remind me 3 days before and 1 day before they start. Never invent events that are not in the data, and always include the original szmeetups.com event link.</p>
+<div class="actions"><button class="btn primary" onclick="copyPrompt(this)">Copy this prompt</button></div>
+</div>
+
+<div class="foot">
+Data feeds (open, no login): <a href="events.json">events.json</a> · <a href="feed.xml">RSS</a> · <a href="events.ics">Calendar .ics</a> · <a href="llms.txt">llms.txt</a> · <a href="agent.json">agent.json</a> · Agent protocol: <a href="https://github.com/yatstudio/szmeetups-agent/blob/main/AGENTS.md">AGENTS.md</a><br>
+Unofficial agent-friendly mirror of <a href="https://szmeetups.com" target="_blank" rel="noopener">szmeetups.com</a> — all event data © SZMeetups, always link back to the original event page. Always confirm final details on the original page before going.
+</div>
+</div>
+
+<script>
+let DATA=[];
+let F={cats:new Set(),areas:new Set()};
+const $=s=>document.querySelector(s);
+const DAY=864e5;
+const esc=s=>String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+const fmtT=t=>new Date(t).toLocaleTimeString("en-GB",{hour:"2-digit",minute:"2-digit",hour12:false});
+const dayKey=t=>{const d=new Date(t);return d.getFullYear()+"-"+d.getMonth()+"-"+d.getDate()};
+function relLabel(t){
+  const diff=Math.round((new Date(dayKey(t))-new Date(dayKey(Date.now())))/DAY);
+  return diff===0?"Today 今天":diff===1?"Tomorrow 明天":diff===2?"Day after 后天":"";
+}
+function feeBadge(e){
+  const f=(e.fee||"").trim();
+  if(!f)return `<span class="fee na">Price: see page</span>`;
+  if(f==="Free")return `<span class="fee free">Free 免费</span>`;
+  return `<span class="fee paid">${esc(f)}</span>`;
+}
+function pass(e){
+  const q=$("#q").value.trim().toLowerCase();
+  if(q&&!(e.title+" "+(e.title_zh||"")+" "+(e.organizer||"")+" "+(e.venue||"")+" "+(e.summary||"")).toLowerCase().includes(q))return false;
+  if(F.cats.size&&!e.categories.some(c=>F.cats.has(c)))return false;
+  if(F.areas.size&&!F.areas.has(e.area))return false;
+  return true;
+}
+function maps(e){
+  if(!e.venue)return"";
+  const q=encodeURIComponent(["Shenzhen",e.venue,e.address].filter(Boolean).join(" "));
+  return `<a class="btn nav" target="_blank" rel="noopener" href="https://uri.amap.com/search?keyword=${q}">高德 Amap</a>`+
+  `<a class="btn nav" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=${q}">Google Maps</a>`;
+}
+function cardOf(e){
+  const tags=e.categories.map(c=>`<span class="tag">${esc(c)}</span>`).join("");
+  const occ=e.occurrences_count>1?` · 🔁 ${e.occurrences_count} sessions`:"";
+  const lang=e.languages&&e.languages.length?` · 🗣 ${esc(e.languages.join(" / "))}`:"";
+  return `<div class="ev">
+<div class="rail"><div class="t1">${e.start?fmtT(e.start):"TBC"}</div><div class="t2">${e.end?"– "+fmtT(e.end):""}</div></div>
+<div class="card">
+<div class="trow"><h3><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a></h3>${feeBadge(e)}</div>
+${e.title_zh?`<div class="titlezh">${esc(e.title_zh)}</div>`:""}
+<div class="loc"><span class="pin">📍</span> <b>${esc(e.venue||"Venue TBC")}</b>${e.area&&e.area!=="Shenzhen"?" · "+esc(e.area):""}${e.district?" · "+esc(e.district):""}</div>
+<div class="meta">${esc(e.organizer||"")}${occ}${lang}</div>
+<div class="tags">${tags}</div>
+${e.summary?`<p class="sum">${esc(e.summary)}</p>`:""}
+<div class="actions">
+<a class="btn primary" href="${esc(e.url)}" target="_blank" rel="noopener">Details on SZMeetups →</a>
+${e.calendar_url?`<a class="btn" href="${esc(e.calendar_url)}">＋ Calendar</a>`:""}
+${maps(e)}
+</div>
+</div>
+</div>`;
+}
+function render(){
+  const t0=new Date();t0.setHours(0,0,0,0);
+  const evs=DATA.filter(pass).sort((a,b)=>new Date(a.start||"2100")-new Date(b.start||"2100"));
+  const fr=$("#fres");if(fr)fr.textContent=evs.length+" events";
+  $("#fclear").hidden=!(F.cats.size||F.areas.size||$("#q").value.trim());
+  if(!evs.length){$("#list").innerHTML='<div class="empty">No events match. 没有符合条件的活动。</div>';return}
+  let html="",lastKey=null,lastOngoing=null;
+  for(const e of evs){
+    if(!e.start)continue;
+    const ongoing=new Date(e.start)<t0;
+    const dk=ongoing?"ongoing":dayKey(e.start);
+    if(dk!==lastKey){
+      lastKey=dk;
+      if(ongoing){
+        if(lastOngoing!=="shown"){html+=`<div class="dayhead"><span class="dmeta">On now</span><span class="ongoing">ONGOING 进行中</span></div>`;lastOngoing="shown"}
+      }else{
+        const d=new Date(e.start),rel=relLabel(e.start);
+        html+=`<div class="dayhead"><span class="dnum">${d.getDate()}</span><span class="dmeta">${d.toLocaleDateString("en-GB",{month:"short"})} · ${d.toLocaleDateString("en-GB",{weekday:"long"})}</span>${rel?`<span class="drel ${rel.startsWith("Today")?"":"future"}">${rel}</span>`:""}</div>`;
+      }
+    }
+    html+=cardOf(e);
+  }
+  $("#list").innerHTML=html;
+}
+window.copyPrompt=b=>{if(navigator.clipboard)navigator.clipboard.writeText(document.getElementById("subprompt").innerText).then(()=>{const t=b.textContent;b.textContent="Copied ✓";setTimeout(()=>b.textContent=t,1500)})};
+function measureBar(){const b=document.querySelector(".bar");if(b)document.documentElement.style.setProperty("--barh",b.offsetHeight+"px")}
+window.addEventListener("resize",measureBar);
+function chipWire(id,set){
+  $(id).addEventListener("click",ev=>{
+    const b=ev.target.closest("[data-v]");if(!b)return;
+    const v=b.dataset.v;
+    if(set.has(v))set.delete(v);else set.add(v);
+    b.classList.toggle("on",set.has(v));
+    render();measureBar();
+  });
+}
+$("#fclear").addEventListener("click",()=>{
+  F={cats:new Set(),areas:new Set()};$("#q").value="";
+  document.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));
+  render();measureBar();
+});
+$("#q").addEventListener("input",()=>{render();measureBar()});
+fetch("events.json",{cache:"no-store"}).then(r=>r.json()).then(j=>{
+  DATA=j.events||[];
+  const cats=[...new Set(DATA.flatMap(e=>e.categories))].sort();
+  $("#g-cats").innerHTML=cats.map(c=>`<button class="chip" data-v="${esc(c)}">${esc(c)}</button>`).join("");
+  const areas=[...new Set(DATA.map(e=>e.area))];
+  const order=["Futian","Nanshan","Shekou","OCT","Luohu","Bao'an","Longgang","Longhua","Shenzhen"];
+  areas.sort((a,b)=>order.indexOf(a)-order.indexOf(b));
+  $("#g-areas").innerHTML=areas.map(a=>`<button class="chip" data-v="${esc(a)}">${esc(a)}</button>`).join("");
+  chipWire("#g-cats",F.cats);chipWire("#g-areas",F.areas);
+  const now=Date.now();
+  $("#st-total").textContent=DATA.length;
+  $("#st-week").textContent=DATA.filter(e=>e.start&&new Date(e.start)>=new Date(now-DAY)&&new Date(e.start)-now<=7*DAY).length;
+  $("#st-free").textContent=DATA.filter(e=>e.fee==="Free").length;
+  $("#st-upd").textContent=j.updated_at?new Date(j.updated_at).toLocaleString("en-GB",{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit",hour12:false}):"–";
+  render();measureBar();setTimeout(measureBar,400);
+}).catch(()=>{$("#list").innerHTML='<div class="empty">Failed to load data — please refresh.</div>'});
+</script>
+</body>
+</html>
