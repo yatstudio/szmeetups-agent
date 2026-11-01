@@ -4,7 +4,7 @@ PRODID:-//szmeetups-agent//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:new-link-kapoor-eliasson-shenzhen-international-art-museum@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260530T020000Z
 DTEND:20270430T100000Z
 SUMMARY:New Link: Anish Kapoor\, Olafur Eliasson and the Future of Art — Shenzhen International Art Museum
@@ -14,7 +14,7 @@ URL:https://szmeetups.com/events/new-link-kapoor-eliasson-shenzhen-international
 END:VEVENT
 BEGIN:VEVENT
 UID:qian-lihuai-weft-genesis-sea-world-culture-arts-center@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260822T020000Z
 DTEND:20261206T130000Z
 SUMMARY:Qian Lihuai: Weft Genesis — Bamboo Weaving at Sea World Culture & Arts Center
@@ -24,7 +24,7 @@ URL:https://szmeetups.com/events/qian-lihuai-weft-genesis-sea-world-culture-arts
 END:VEVENT
 BEGIN:VEVENT
 UID:pan-yuliang-exhibition-mocape-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260825T020000Z
 DTEND:20261129T100000Z
 SUMMARY:Pan Yuliang: Lines of the Soul — MOCAPE
@@ -34,7 +34,7 @@ URL:https://szmeetups.com/events/pan-yuliang-exhibition-mocape-shenzhen
 END:VEVENT
 BEGIN:VEVENT
 UID:lingnan-macro-insect-photography-shenzhen-art-museum@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260829T020000Z
 DTEND:20261130T100000Z
 SUMMARY:Butterflies of Lingnan: Macro Nature Photography
@@ -44,7 +44,7 @@ URL:https://szmeetups.com/events/lingnan-macro-insect-photography-shenzhen-art-m
 END:VEVENT
 BEGIN:VEVENT
 UID:yan-shanchun-archaeology-of-memory-mocape@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260901T020000Z
 DTEND:20261119T100000Z
 SUMMARY:Yan Shanchun: Archaeology of Memory — MOCAPE
@@ -54,7 +54,7 @@ URL:https://szmeetups.com/events/yan-shanchun-archaeology-of-memory-mocape
 END:VEVENT
 BEGIN:VEVENT
 UID:austronesian-seafarers-exhibition-ocat-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260904T020000Z
 DTEND:20261101T130000Z
 SUMMARY:Wayfinders of the Stars: Austronesian Seafaring Cultures — OCAT Shenzhen
@@ -64,7 +64,7 @@ URL:https://szmeetups.com/events/austronesian-seafarers-exhibition-ocat-shenzhen
 END:VEVENT
 BEGIN:VEVENT
 UID:dunhuang-in-bloom-chang-shana-shenzhen-art-museum@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260910T020000Z
 DTEND:20261213T100000Z
 SUMMARY:Dunhuang in Bloom: Chang Shana — Shenzhen Art Museum
@@ -74,7 +74,7 @@ URL:https://szmeetups.com/events/dunhuang-in-bloom-chang-shana-shenzhen-art-muse
 END:VEVENT
 BEGIN:VEVENT
 UID:sun-xun-star-map-and-fantasy-wanxia-1012-shekou@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260919T010000Z
 DTEND:20261127T090000Z
 SUMMARY:Sun Xun: Star Map and Fantasy at Wanxia 1012\, Shekou
@@ -84,7 +84,7 @@ URL:https://szmeetups.com/events/sun-xun-star-map-and-fantasy-wanxia-1012-shekou
 END:VEVENT
 BEGIN:VEVENT
 UID:foreign-lands-and-mother-tongue-he-xiangning-art-museum@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260919T013000Z
 DTEND:20261206T090000Z
 SUMMARY:Foreign Lands and Mother Tongue: 8th Global Overseas Chinese Artists Exhibition
@@ -94,7 +94,7 @@ URL:https://szmeetups.com/events/foreign-lands-and-mother-tongue-he-xiangning-ar
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-valley-halloween-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260924T020000Z
 DTEND:20261122T140000Z
 SUMMARY:Happy Valley Shenzhen Halloween 2026: Surprise Fun Festival
@@ -104,7 +104,7 @@ URL:https://szmeetups.com/events/happy-valley-halloween-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:david-hockney-bigger-closer-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260925T020000Z
 DTEND:20270530T140000Z
 SUMMARY:David Hockney: Bigger & Closer — Shenzhen
@@ -114,7 +114,7 @@ URL:https://szmeetups.com/events/david-hockney-bigger-closer-shenzhen
 END:VEVENT
 BEGIN:VEVENT
 UID:city-polyphony-shenzhen-time-mocape-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260930T020000Z
 DTEND:20261213T100000Z
 SUMMARY:City Polyphony: Shenzhen Time — Contemporary Art
@@ -124,7 +124,7 @@ URL:https://szmeetups.com/events/city-polyphony-shenzhen-time-mocape-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:jon-burgerman-its-great-to-create-prince-bay-art-center@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20260930T020000Z
 DTEND:20270228T100000Z
 SUMMARY:Jon Burgerman: It's Great to Create! — Prince Bay Art Center\, Shekou
@@ -134,7 +134,7 @@ URL:https://szmeetups.com/events/jon-burgerman-its-great-to-create-prince-bay-ar
 END:VEVENT
 BEGIN:VEVENT
 UID:michael-najjar-morphing-equilibrium-fotografiska-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261001T020000Z
 DTEND:20270117T150000Z
 SUMMARY:Michael Najjar: Morphing Equilibrium — Fotografiska Shenzhen
@@ -143,28 +143,8 @@ DESCRIPTION:German artist Michael Najjar's large photo and video works on a plan
 URL:https://szmeetups.com/events/michael-najjar-morphing-equilibrium-fotografiska-shenzhen
 END:VEVENT
 BEGIN:VEVENT
-UID:transcendent-realities-fotografiska-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261001T020000Z
-DTEND:20270930T150000Z
-SUMMARY:Transcendent Realities: Monumental-Scale Photography
-LOCATION:Fotografiska Shenzhen\, Fotografiska Shenzhen\, Nanshan District
-DESCRIPTION:Six artists shown at Fotografiska Shanghai\, reunited in an 8.5 m-high gallery. Includes Michael Najjar's aerial Shenzhen. Details: https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen
-URL:https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen
-END:VEVENT
-BEGIN:VEVENT
-UID:toiletpaper-fotografiska-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261001T020000Z
-DTEND:20270314T150000Z
-SUMMARY:TOILETPAPER: ToiletFotoPaperGrafiska
-LOCATION:Fotografiska Shenzhen\, Fotografiska Shenzhen\, Nanshan District
-DESCRIPTION:Maurizio Cattelan and Pierpaolo Ferrari's candy-coloured\, surreal image world\, in its first China show. Details: https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen
-URL:https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen
-END:VEVENT
-BEGIN:VEVENT
 UID:shi-guowei-festa-fotografiska-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261001T020000Z
 DTEND:20270314T150000Z
 SUMMARY:Shi Guowei: Festa
@@ -173,8 +153,18 @@ DESCRIPTION:Hand-coloured photographs of Chinese festivals\, somewhere between p
 URL:https://szmeetups.com/events/shi-guowei-festa-fotografiska-shenzhen
 END:VEVENT
 BEGIN:VEVENT
+UID:transcendent-realities-fotografiska-shenzhen@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261001T020000Z
+DTEND:20270930T150000Z
+SUMMARY:Transcendent Realities: Monumental-Scale Photography
+LOCATION:Fotografiska Shenzhen\, Fotografiska Shenzhen\, Nanshan District
+DESCRIPTION:Six artists shown at Fotografiska Shanghai\, reunited in an 8.5 m-high gallery. Includes Michael Najjar's aerial Shenzhen. Details: https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen
+URL:https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen
+END:VEVENT
+BEGIN:VEVENT
 UID:prix-pictet-storm-fotografiska-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261001T020000Z
 DTEND:20261129T150000Z
 SUMMARY:Prix Pictet: Storm
@@ -183,8 +173,18 @@ DESCRIPTION:The 12 shortlisted series from the world's big photography-and-susta
 URL:https://szmeetups.com/events/prix-pictet-storm-fotografiska-shenzhen
 END:VEVENT
 BEGIN:VEVENT
+UID:toiletpaper-fotografiska-shenzhen@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261001T020000Z
+DTEND:20270314T150000Z
+SUMMARY:TOILETPAPER: ToiletFotoPaperGrafiska
+LOCATION:Fotografiska Shenzhen\, Fotografiska Shenzhen\, Nanshan District
+DESCRIPTION:Maurizio Cattelan and Pierpaolo Ferrari's candy-coloured\, surreal image world\, in its first China show. Details: https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen
+URL:https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen
+END:VEVENT
+BEGIN:VEVENT
 UID:prehistoric-planet-dinosaurs-immersive-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261001T020000Z
 DTEND:20270530T140000Z
 SUMMARY:Prehistoric Planet: Dinosaurs — Immersive Experience\, Shenzhen
@@ -194,7 +194,7 @@ URL:https://szmeetups.com/events/prehistoric-planet-dinosaurs-immersive-shenzhen
 END:VEVENT
 BEGIN:VEVENT
 UID:splendid-china-sleepless-nights-halloween-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261017T093000Z
 DTEND:20261108T140000Z
 SUMMARY:Sleepless Nights at Splendid China: Chinese Masquerade for Halloween
@@ -204,7 +204,7 @@ URL:https://szmeetups.com/events/splendid-china-sleepless-nights-halloween-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:zhang-boju-pan-su-art-exhibition-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261022T013000Z
 DTEND:20261213T090000Z
 SUMMARY:Zhang Boju & Pan Su: Art and Archives — He Xiangning Art Museum
@@ -213,18 +213,8 @@ DESCRIPTION:A free exhibition tracing the collecting\, calligraphy and painting 
 URL:https://szmeetups.com/events/zhang-boju-pan-su-art-exhibition-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:revolucion-dia-de-muertos-halloween-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261030T040000Z
-DTEND:20261031T040000Z
-SUMMARY:Halloween × Día de los Muertos at Revolución
-LOCATION:Revolucion Cocktail\, Revolucion Cocktail\, Futian
-DESCRIPTION:October 30 and 31: skull face paint\, performances and dancing in Futian. Details: https://szmeetups.com/events/revolucion-dia-de-muertos-halloween-2026
-URL:https://szmeetups.com/events/revolucion-dia-de-muertos-halloween-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:gg-halloween-night-market-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261030T080000Z
 DTEND:20261101T150000Z
 SUMMARY:Halloween Night Market at G&G
@@ -233,128 +223,8 @@ DESCRIPTION:2026.10.30–11.1\, 4–11 p.m. Details: https://szmeetups.com/event
 URL:https://szmeetups.com/events/gg-halloween-night-market-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:shenzhen-striders-park-run@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261030T234500Z
-DTEND:20261031T021500Z
-SUMMARY:Shenzhen Striders Park Run (Saturdays\, Talent Park)
-LOCATION:Shenzhen Talent Park\, Shenzhen Talent Park\, Nanshan
-DESCRIPTION:Free\, volunteer-run timed 2.5 km or 5 km loop of Shenzhen Talent Park every Saturday morning. Warm-up at 7:45\, all paces welcome. Details: https://szmeetups.com/events/shenzhen-striders-park-run
-URL:https://szmeetups.com/events/shenzhen-striders-park-run
-END:VEVENT
-BEGIN:VEVENT
-UID:afrofit-sigma-coffee-saturdays@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T020000Z
-DTEND:20261031T033000Z
-SUMMARY:AFROFIT at Sigma Coffee
-LOCATION:SIGMA Coffee Park\, SIGMA Coffee Park\, Nanshan
-DESCRIPTION:A Saturday morning Afro dance-fitness class on Sigma Coffee's Xili rooftop. Details: https://szmeetups.com/events/afrofit-sigma-coffee-saturdays
-URL:https://szmeetups.com/events/afrofit-sigma-coffee-saturdays
-END:VEVENT
-BEGIN:VEVENT
-UID:sunset-radio-casablanca-beach-club@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T030000Z
-DTEND:20261031T030000Z
-SUMMARY:Sunset Radio at Casablanca Beach Club (Weekends)
-LOCATION:Casablanca Beach Club\, Casablanca Beach Club
-DESCRIPTION:Beach DJs from lunch to past midnight on Shayuchong beach in Dapeng: sunset sets\, cocktails\, volleyball and an international crowd. Details: https://szmeetups.com/events/sunset-radio-casablanca-beach-club
-URL:https://szmeetups.com/events/sunset-radio-casablanca-beach-club
-END:VEVENT
-BEGIN:VEVENT
-UID:mixblood-halloween-casablanca-beach-club-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T030000Z
-DTEND:20261031T030000Z
-SUMMARY:Return of the Dead: Halloween Beach Party at Casablanca Beach Club
-LOCATION:Casablanca Beach Club\, Casablanca Beach Club
-DESCRIPTION:An all-day Halloween beach party at Shayuchong: eight DJs\, a bonfire after sunset\, horror-themed dancers and an on-site make-up artist. Details: https://szmeetups.com/events/mixblood-halloween-casablanca-beach-club-2026
-URL:https://szmeetups.com/events/mixblood-halloween-casablanca-beach-club-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:flames-kids-halloween-party-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T033000Z
-DTEND:20261031T053000Z
-SUMMARY:Bilingual Kids Halloween Party at The Flames
-LOCATION:The Flames\, The Flames\, Shekou
-DESCRIPTION:A bilingual children’s Halloween party with buffet lunch\, face painting\, crafts\, games and a costume contest. Details: https://szmeetups.com/events/flames-kids-halloween-party-2026
-URL:https://szmeetups.com/events/flames-kids-halloween-party-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:brass-house-halloween-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T040000Z
-DTEND:20261031T063000Z
-SUMMARY:Halloween at Brass House
-LOCATION:Brass House\, Brass House\, Futian
-DESCRIPTION:DJs Traxtarr and Manuvitch and a costume contest in Shuiwei. Details: https://szmeetups.com/events/brass-house-halloween-2026
-URL:https://szmeetups.com/events/brass-house-halloween-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:la-galerie-halloween-jazz-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T040000Z
-DTEND:20261031T063000Z
-SUMMARY:Halloween Jazz Night at La Galerie
-LOCATION:La Galerie Wine Club\, La Galerie Wine Club\, Nanshan
-DESCRIPTION:La Galerie Wine Club hosts a Halloween jazz night with vocalist Freya Tsang and guitarist Li Xiaomu. Details: https://szmeetups.com/events/la-galerie-halloween-jazz-2026
-URL:https://szmeetups.com/events/la-galerie-halloween-jazz-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:shekou-hash-house-harriers-saturday-run@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T053000Z
-DTEND:20261031T080000Z
-SUMMARY:Shekou Hash House Harriers: Saturday Trail Run
-LOCATION:George & Dragon British Pub\, George & Dragon British Pub\, Shekou
-DESCRIPTION:Every Saturday a bus leaves George & Dragon in Sea World at 13:30 for a hilly trail run or walk\, then back to the pub for the circle. Just turn up. Details: https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run
-URL:https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run
-END:VEVENT
-BEGIN:VEVENT
-UID:mj-apanay-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T053000Z
-DTEND:20261031T053000Z
-SUMMARY:mj apanay «time machine» China Tour — Shenzhen
-LOCATION:HOU LIVE (KK ONE\, Xiasha)\, B1\, KK ONE mall\, 9289 Binhe Blvd\, Futian
-DESCRIPTION:Filipino singer-songwriter mj apanay on his first China tour: an afternoon show at HOU LIVE. Details: https://szmeetups.com/events/mj-apanay-shenzhen-2026
-URL:https://szmeetups.com/events/mj-apanay-shenzhen-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:aqua-afro-wave-pool-party-sensea-2026-10-31@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T060000Z
-DTEND:20261031T060000Z
-SUMMARY:Aqua Afro Wave Pool Party at SENSEA
-LOCATION:SENSEA Resort\, SENSEA Resort
-DESCRIPTION:An afternoon-to-sunset Afro pool party at SENSEA's infinity pool above Xichong beach: Afrobeat\, Amapiano and Afro House from 2pm to 9pm. Details: https://szmeetups.com/events/aqua-afro-wave-pool-party-sensea-2026-10-31
-URL:https://szmeetups.com/events/aqua-afro-wave-pool-party-sensea-2026-10-31
-END:VEVENT
-BEGIN:VEVENT
-UID:ranoo-halloween-island-takeover-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T073000Z
-DTEND:20261031T140000Z
-SUMMARY:RANOO Halloween Island Takeover
-LOCATION:Taizi Bay Garden City VILLA\, Taizi Bay Garden City VILLA\, Nanshan
-DESCRIPTION:RANOO’s Halloween market welcomes people and pets for costumes\, trick-or-treating\, portraits and a pet parade at Taizi Bay VILLA\, 3:30–10 p.m. Details: https://szmeetups.com/events/ranoo-halloween-island-takeover-2026
-URL:https://szmeetups.com/events/ranoo-halloween-island-takeover-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:social-face-halloween-sunset-k11-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T083000Z
-DTEND:20261031T130000Z
-SUMMARY:Social Face Halloween Sunset Party
-LOCATION:NANA BADA at K11 ECOAST\, NANA BADA at K11 ECOAST\, Nanshan
-DESCRIPTION:Social Face brings a Halloween sunset DJ party to NANA BADA at K11 ECOAST\, with UNDERMIND and surprise DJs playing pop\, EDM and house. Details: https://szmeetups.com/events/social-face-halloween-sunset-k11-2026
-URL:https://szmeetups.com/events/social-face-halloween-sunset-k11-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:craft-head-12th-anniversary-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261031T090000Z
 DTEND:20261031T160000Z
 SUMMARY:Craft Head 12th Anniversary
@@ -363,68 +233,8 @@ DESCRIPTION:A Halloween-weekend birthday celebration with hourly draws and ¥12 
 URL:https://szmeetups.com/events/craft-head-12th-anniversary-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:k11-ecoast-halloween-pirate-night-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T100000Z
-DTEND:20261031T130000Z
-SUMMARY:K11 ECOAST Halloween Pirate Night
-LOCATION:K11 ECOAST\, K11 ECOAST\, Nanshan
-DESCRIPTION:K11 ECOAST hosts a pirate-themed Halloween DJ party in the South Hall rooftop garden. Details: https://szmeetups.com/events/k11-ecoast-halloween-pirate-night-2026
-URL:https://szmeetups.com/events/k11-ecoast-halloween-pirate-night-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cube-climb-or-trick-hubei-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T110000Z
-DTEND:20261031T150000Z
-SUMMARY:CUBE Climb or Trick: Hubei
-LOCATION:CUBE Climbing Hubei\, CUBE Climbing Hubei\, Luohu District
-DESCRIPTION:CUBE’s Hubei branch hosts Halloween climbing routes\, games\, prizes and a costume competition. Details: https://szmeetups.com/events/cube-climb-or-trick-hubei-2026
-URL:https://szmeetups.com/events/cube-climb-or-trick-hubei-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:cube-climb-or-trick-baoti-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T110000Z
-DTEND:20261031T150000Z
-SUMMARY:CUBE Climb or Trick: Baoti
-LOCATION:CUBE Climbing Baoti\, CUBE Climbing Baoti\, Bao'an District
-DESCRIPTION:CUBE’s Halloween climbing party at its Baoti branch has glow climbing routes\, games\, prizes and a costume competition. Details: https://szmeetups.com/events/cube-climb-or-trick-baoti-2026
-URL:https://szmeetups.com/events/cube-climb-or-trick-baoti-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:vinyl-house-thriller-night-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T110000Z
-DTEND:20261031T140000Z
-SUMMARY:Thriller Night at Vinyl House
-LOCATION:Vinyl House Nantou\, Vinyl House Nantou\, Nanshan
-DESCRIPTION:Shenzhen’s Michael Jackson fan community and Vinyl House host a Halloween gathering with vinyl records\, a Thriller dance\, videos\, a prize draw and a themed drink. Details: https://szmeetups.com/events/vinyl-house-thriller-night-2026
-URL:https://szmeetups.com/events/vinyl-house-thriller-night-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:yoga-lin-super-butler-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T110000Z
-DTEND:20261031T110000Z
-SUMMARY:Yoga Lin «Super Butler» World Tour — Shenzhen
-LOCATION:Shenzhen Bay Sports Center\, Shenzhen Bay Sports Center
-DESCRIPTION:Two nights of Taiwanese singer Yoga Lin's «Super Butler» world tour at the Shenzhen Bay stadium\, 30–31 October. Details: https://szmeetups.com/events/yoga-lin-super-butler-shenzhen
-URL:https://szmeetups.com/events/yoga-lin-super-butler-shenzhen
-END:VEVENT
-BEGIN:VEVENT
-UID:it-takes-2-halloween-weekend-xili-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T110000Z
-DTEND:20261031T133000Z
-SUMMARY:It Takes 2 Halloween Weekend at Yang Peach Yard
-LOCATION:Yang Peach Yard\, Yang Peach Yard\, Nanshan District
-DESCRIPTION:Two nights of costumes\, cocktails and meeting new people in Xili. Details: https://szmeetups.com/events/it-takes-2-halloween-weekend-xili-2026
-URL:https://szmeetups.com/events/it-takes-2-halloween-weekend-xili-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:latin-passion-halloween-neon-party-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261031T110000Z
 DTEND:20261031T170000Z
 SUMMARY:Latin Passion Halloween Neon Party
@@ -433,68 +243,8 @@ DESCRIPTION:Glow makeup\, bachata class and a two-room Latin dance party in Cheg
 URL:https://szmeetups.com/events/latin-passion-halloween-neon-party-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:joy-city-chinese-english-cantonese-corner@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T113000Z
-DTEND:20261031T140000Z
-SUMMARY:Chinese\, English & Cantonese Corner at Joy City (Saturdays)
-LOCATION:Venue TBC\, Venue TBC\, Shenzhen District
-DESCRIPTION:A Saturday-evening language corner for foreigners\, Hong Kongers and locals: Mandarin\, English and Cantonese. Details: https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner
-URL:https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner
-END:VEVENT
-BEGIN:VEVENT
-UID:karen-souza-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T113000Z
-DTEND:20261031T113000Z
-SUMMARY:Karen Souza — Velvet Jazz Tour\, Shenzhen
-LOCATION:Nanshan Culture & Sports Center Theatre (Juchen)\, Nanshan Culture & Sports Center\, Nanshan Ave\, Nanshan
-DESCRIPTION:Argentina's smoky-voiced jazz and bossa nova singer in a seated evening concert. Details: https://szmeetups.com/events/karen-souza-shenzhen-2026
-URL:https://szmeetups.com/events/karen-souza-shenzhen-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:spanish-club-dia-de-muertos-party-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T113000Z
-DTEND:20261031T140000Z
-SUMMARY:Fiesta Día de Muertos with the Spanish Club
-LOCATION:Jazz Building\, Jazz Building\, Luohu
-DESCRIPTION:A Día de Muertos celebration with games\, costumes and drinks in Luohu. Details: https://szmeetups.com/events/spanish-club-dia-de-muertos-party-2026
-URL:https://szmeetups.com/events/spanish-club-dia-de-muertos-party-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:club-hive-halloween-party-nanshan-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T113000Z
-DTEND:20261031T140000Z
-SUMMARY:Club Hive Halloween Party in Nanshan
-LOCATION:Venue TBC\, Venue TBC\, Shenzhen District
-DESCRIPTION:A costume social with a short walk\, makeup\, live music and a DJ. Details: https://szmeetups.com/events/club-hive-halloween-party-nanshan-2026
-URL:https://szmeetups.com/events/club-hive-halloween-party-nanshan-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:msf-halloween-party-wooz-hilton-futian-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T120000Z
-SUMMARY:MSF Halloween Party at WOOZ\, Hilton Futian
-LOCATION:Hilton Shenzhen Futian\, Hilton Shenzhen Futian
-DESCRIPTION:MSF's yearly Halloween night moves up to WOOZ on the 23rd floor of the Futian Hilton: hip-hop\, Afro and dancehall\, a welcome drink in every ticket. Details: https://szmeetups.com/events/msf-halloween-party-wooz-hilton-futian-2026
-URL:https://szmeetups.com/events/msf-halloween-party-wooz-hilton-futian-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:ours-halloween-mgm-prince-bay-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T120000Z
-SUMMARY:OURS Halloween: A Night of Screams at MGM Prince Bay
-LOCATION:The Purple at MGM Shenzhen Prince Bay\, The Purple at MGM Shenzhen Prince Bay
-DESCRIPTION:A 32nd-floor Halloween night with a live soul band indoors and six house DJs on the rooftop terrace above Prince Bay. Details: https://szmeetups.com/events/ours-halloween-mgm-prince-bay-2026
-URL:https://szmeetups.com/events/ours-halloween-mgm-prince-bay-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:chillpill-thai-eerie-story-upperhills-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261031T120000Z
 DTEND:20261031T163000Z
 SUMMARY:CHILLPILL Thai Eerie Story Halloween Party
@@ -503,108 +253,8 @@ DESCRIPTION:CHILLPILL brings a Thai-themed Halloween party to the third-floor Th
 URL:https://szmeetups.com/events/chillpill-thai-eerie-story-upperhills-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:flames-halloween-night-soul-blend-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T143000Z
-SUMMARY:Halloween Night at The Flames
-LOCATION:The Flames\, The Flames\, Shekou
-DESCRIPTION:The Flames hosts an adult Halloween party from 8 p.m. Details: https://szmeetups.com/events/flames-halloween-night-soul-blend-2026
-URL:https://szmeetups.com/events/flames-halloween-night-soul-blend-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:renaissance-cantonese-ghost-stories-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T140000Z
-SUMMARY:Cantonese Songs & Ghost Stories at Renaissance
-LOCATION:Renaissance (aPark)\, Renaissance (aPark)\, Futian
-DESCRIPTION:DooBusking combines Cantonese songs with ghost stories for Halloween at Renaissance in aPark. Details: https://szmeetups.com/events/renaissance-cantonese-ghost-stories-2026
-URL:https://szmeetups.com/events/renaissance-cantonese-ghost-stories-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:fancywall-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T120000Z
-SUMMARY:FancyWall «This\, That» 10th Anniversary Tour — Shenzhen
-LOCATION:MAO Livehouse Sea World\, MAO Livehouse Sea World
-DESCRIPTION:Indie band FancyWall (花墙) mark ten years together with their «This\, That» tour at MAO on Halloween night. Details: https://szmeetups.com/events/fancywall-shenzhen-2026
-URL:https://szmeetups.com/events/fancywall-shenzhen-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:gba-culture-arts-festival-2026-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T120000Z
-SUMMARY:6th Greater Bay Area Culture & Arts Festival - Shenzhen
-LOCATION:Shenzhen Binhai Art Center\, Shenzhen Binhai Art Center
-DESCRIPTION:A month of performance across 11 Greater Bay Area cities - 148 productions\, 25 exhibitions and around 100 free public events\, opening in Shenzhen for the first time. Details: https://szmeetups.com/events/gba-culture-arts-festival-2026-shenzhen
-URL:https://szmeetups.com/events/gba-culture-arts-festival-2026-shenzhen
-END:VEVENT
-BEGIN:VEVENT
-UID:summertime-sadness-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T120000Z
-SUMMARY:Summertime Sadness (夏日麽麽茶) First Tour — Shenzhen
-LOCATION:B10 Live\, B10 Live
-DESCRIPTION:Loop-driven dance-punk from 夏日麽麽茶 (Summertime Sadness) on their first national tour. Details: https://szmeetups.com/events/summertime-sadness-shenzhen-2026
-URL:https://szmeetups.com/events/summertime-sadness-shenzhen-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:kings-bar-halloween-party-baoan-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T120000Z
-DTEND:20261031T120000Z
-SUMMARY:Halloween Party at King's Bar\, Bao'an
-LOCATION:King's Bar (Bao'an Center)\, King's Bar (Bao'an Center)
-DESCRIPTION:Two nights of costumes\, DJ EYE and a best-costume contest at King's Bar in Bao'an Center. Details: https://szmeetups.com/events/kings-bar-halloween-party-baoan-2026
-URL:https://szmeetups.com/events/kings-bar-halloween-party-baoan-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:tigers-den-den-of-the-dead-halloween-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T130000Z
-DTEND:20261031T130000Z
-SUMMARY:Den of the Dead: Halloween Party at Tiger's Den
-LOCATION:Tiger's Den\, Tiger's Den
-DESCRIPTION:Free-entry costume party on Halloween night at Tiger's Den's new home by Futian Sports Park\, with DJ Sahasra from 9pm. Details: https://szmeetups.com/events/tigers-den-den-of-the-dead-halloween-2026
-URL:https://szmeetups.com/events/tigers-den-den-of-the-dead-halloween-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:pandora-parties-halloween-lost-kingdom-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T130000Z
-DTEND:20261031T130000Z
-SUMMARY:The Lost Realm: Halloween Masquerade by Pandora Parties
-LOCATION:Hello Young\, Hello Young
-DESCRIPTION:Pandora Parties' 11th Halloween for Shenzhen's local and international crowd: a costume and masquerade party in Nanshan with DJs\, a costume contest and a photographer. Details: https://szmeetups.com/events/pandora-parties-halloween-lost-kingdom-2026
-URL:https://szmeetups.com/events/pandora-parties-halloween-lost-kingdom-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:latin-passion-saturday-social@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T133000Z
-DTEND:20261031T160000Z
-SUMMARY:Passion Saturday: Latin Passion's Saturday Dance Party (Chegongmiao)
-LOCATION:Latin Passion Studio (Chegongmiao)\, Latin Passion Studio (Chegongmiao)\, Futian
-DESCRIPTION:Latin Passion's Saturday party in its Chegongmiao studio: a kizomba room and a bachata/salsa room from 9:30pm\, with a class before. Details: https://szmeetups.com/events/latin-passion-saturday-social
-URL:https://szmeetups.com/events/latin-passion-saturday-social
-END:VEVENT
-BEGIN:VEVENT
-UID:live-band-nights-the-terrace-shekou@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261031T133000Z
-DTEND:20261031T133000Z
-SUMMARY:Live Band Every Night at The Terrace\, Sea World
-LOCATION:The Terrace\, The Terrace
-DESCRIPTION:The Terrace's house band T.A.S. plays covers every night from 9:30pm in Sea World\, followed by DJ sets. Details: https://szmeetups.com/events/live-band-nights-the-terrace-shekou
-URL:https://szmeetups.com/events/live-band-nights-the-terrace-shekou
-END:VEVENT
-BEGIN:VEVENT
 UID:noise-after-dark-bar-mine-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261031T140000Z
 DTEND:20261031T163000Z
 SUMMARY:NOISE After Dark Halloween Party
@@ -614,7 +264,7 @@ URL:https://szmeetups.com/events/noise-after-dark-bar-mine-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:free-chinese-class-for-foreigners-baoan@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T013000Z
 DTEND:20261101T040000Z
 SUMMARY:Free Chinese Class for Foreigners in Bao'an (Sundays)
@@ -623,8 +273,18 @@ DESCRIPTION:Free weekly Mandarin classes for foreigners: beginners 9:30\, interm
 URL:https://szmeetups.com/events/free-chinese-class-for-foreigners-baoan
 END:VEVENT
 BEGIN:VEVENT
+UID:sunset-radio-casablanca-beach-club@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261101T030000Z
+DTEND:20261101T030000Z
+SUMMARY:Sunset Radio at Casablanca Beach Club (Weekends)
+LOCATION:Casablanca Beach Club\, Casablanca Beach Club
+DESCRIPTION:Beach DJs from lunch to past midnight on Shayuchong beach in Dapeng: sunset sets\, cocktails\, volleyball and an international crowd. Details: https://szmeetups.com/events/sunset-radio-casablanca-beach-club
+URL:https://szmeetups.com/events/sunset-radio-casablanca-beach-club
+END:VEVENT
+BEGIN:VEVENT
 UID:amazon-peak-season-advertising-salon-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T060000Z
 DTEND:20261101T094000Z
 SUMMARY:Amazon Peak-Season Advertising Salon — Shenzhen
@@ -634,7 +294,7 @@ URL:https://szmeetups.com/events/amazon-peak-season-advertising-salon-shenzhen-2
 END:VEVENT
 BEGIN:VEVENT
 UID:changeway-bilingual-toastmasters-sunday-meeting@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T063000Z
 DTEND:20261101T090000Z
 SUMMARY:Changeway Bilingual Toastmasters: Sunday Public Speaking (Chegongmiao)
@@ -644,7 +304,7 @@ URL:https://szmeetups.com/events/changeway-bilingual-toastmasters-sunday-meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:convovibe-english-corner-universiade-park@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T070000Z
 DTEND:20261101T093000Z
 SUMMARY:ConvoVibe English Corner in Universiade Park\, Longgang (Sundays)
@@ -654,7 +314,7 @@ URL:https://szmeetups.com/events/convovibe-english-corner-universiade-park
 END:VEVENT
 BEGIN:VEVENT
 UID:english-corner-longhua-baishilong@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T110000Z
 DTEND:20261101T133000Z
 SUMMARY:English Corner Longhua at The Crazy Coconut Bar (Baishilong)
@@ -664,7 +324,7 @@ URL:https://szmeetups.com/events/english-corner-longhua-baishilong
 END:VEVENT
 BEGIN:VEVENT
 UID:liberty-english-dinner-party-english-corner@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T110000Z
 DTEND:20261101T133000Z
 SUMMARY:Liberty English Dinner Party: English Corner (Wednesdays & Sundays)
@@ -674,7 +334,7 @@ URL:https://szmeetups.com/events/liberty-english-dinner-party-english-corner
 END:VEVENT
 BEGIN:VEVENT
 UID:mosi-zishi-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T120000Z
 DTEND:20261101T120000Z
 SUMMARY:Mosi Zishi «The Night Ablaze with Light» — Live in Shenzhen
@@ -684,7 +344,7 @@ URL:https://szmeetups.com/events/mosi-zishi-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:quadrant-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T120000Z
 DTEND:20261101T120000Z
 SUMMARY:Quadrant (气象限定) Asia Tour — Shenzhen
@@ -694,7 +354,7 @@ URL:https://szmeetups.com/events/quadrant-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:takeout-comedy-open-mic@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T130000Z
 DTEND:20261101T130000Z
 SUMMARY:TakeOut Comedy Open Mic (Sundays)
@@ -704,7 +364,7 @@ URL:https://szmeetups.com/events/takeout-comedy-open-mic
 END:VEVENT
 BEGIN:VEVENT
 UID:daydayuphood-halloween-rave-bus-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261101T130000Z
 DTEND:20261101T130000Z
 SUMMARY:Halloween Rave Bus by DayDayUpHood × DCee
@@ -713,8 +373,18 @@ DESCRIPTION:A double-decker party bus with a DJ on board\, three hours of Hallow
 URL:https://szmeetups.com/events/daydayuphood-halloween-rave-bus-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:live-band-nights-the-terrace-shekou@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261101T133000Z
+DTEND:20261101T133000Z
+SUMMARY:Live Band Every Night at The Terrace\, Sea World
+LOCATION:The Terrace\, The Terrace
+DESCRIPTION:The Terrace's house band T.A.S. plays covers every night from 9:30pm in Sea World\, followed by DJ sets. Details: https://szmeetups.com/events/live-band-nights-the-terrace-shekou
+URL:https://szmeetups.com/events/live-band-nights-the-terrace-shekou
+END:VEVENT
+BEGIN:VEVENT
 UID:dmz-toastmasters-club-meeting@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261102T113000Z
 DTEND:20261102T140000Z
 SUMMARY:DMZ Toastmasters: Monday Public Speaking Night (Houhai)
@@ -724,7 +394,7 @@ URL:https://szmeetups.com/events/dmz-toastmasters-club-meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:siafl-monday-night-football@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261102T124500Z
 DTEND:20261102T151500Z
 SUMMARY:SIAFL Monday Night Football League (Haibin Eco-Sports Park)
@@ -734,7 +404,7 @@ URL:https://szmeetups.com/events/siafl-monday-night-football
 END:VEVENT
 BEGIN:VEVENT
 UID:speak-and-bloom-shekou-tuesday-english-corner@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261103T020000Z
 DTEND:20261103T043000Z
 SUMMARY:Speak & Bloom Tuesday Morning English Corner — Shekou
@@ -744,7 +414,7 @@ URL:https://szmeetups.com/events/speak-and-bloom-shekou-tuesday-english-corner
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-toastmasters-club-weekly-meeting@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261103T111500Z
 DTEND:20261103T134500Z
 SUMMARY:Shenzhen Toastmasters Club: Tuesday Public Speaking Night
@@ -754,7 +424,7 @@ URL:https://szmeetups.com/events/shenzhen-toastmasters-club-weekly-meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:barfly-shekou-language-exchange@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261103T113000Z
 DTEND:20261103T140000Z
 SUMMARY:Shekou Language Exchange at Barfly (Tuesdays)
@@ -763,18 +433,8 @@ DESCRIPTION:An easy hour of English–Chinese conversation over a drink at Barfl
 URL:https://szmeetups.com/events/barfly-shekou-language-exchange
 END:VEVENT
 BEGIN:VEVENT
-UID:shekou-imagine-toastmasters-club-meeting@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261104T113000Z
-DTEND:20261104T140000Z
-SUMMARY:Shekou IMAGINE Toastmasters: Wednesday Public Speaking Night
-LOCATION:Shekou Television (SKTV)\, Merchants Building\, Shekou Television (SKTV)\, Merchants Building\, Shekou District
-DESCRIPTION:Toastmasters public-speaking club in Shekou\, Wednesday evenings 7:30–9:30 at Shekou Television on Gongyuan Road. Guests can visit for free. Details: https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting
-URL:https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting
-END:VEVENT
-BEGIN:VEVENT
 UID:latino-dance-wednesdays@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261104T113000Z
 DTEND:20261104T140000Z
 SUMMARY:Mi Casa Es Su Casa: Wednesday Latin Night at Revolucion
@@ -783,18 +443,18 @@ DESCRIPTION:Free midweek salsa and bachata night in a Cuban cocktail bar in Futi
 URL:https://szmeetups.com/events/latino-dance-wednesdays
 END:VEVENT
 BEGIN:VEVENT
-UID:longhua-cross-border-sellers-tea-salon@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261104T120000Z
+UID:shekou-imagine-toastmasters-club-meeting@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261104T113000Z
 DTEND:20261104T140000Z
-SUMMARY:Cross-border Sellers' Tea Salon — Longhua (Wednesdays)
-LOCATION:Huanzhi Center (One Mall\, Longhua)\, Huanzhi Center (One Mall\, Longhua)\, Longhua
-DESCRIPTION:Small weekly get-together for TikTok\, Amazon and independent-site sellers in Longhua: swap suppliers\, tactics and contacts over tea. Numbers are limited. Details: https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon
-URL:https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon
+SUMMARY:Shekou IMAGINE Toastmasters: Wednesday Public Speaking Night
+LOCATION:Shekou Television (SKTV)\, Merchants Building\, Shekou Television (SKTV)\, Merchants Building\, Shekou District
+DESCRIPTION:Toastmasters public-speaking club in Shekou\, Wednesday evenings 7:30–9:30 at Shekou Television on Gongyuan Road. Guests can visit for free. Details: https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting
+URL:https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:sea-world-series-trivia-night@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261104T120000Z
 DTEND:20261104T143000Z
 SUMMARY:Sea World Series Trivia Night (Wednesdays)
@@ -803,8 +463,18 @@ DESCRIPTION:Shekou's Wednesday trivia league\, alternating between George & Drag
 URL:https://szmeetups.com/events/sea-world-series-trivia-night
 END:VEVENT
 BEGIN:VEVENT
+UID:longhua-cross-border-sellers-tea-salon@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261104T120000Z
+DTEND:20261104T140000Z
+SUMMARY:Cross-border Sellers' Tea Salon — Longhua (Wednesdays)
+LOCATION:Huanzhi Center (One Mall\, Longhua)\, Huanzhi Center (One Mall\, Longhua)\, Longhua
+DESCRIPTION:Small weekly get-together for TikTok\, Amazon and independent-site sellers in Longhua: swap suppliers\, tactics and contacts over tea. Numbers are limited. Details: https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon
+URL:https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon
+END:VEVENT
+BEGIN:VEVENT
 UID:takeout-comedy-open-mic-wednesdays@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261104T130000Z
 DTEND:20261104T130000Z
 SUMMARY:TakeOut Comedy Open Mic (Wednesdays)
@@ -814,7 +484,7 @@ URL:https://szmeetups.com/events/takeout-comedy-open-mic-wednesdays
 END:VEVENT
 BEGIN:VEVENT
 UID:grok-bot-amazon-listing-workshop-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261105T060000Z
 DTEND:20261105T100000Z
 SUMMARY:Grok Bot for Amazon Listings — Shenzhen Workshop
@@ -824,7 +494,7 @@ URL:https://szmeetups.com/events/grok-bot-amazon-listing-workshop-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:double-d-chinese-corner-thursdays@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261105T113000Z
 DTEND:20261105T140000Z
 SUMMARY:Double D Chinese Corner (Thursdays\, Nanshan)
@@ -834,7 +504,7 @@ URL:https://szmeetups.com/events/double-d-chinese-corner-thursdays
 END:VEVENT
 BEGIN:VEVENT
 UID:craft-head-pub-quiz@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261105T113000Z
 DTEND:20261105T140000Z
 SUMMARY:Craft Head Pub Quiz (Thursdays)
@@ -844,7 +514,7 @@ URL:https://szmeetups.com/events/craft-head-pub-quiz
 END:VEVENT
 BEGIN:VEVENT
 UID:ship-toastmasters-club-meeting@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261105T113000Z
 DTEND:20261105T140000Z
 SUMMARY:SHIP Toastmasters: Thursday Public Speaking Night (Hi-Tech Park)
@@ -854,7 +524,7 @@ URL:https://szmeetups.com/events/ship-toastmasters-club-meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:men-i-trust-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261105T120000Z
 DTEND:20261105T120000Z
 SUMMARY:Men I Trust — Live in Shenzhen
@@ -864,7 +534,7 @@ URL:https://szmeetups.com/events/men-i-trust-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tiktok-shop-3c-seller-workshop-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261106T060000Z
 DTEND:20261106T090000Z
 SUMMARY:TikTok Shop 3C Seller Workshop — Shenzhen
@@ -874,7 +544,7 @@ URL:https://szmeetups.com/events/tiktok-shop-3c-seller-workshop-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:a-little-conversation-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261106T110000Z
 DTEND:20261106T110000Z
 SUMMARY:A Little Conversation (简单对话) — Live in Shenzhen
@@ -884,7 +554,7 @@ URL:https://szmeetups.com/events/a-little-conversation-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd-toastmasters-club-meeting@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261106T113000Z
 DTEND:20261106T140000Z
 SUMMARY:CBD Toastmasters: Friday Public Speaking Night (Futian)
@@ -894,7 +564,7 @@ URL:https://szmeetups.com/events/cbd-toastmasters-club-meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:double-d-bilingual-corner-fridays@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261106T113000Z
 DTEND:20261106T140000Z
 SUMMARY:Double D Bilingual Corner (Fridays\, Nanshan)
@@ -904,7 +574,7 @@ URL:https://szmeetups.com/events/double-d-bilingual-corner-fridays
 END:VEVENT
 BEGIN:VEVENT
 UID:the-flames-language-culture-exchange@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261106T120000Z
 DTEND:20261106T143000Z
 SUMMARY:Language & Culture Exchange at The Flames (Fridays\, Sea World)
@@ -913,8 +583,48 @@ DESCRIPTION:A Friday-night language and culture exchange in Sea World: board gam
 URL:https://szmeetups.com/events/the-flames-language-culture-exchange
 END:VEVENT
 BEGIN:VEVENT
+UID:shenzhen-striders-park-run@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261106T234500Z
+DTEND:20261107T021500Z
+SUMMARY:Shenzhen Striders Park Run (Saturdays\, Talent Park)
+LOCATION:Shenzhen Talent Park\, Shenzhen Talent Park\, Nanshan
+DESCRIPTION:Free\, volunteer-run timed 2.5 km or 5 km loop of Shenzhen Talent Park every Saturday morning. Warm-up at 7:45\, all paces welcome. Details: https://szmeetups.com/events/shenzhen-striders-park-run
+URL:https://szmeetups.com/events/shenzhen-striders-park-run
+END:VEVENT
+BEGIN:VEVENT
+UID:afrofit-sigma-coffee-saturdays@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261107T020000Z
+DTEND:20261107T033000Z
+SUMMARY:AFROFIT at Sigma Coffee
+LOCATION:SIGMA Coffee Park\, SIGMA Coffee Park\, Nanshan
+DESCRIPTION:A Saturday morning Afro dance-fitness class on Sigma Coffee's Xili rooftop. Details: https://szmeetups.com/events/afrofit-sigma-coffee-saturdays
+URL:https://szmeetups.com/events/afrofit-sigma-coffee-saturdays
+END:VEVENT
+BEGIN:VEVENT
+UID:shekou-hash-house-harriers-saturday-run@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261107T053000Z
+DTEND:20261107T080000Z
+SUMMARY:Shekou Hash House Harriers: Saturday Trail Run
+LOCATION:George & Dragon British Pub\, George & Dragon British Pub\, Shekou
+DESCRIPTION:Every Saturday a bus leaves George & Dragon in Sea World at 13:30 for a hilly trail run or walk\, then back to the pub for the circle. Just turn up. Details: https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run
+URL:https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run
+END:VEVENT
+BEGIN:VEVENT
+UID:joy-city-chinese-english-cantonese-corner@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261107T113000Z
+DTEND:20261107T140000Z
+SUMMARY:Chinese\, English & Cantonese Corner at Joy City (Saturdays)
+LOCATION:Venue TBC\, Venue TBC\, Shenzhen District
+DESCRIPTION:A Saturday-evening language corner for foreigners\, Hong Kongers and locals: Mandarin\, English and Cantonese. Details: https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner
+URL:https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner
+END:VEVENT
+BEGIN:VEVENT
 UID:feixing-guanjun-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261107T120000Z
 DTEND:20261107T120000Z
 SUMMARY:飞行冠军 «Surfacing» Album Tour — Shenzhen
@@ -924,7 +634,7 @@ URL:https://szmeetups.com/events/feixing-guanjun-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:indignu-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261107T120000Z
 DTEND:20261107T120000Z
 SUMMARY:Indignu — Live in Shenzhen
@@ -934,7 +644,7 @@ URL:https://szmeetups.com/events/indignu-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:grapes-not-angry-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261107T120000Z
 DTEND:20261107T120000Z
 SUMMARY:Grapes Not Angry (葡萄不愤怒) «Where She Wants to Go» Tour — Shenzhen
@@ -944,7 +654,7 @@ URL:https://szmeetups.com/events/grapes-not-angry-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:the-pains-of-being-pure-at-heart-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261107T120000Z
 DTEND:20261107T120000Z
 SUMMARY:The Pains of Being Pure at Heart — Live in Shenzhen
@@ -953,8 +663,18 @@ DESCRIPTION:New York noise-pop favourites with fuzzy guitars and sweet melodies\
 URL:https://szmeetups.com/events/the-pains-of-being-pure-at-heart-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:latin-passion-saturday-social@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261107T133000Z
+DTEND:20261107T160000Z
+SUMMARY:Passion Saturday: Latin Passion's Saturday Dance Party (Chegongmiao)
+LOCATION:Latin Passion Studio (Chegongmiao)\, Latin Passion Studio (Chegongmiao)\, Futian
+DESCRIPTION:Latin Passion's Saturday party in its Chegongmiao studio: a kizomba room and a bachata/salsa room from 9:30pm\, with a class before. Details: https://szmeetups.com/events/latin-passion-saturday-social
+URL:https://szmeetups.com/events/latin-passion-saturday-social
+END:VEVENT
+BEGIN:VEVENT
 UID:sleep-leaps-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261108T120000Z
 DTEND:20261108T120000Z
 SUMMARY:Sleep Leaps (碎梦飞跃) «Outside It's Summer» Tour — Shenzhen
@@ -964,7 +684,7 @@ URL:https://szmeetups.com/events/sleep-leaps-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:schnellertollermeier-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261111T123000Z
 DTEND:20261111T123000Z
 SUMMARY:Schnellertollermeier — Live in Shenzhen
@@ -974,7 +694,7 @@ URL:https://szmeetups.com/events/schnellertollermeier-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:gong-gong-gong-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261112T120000Z
 DTEND:20261112T120000Z
 SUMMARY:Gong Gong Gong (工工工) — «80 Minutes» Live in Shenzhen
@@ -984,7 +704,7 @@ URL:https://szmeetups.com/events/gong-gong-gong-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:the-seven-mile-journey-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261113T123000Z
 DTEND:20261113T123000Z
 SUMMARY:The Seven Mile Journey — Tour 2026\, Shenzhen
@@ -994,7 +714,7 @@ URL:https://szmeetups.com/events/the-seven-mile-journey-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:chaosland-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261115T120000Z
 DTEND:20261115T120000Z
 SUMMARY:Chaosland (潮池蓝) «Dream List» Tour — Shenzhen
@@ -1004,7 +724,7 @@ URL:https://szmeetups.com/events/chaosland-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tiktok-shop-managed-selling-roadshow-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261119T053000Z
 DTEND:20261119T090000Z
 SUMMARY:TikTok Shop Managed Selling Roadshow — Shenzhen
@@ -1014,7 +734,7 @@ URL:https://szmeetups.com/events/tiktok-shop-managed-selling-roadshow-shenzhen-2
 END:VEVENT
 BEGIN:VEVENT
 UID:lo-ta-yu-spring-dragon-shenzhen@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261120T113000Z
 DTEND:20261120T113000Z
 SUMMARY:Lo Ta-yu «Spring Dragon Symphony Night» — Shenzhen
@@ -1024,7 +744,7 @@ URL:https://szmeetups.com/events/lo-ta-yu-spring-dragon-shenzhen
 END:VEVENT
 BEGIN:VEVENT
 UID:shallowend-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261120T120000Z
 DTEND:20261120T120000Z
 SUMMARY:ShallowEnd (浅水) «Container» Album Tour — Shenzhen
@@ -1034,7 +754,7 @@ URL:https://szmeetups.com/events/shallowend-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:brickleberry-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261120T120000Z
 DTEND:20261120T120000Z
 SUMMARY:Brickleberry (脆莓) «Vibrant Life» Tour — Shenzhen
@@ -1044,7 +764,7 @@ URL:https://szmeetups.com/events/brickleberry-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:unprocessed-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261120T120000Z
 DTEND:20261120T120000Z
 SUMMARY:Unprocessed — Tour 2026\, Shenzhen
@@ -1054,7 +774,7 @@ URL:https://szmeetups.com/events/unprocessed-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dccc-julefrokost-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261121T100000Z
 DTEND:20261121T155500Z
 SUMMARY:Julefrokost 2026: Danish Christmas Party with Tombola\, Shenzhen
@@ -1064,7 +784,7 @@ URL:https://szmeetups.com/events/dccc-julefrokost-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:david-hugo-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261122T060000Z
 DTEND:20261122T060000Z
 SUMMARY:David Hugo — Live in Shenzhen
@@ -1074,7 +794,7 @@ URL:https://szmeetups.com/events/david-hugo-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:kings-of-convenience-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261122T120000Z
 DTEND:20261122T120000Z
 SUMMARY:Kings of Convenience — Live in Shenzhen
@@ -1084,7 +804,7 @@ URL:https://szmeetups.com/events/kings-of-convenience-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:brandtech-global-brand-innovation-summit-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261124T010000Z
 DTEND:20261124T093000Z
 SUMMARY:BrandTech 2026 Global Brand Innovation Summit — Shenzhen
@@ -1094,7 +814,7 @@ URL:https://szmeetups.com/events/brandtech-global-brand-innovation-summit-shenzh
 END:VEVENT
 BEGIN:VEVENT
 UID:cpse-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261125T013000Z
 DTEND:20261127T090000Z
 SUMMARY:CPSE Shenzhen 2026: Charging\, Battery Swap\, PV-Storage & Battery Technology Expo
@@ -1104,7 +824,7 @@ URL:https://szmeetups.com/events/cpse-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:black-country-new-road-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261125T123000Z
 DTEND:20261125T123000Z
 SUMMARY:Black Country\, New Road — Tour 2026\, Shenzhen
@@ -1114,7 +834,7 @@ URL:https://szmeetups.com/events/black-country-new-road-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:chtf-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261126T010000Z
 DTEND:20261128T090000Z
 SUMMARY:China Hi-Tech Fair 2026 (CHTF\, 28th)
@@ -1124,7 +844,7 @@ URL:https://szmeetups.com/events/chtf-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:teach-each-other-ai-meetup@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261126T013000Z
 DTEND:20261126T040000Z
 SUMMARY:Teach Each Other AI: Learn to Code with AI Meetup
@@ -1134,7 +854,7 @@ URL:https://szmeetups.com/events/teach-each-other-ai-meetup
 END:VEVENT
 BEGIN:VEVENT
 UID:site-tourism-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261127T010000Z
 DTEND:20261129T090000Z
 SUMMARY:SITE 2026: 11th Shenzhen International Tourism Expo
@@ -1144,7 +864,7 @@ URL:https://szmeetups.com/events/site-tourism-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tian-yuan-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261127T120000Z
 DTEND:20261127T120000Z
 SUMMARY:Tian Yuan @ Impossible Triangle «Mini Rainbow» — Live in Shenzhen
@@ -1153,18 +873,8 @@ DESCRIPTION:Singer\, actress and Hopscotch frontwoman Tian Yuan tours her new al
 URL:https://szmeetups.com/events/tian-yuan-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:ln-party-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261128T120000Z
-DTEND:20261128T120000Z
-SUMMARY:L.N.Party (昨夜派对) «For Us» Tour — Shenzhen
-LOCATION:HOU LIVE (KK ONE\, Xiasha)\, B1\, KK ONE mall\, 9289 Binhe Blvd\, Futian
-DESCRIPTION:Beijing indie band L.N.Party (昨夜派对) close their 2026 «For Us» tour run at HOU LIVE. Details: https://szmeetups.com/events/ln-party-shenzhen-2026
-URL:https://szmeetups.com/events/ln-party-shenzhen-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:demxntia-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261128T120000Z
 DTEND:20261128T120000Z
 SUMMARY:Demxntia — Tour 2026\, Shenzhen
@@ -1173,18 +883,18 @@ DESCRIPTION:Vietnamese-American singer-songwriter and producer from Tampa\, mixi
 URL:https://szmeetups.com/events/demxntia-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:itherm-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20261202T013000Z
-DTEND:20261204T090000Z
-SUMMARY:iTherM 2026: 7th Thermal Management Industry Conference & Exposition
-LOCATION:Shenzhen World Exhibition & Convention Center\, 1 Zhancheng Rd\, Fuhai\, Bao'an District
-DESCRIPTION:Thermal management conference and expo: thermal materials\, components\, data-centre liquid cooling\, EV/battery/energy-storage thermal solutions and test equipment. Details: https://szmeetups.com/events/itherm-2026
-URL:https://szmeetups.com/events/itherm-2026
+UID:ln-party-shenzhen-2026@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261128T120000Z
+DTEND:20261128T120000Z
+SUMMARY:L.N.Party (昨夜派对) «For Us» Tour — Shenzhen
+LOCATION:HOU LIVE (KK ONE\, Xiasha)\, B1\, KK ONE mall\, 9289 Binhe Blvd\, Futian
+DESCRIPTION:Beijing indie band L.N.Party (昨夜派对) close their 2026 «For Us» tour run at HOU LIVE. Details: https://szmeetups.com/events/ln-party-shenzhen-2026
+URL:https://szmeetups.com/events/ln-party-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cilf-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261202T013000Z
 DTEND:20261204T090000Z
 SUMMARY:CILF 2026: 20th China (Shenzhen) International Logistics & Supply Chain Fair
@@ -1194,7 +904,7 @@ URL:https://szmeetups.com/events/cilf-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:loupe-south-china-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261202T013000Z
 DTEND:20261204T073000Z
 SUMMARY:LOUPE South China 2026: Label & Package Printing
@@ -1203,8 +913,18 @@ DESCRIPTION:The rebranded Labelexpo South China: labels\, mid-web flexible packa
 URL:https://szmeetups.com/events/loupe-south-china-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:itherm-2026@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20261202T013000Z
+DTEND:20261204T090000Z
+SUMMARY:iTherM 2026: 7th Thermal Management Industry Conference & Exposition
+LOCATION:Shenzhen World Exhibition & Convention Center\, 1 Zhancheng Rd\, Fuhai\, Bao'an District
+DESCRIPTION:Thermal management conference and expo: thermal materials\, components\, data-centre liquid cooling\, EV/battery/energy-storage thermal solutions and test equipment. Details: https://szmeetups.com/events/itherm-2026
+URL:https://szmeetups.com/events/itherm-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:hkpca-show-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261202T020000Z
 DTEND:20261204T080000Z
 SUMMARY:HKPCA Show 2026: International Electronics Circuit Exhibition (Shenzhen)
@@ -1214,7 +934,7 @@ URL:https://szmeetups.com/events/hkpca-show-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dmp-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261203T013000Z
 DTEND:20261206T060000Z
 SUMMARY:DMP Greater Bay Area Industrial Expo 2026
@@ -1224,7 +944,7 @@ URL:https://szmeetups.com/events/dmp-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:weifang-gaizao-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261204T120000Z
 DTEND:20261204T120000Z
 SUMMARY:危房改造 «Incense» Tour — Shenzhen
@@ -1234,7 +954,7 @@ URL:https://szmeetups.com/events/weifang-gaizao-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:a-gongguan-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261205T120000Z
 DTEND:20261205T120000Z
 SUMMARY:A公馆 «Rock Triathlon» Tour — Shenzhen
@@ -1244,7 +964,7 @@ URL:https://szmeetups.com/events/a-gongguan-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-marathon-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261205T230000Z
 DTEND:20261206T053000Z
 SUMMARY:Shenzhen Marathon 2026
@@ -1254,7 +974,7 @@ URL:https://szmeetups.com/events/shenzhen-marathon-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cibe-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261206T013000Z
 DTEND:20261207T090000Z
 SUMMARY:CIBE Shenzhen 2026: 7th Shenzhen International Wellness & Beauty Industry Expo
@@ -1264,7 +984,7 @@ URL:https://szmeetups.com/events/cibe-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:cinie-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261208T013000Z
 DTEND:20261210T090000Z
 SUMMARY:CINIE 2026: Shenzhen International Nuclear Energy Industry Innovation Expo
@@ -1274,7 +994,7 @@ URL:https://szmeetups.com/events/cinie-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-medical-devices-expo-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261209T010000Z
 DTEND:20261211T070000Z
 SUMMARY:Shenzhen International Medical Devices Exhibition 2026
@@ -1284,7 +1004,7 @@ URL:https://szmeetups.com/events/shenzhen-medical-devices-expo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:sdhe-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261209T013000Z
 DTEND:20261211T090000Z
 SUMMARY:SDHE 2026: 5th Shenzhen International Dental High-Tech Expo
@@ -1294,7 +1014,7 @@ URL:https://szmeetups.com/events/sdhe-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:tiktok-shop-europe-workshop-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261211T060000Z
 DTEND:20261211T083000Z
 SUMMARY:TikTok Shop Europe Cross-border Workshop — Shenzhen
@@ -1304,7 +1024,7 @@ URL:https://szmeetups.com/events/tiktok-shop-europe-workshop-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:wakin-chau-shenzhen-concert-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261211T110000Z
 DTEND:20261211T110000Z
 SUMMARY:Wakin Chau (周华健) «A Boy's Fantastic Journey 3.0» Tour — Shenzhen
@@ -1314,7 +1034,7 @@ URL:https://szmeetups.com/events/wakin-chau-shenzhen-concert-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:jon-steingard-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261211T120000Z
 DTEND:20261211T120000Z
 SUMMARY:Jon Steingard — Live in Shenzhen
@@ -1324,7 +1044,7 @@ URL:https://szmeetups.com/events/jon-steingard-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:maker-faire-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261212T010000Z
 DTEND:20261213T090000Z
 SUMMARY:Maker Faire Shenzhen 2026
@@ -1334,7 +1054,7 @@ URL:https://szmeetups.com/events/maker-faire-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:rainie-yang-shenzhen-concert-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261212T113000Z
 DTEND:20261212T113000Z
 SUMMARY:Rainie Yang (杨丞琳) «The Elephant in the Room» World Tour — Shenzhen
@@ -1344,7 +1064,7 @@ URL:https://szmeetups.com/events/rainie-yang-shenzhen-concert-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:gdg-shenzhen-devfest-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261213T020000Z
 DTEND:20261213T090000Z
 SUMMARY:DevFest Shenzhen 2026: Greater Bay Developers\, Building What's Next
@@ -1354,7 +1074,7 @@ URL:https://szmeetups.com/events/gdg-shenzhen-devfest-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:buyi-band-shenzhen-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261213T120000Z
 DTEND:20261213T120000Z
 SUMMARY:Buyi (布衣) — «Clouds Rising» Tour\, Shenzhen
@@ -1364,7 +1084,7 @@ URL:https://szmeetups.com/events/buyi-band-shenzhen-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-tea-expo-autumn-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261217T013000Z
 DTEND:20261221T090000Z
 SUMMARY:China (Shenzhen) International Autumn Tea Industry Expo 2026
@@ -1374,7 +1094,7 @@ URL:https://szmeetups.com/events/shenzhen-tea-expo-autumn-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-agri-food-expo-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261224T013000Z
 DTEND:20261226T090000Z
 SUMMARY:15th Shenzhen Eco-Agriculture & Food Ingredients Expo 2026
@@ -1384,7 +1104,7 @@ URL:https://szmeetups.com/events/shenzhen-agri-food-expo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-jewellery-jade-expo-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261225T013000Z
 DTEND:20261228T090000Z
 SUMMARY:Shenzhen International Jewellery & Jade Expo (December) 2026
@@ -1394,7 +1114,7 @@ URL:https://szmeetups.com/events/shenzhen-jewellery-jade-expo-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-100-trail-race-2026@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20261225T120000Z
 DTEND:20261227T110000Z
 SUMMARY:Shenzhen 100 Trail Race 2026 (TORX China) — Dameisha
@@ -1404,7 +1124,7 @@ URL:https://szmeetups.com/events/shenzhen-100-trail-race-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-bachata-festival-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270122T120000Z
 DTEND:20270124T200000Z
 SUMMARY:Shenzhen Bachata Festival (SZBF) 2027
@@ -1414,7 +1134,7 @@ URL:https://szmeetups.com/events/shenzhen-bachata-festival-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:led-china-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270221T013000Z
 DTEND:20270223T090000Z
 SUMMARY:LED CHINA 2027 Shenzhen
@@ -1424,7 +1144,7 @@ URL:https://szmeetups.com/events/led-china-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-pet-fair-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270225T010000Z
 DTEND:20270228T090000Z
 SUMMARY:Shenzhen Pet Fair 2027 (17th China International Pet Supplies Exhibition)
@@ -1434,7 +1154,7 @@ URL:https://szmeetups.com/events/shenzhen-pet-fair-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:isle-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270303T013000Z
 DTEND:20270305T090000Z
 SUMMARY:ISLE 2027: International Smart Display & Integrated System Exhibition
@@ -1444,7 +1164,7 @@ URL:https://szmeetups.com/events/isle-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:szi-expo-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270305T010000Z
 DTEND:20270307T080000Z
 SUMMARY:SZI EXPO 2027: Shenzhen International Adult Expo
@@ -1454,7 +1174,7 @@ URL:https://szmeetups.com/events/szi-expo-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:sife-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270315T013000Z
 DTEND:20270317T090000Z
 SUMMARY:Shenzhen International Furniture Exhibition & Creative Week 2027 (SIFE)
@@ -1464,7 +1184,7 @@ URL:https://szmeetups.com/events/sife-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:ites-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270324T010000Z
 DTEND:20270327T070000Z
 SUMMARY:ITES Shenzhen 2027: Industrial Manufacturing Technology & Equipment Exhibition
@@ -1474,7 +1194,7 @@ URL:https://szmeetups.com/events/ites-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:siuf-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270325T010000Z
 DTEND:20270327T090000Z
 SUMMARY:SIUF 2027: China (Shenzhen) International Brand Underwear Fair (22nd)
@@ -1484,7 +1204,7 @@ URL:https://szmeetups.com/events/siuf-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:gifts-home-fair-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270425T010000Z
 DTEND:20270428T083000Z
 SUMMARY:35th China (Shenzhen) Int'l Gifts\, Handicrafts\, Watches & Houseware Fair (Spring) 2027
@@ -1494,7 +1214,7 @@ URL:https://szmeetups.com/events/gifts-home-fair-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:cime-shenzhen-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270616T010000Z
 DTEND:20270618T070000Z
 SUMMARY:CIME 2027 Shenzhen: Thermal Materials\, AI Computing & Data Center Liquid Cooling Expos
@@ -1504,7 +1224,7 @@ URL:https://szmeetups.com/events/cime-shenzhen-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-watch-week-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270625T013000Z
 DTEND:20270627T090000Z
 SUMMARY:China (Shenzhen) Watch Week & WINNOTIME 2027
@@ -1514,7 +1234,7 @@ URL:https://szmeetups.com/events/shenzhen-watch-week-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:ccbec-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270818T013000Z
 DTEND:20270820T083000Z
 SUMMARY:CCBEC 2027: China (Shenzhen) Cross-border E-commerce Fair
@@ -1524,7 +1244,7 @@ URL:https://szmeetups.com/events/ccbec-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:iote-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270825T010000Z
 DTEND:20270827T060000Z
 SUMMARY:IOTE 2027: 26th International Internet of Things Exhibition Shenzhen
@@ -1534,7 +1254,7 @@ URL:https://szmeetups.com/events/iote-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:formnext-asia-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270901T013000Z
 DTEND:20270903T090000Z
 SUMMARY:Formnext Asia Shenzhen 2027
@@ -1543,18 +1263,8 @@ DESCRIPTION:Additive manufacturing and 3D printing trade fair\; 330 exhibitors a
 URL:https://szmeetups.com/events/formnext-asia-2027
 END:VEVENT
 BEGIN:VEVENT
-UID:elexcon-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
-DTSTART:20270908T013000Z
-DTEND:20270910T090000Z
-SUMMARY:ELEXCON 2027: Shenzhen International Electronics Show
-LOCATION:Shenzhen World Exhibition & Convention Center\, 1 Zhancheng Rd\, Fuhai\, Bao'an District
-DESCRIPTION:Electronic components and embedded systems show: chips\, storage\, embedded/edge AI\, power semiconductors and automotive electronics. Details: https://szmeetups.com/events/elexcon-2027
-URL:https://szmeetups.com/events/elexcon-2027
-END:VEVENT
-BEGIN:VEVENT
 UID:cioe-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270908T013000Z
 DTEND:20270910T090000Z
 SUMMARY:CIOE 2027: 28th China Int'l Optoelectronic Expo
@@ -1563,8 +1273,18 @@ DESCRIPTION:Photonics and optoelectronics fair covering the whole industry chain
 URL:https://szmeetups.com/events/cioe-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:elexcon-2027@szmeetups-agent
+DTSTAMP:20261101T025215Z
+DTSTART:20270908T013000Z
+DTEND:20270910T090000Z
+SUMMARY:ELEXCON 2027: Shenzhen International Electronics Show
+LOCATION:Shenzhen World Exhibition & Convention Center\, 1 Zhancheng Rd\, Fuhai\, Bao'an District
+DESCRIPTION:Electronic components and embedded systems show: chips\, storage\, embedded/edge AI\, power semiconductors and automotive electronics. Details: https://szmeetups.com/events/elexcon-2027
+URL:https://szmeetups.com/events/elexcon-2027
+END:VEVENT
+BEGIN:VEVENT
 UID:iicie-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270908T013000Z
 DTEND:20270910T090000Z
 SUMMARY:IICIE 2027: International Integrated Circuit Innovation Expo
@@ -1574,7 +1294,7 @@ URL:https://szmeetups.com/events/iicie-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:shenzhen-seo-conference-2027@szmeetups-agent
-DTSTAMP:20261031T025157Z
+DTSTAMP:20261101T025215Z
 DTSTART:20270919T010000Z
 DTEND:20270924T100000Z
 SUMMARY:Shenzhen SEO Conference 2027
