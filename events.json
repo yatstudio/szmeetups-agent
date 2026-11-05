@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T10:52:00+08:00",
+ "updated_at": "2026-11-05T10:51:54+08:00",
  "source_site": "https://szmeetups.com",
  "city": "深圳",
  "events": [
@@ -468,35 +468,6 @@
    "summary_zh": "Maurizio Cattelan 与 Pierpaolo Ferrari 糖果色、超现实的影像世界，首次在中国展出。"
   },
   {
-   "id": "prehistoric-planet-dinosaurs-immersive-shenzhen",
-   "title": "Prehistoric Planet: Dinosaurs — Immersive Experience, Shenzhen",
-   "title_zh": null,
-   "start": "2026-10-01T10:00:00+08:00",
-   "end": "2027-05-30T22:00:00+08:00",
-   "venue": "BASE Digital Art Center",
-   "address": "BASE Digital Art Center, Nanshan District",
-   "area": "Nanshan",
-   "district": "南山区",
-   "categories": [
-    "Around Town",
-    "Exhibition"
-   ],
-   "schema_type": "ExhibitionEvent",
-   "fee": null,
-   "languages": [],
-   "organizer": "BASE Digital Art Center",
-   "summary": "An hour among life-size dinosaurs from the Apple TV+ and BBC series, projected floor to ceiling at the new BASE Digital Art Center, with English sessions.",
-   "image": "https://szmeetups.com/img/fallback/around-exhibition.jpg",
-   "url": "https://szmeetups.com/events/prehistoric-planet-dinosaurs-immersive-shenzhen",
-   "calendar_url": "https://szmeetups.com/events/prehistoric-planet-dinosaurs-immersive-shenzhen/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-10-01T10:00:00+08:00"
-   ],
-   "summary_zh": "在全新的 BASE 数字艺术中心，与 Apple TV+ 和 BBC 剧集中的等身大恐龙共处一小时，影像从地板投射到天花板，设有英文场次。"
-  },
-  {
    "id": "prix-pictet-storm-fotografiska-shenzhen",
    "title": "Prix Pictet: Storm",
    "title_zh": null,
@@ -524,6 +495,35 @@
     "2026-10-01T10:00:00+08:00"
    ],
    "summary_zh": "全球重要的摄影与可持续发展大奖 Prix Pictet 的 12 组入围系列，在 Fotografiska 深圳开馆季展出。"
+  },
+  {
+   "id": "prehistoric-planet-dinosaurs-immersive-shenzhen",
+   "title": "Prehistoric Planet: Dinosaurs — Immersive Experience, Shenzhen",
+   "title_zh": null,
+   "start": "2026-10-01T10:00:00+08:00",
+   "end": "2027-05-30T22:00:00+08:00",
+   "venue": "BASE Digital Art Center",
+   "address": "BASE Digital Art Center, Nanshan District",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Around Town",
+    "Exhibition"
+   ],
+   "schema_type": "ExhibitionEvent",
+   "fee": null,
+   "languages": [],
+   "organizer": "BASE Digital Art Center",
+   "summary": "An hour among life-size dinosaurs from the Apple TV+ and BBC series, projected floor to ceiling at the new BASE Digital Art Center, with English sessions.",
+   "image": "https://szmeetups.com/img/fallback/around-exhibition.jpg",
+   "url": "https://szmeetups.com/events/prehistoric-planet-dinosaurs-immersive-shenzhen",
+   "calendar_url": "https://szmeetups.com/events/prehistoric-planet-dinosaurs-immersive-shenzhen/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-10-01T10:00:00+08:00"
+   ],
+   "summary_zh": "在全新的 BASE 数字艺术中心，与 Apple TV+ 和 BBC 剧集中的等身大恐龙共处一小时，影像从地板投射到天花板，设有英文场次。"
   },
   {
    "id": "splendid-china-sleepless-nights-halloween-2026",
@@ -584,307 +584,6 @@
    "summary_zh": "免费展览，梳理张伯驹与潘素的收藏、书法与绘画，以及他们与何香凝的交往。"
   },
   {
-   "id": "english-corner-longhua-baishilong",
-   "title": "English Corner Longhua at The Crazy Coconut Bar (Baishilong)",
-   "title_zh": null,
-   "start": "2026-11-04T19:00:00+08:00",
-   "end": "2026-11-04T21:30:00+08:00",
-   "venue": "The Crazy Coconut Bar",
-   "address": "The Crazy Coconut Bar, Longhua",
-   "area": "Longhua",
-   "district": "龙华区",
-   "categories": [
-    "Meetups",
-    "Language Exchange"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "¥35",
-   "languages": [
-    "english",
-    "zh"
-   ],
-   "organizer": "The Crazy Coconut Bar",
-   "summary": "A relaxed English corner at a small Western bar above Baishilong metro, three nights a week: chat, games and music, open to every language and nationality.",
-   "image": "https://szmeetups.com/r2/m/39/392c295471ba6a65271593e4635b648d613a60f462cb1ad79cc8fc2eb433c95d/w1600.webp",
-   "url": "https://szmeetups.com/events/english-corner-longhua-baishilong",
-   "calendar_url": "https://szmeetups.com/events/english-corner-longhua-baishilong/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 26,
-   "next_occurrences": [
-    "2026-11-04T19:00:00+08:00",
-    "2026-11-06T19:00:00+08:00",
-    "2026-11-08T19:00:00+08:00",
-    "2026-11-11T19:00:00+08:00",
-    "2026-11-13T19:00:00+08:00",
-    "2026-11-15T19:00:00+08:00",
-    "2026-11-18T19:00:00+08:00",
-    "2026-11-20T19:00:00+08:00"
-   ],
-   "summary_zh": "轻松的英语角，在白石龙地铁站上方的一家小西式酒吧，每周三晚：聊天、游戏和音乐，欢迎所有语言和国籍的人。"
-  },
-  {
-   "id": "liberty-english-dinner-party-english-corner",
-   "title": "Liberty English Dinner Party: English Corner (Wednesdays & Sundays)",
-   "title_zh": null,
-   "start": "2026-11-04T19:00:00+08:00",
-   "end": "2026-11-04T21:30:00+08:00",
-   "venue": "Venue TBC",
-   "address": "Venue TBC, Shenzhen District",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Meetups",
-    "Language Exchange"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": null,
-   "languages": [
-    "english"
-   ],
-   "organizer": "Liberty English (KICK IT)",
-   "summary": "English conversation over dinner, hosted by a native speaker: a new topic each week, all levels, mostly Chinese learners plus a few internationals.",
-   "image": "https://szmeetups.com/r2/m/b2/b2f0fbac9da11aa8b2bb3975dff4b363c33f9eaa8ea397363306ee5974ebc2b3/orig.jpg",
-   "url": "https://szmeetups.com/events/liberty-english-dinner-party-english-corner",
-   "calendar_url": "https://szmeetups.com/events/liberty-english-dinner-party-english-corner/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 17,
-   "next_occurrences": [
-    "2026-11-04T19:00:00+08:00",
-    "2026-11-08T19:00:00+08:00",
-    "2026-11-11T19:00:00+08:00",
-    "2026-11-15T19:00:00+08:00",
-    "2026-11-18T19:00:00+08:00",
-    "2026-11-22T19:00:00+08:00",
-    "2026-11-25T19:00:00+08:00",
-    "2026-11-29T19:00:00+08:00"
-   ],
-   "summary_zh": "晚餐桌上的英语对话，由母语者主持：每周一个新话题，适合所有水平，参与者以中国学习者为主，也有几位国际朋友。"
-  },
-  {
-   "id": "shekou-imagine-toastmasters-club-meeting",
-   "title": "Shekou IMAGINE Toastmasters: Wednesday Public Speaking Night",
-   "title_zh": null,
-   "start": "2026-11-04T19:30:00+08:00",
-   "end": "2026-11-04T22:00:00+08:00",
-   "venue": "Shekou Television (SKTV), Merchants Building",
-   "address": "Shekou Television (SKTV), Merchants Building, Shekou District",
-   "area": "Shekou",
-   "district": "南山区",
-   "categories": [
-    "Meetups",
-    "Business"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "Shekou IMAGINE Toastmasters Club",
-   "summary": "Toastmasters public-speaking club in Shekou, Wednesday evenings 7:30–9:30 at Shekou Television on Gongyuan Road. Guests can visit for free.",
-   "image": "https://szmeetups.com/img/fallback/meetup-business.jpg",
-   "url": "https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting",
-   "calendar_url": "https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-04T19:30:00+08:00",
-    "2026-11-11T19:30:00+08:00",
-    "2026-11-18T19:30:00+08:00",
-    "2026-11-25T19:30:00+08:00",
-    "2026-12-02T19:30:00+08:00",
-    "2026-12-09T19:30:00+08:00",
-    "2026-12-16T19:30:00+08:00",
-    "2026-12-23T19:30:00+08:00"
-   ],
-   "summary_zh": "蛇口的 Toastmasters 公众演讲俱乐部，周三晚 19:30–21:30 在公园路的蛇口电视台。嘉宾可免费参观。"
-  },
-  {
-   "id": "latino-dance-wednesdays",
-   "title": "Mi Casa Es Su Casa: Wednesday Latin Night at Revolucion",
-   "title_zh": null,
-   "start": "2026-11-04T19:30:00+08:00",
-   "end": "2026-11-04T22:00:00+08:00",
-   "venue": "Revolucion Cocktail",
-   "address": "Revolucion Cocktail, Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Meetups",
-    "Dance"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "Free",
-   "languages": [
-    "en",
-    "zh",
-    "es"
-   ],
-   "organizer": "Revolucion Cocktail",
-   "summary": "Free midweek salsa and bachata night in a Cuban cocktail bar in Futian, with a free beginners' bachata lesson.",
-   "image": "https://szmeetups.com/r2/m/89/896fb9b157a5561a992d4fe42a17a9769f86d630523774dbb4006100cd7297f4/orig.jpg",
-   "url": "https://szmeetups.com/events/latino-dance-wednesdays",
-   "calendar_url": "https://szmeetups.com/events/latino-dance-wednesdays/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-04T19:30:00+08:00",
-    "2026-11-11T19:30:00+08:00",
-    "2026-11-18T19:30:00+08:00",
-    "2026-11-25T19:30:00+08:00",
-    "2026-12-02T19:30:00+08:00",
-    "2026-12-09T19:30:00+08:00",
-    "2026-12-16T19:30:00+08:00",
-    "2026-12-23T19:30:00+08:00"
-   ],
-   "summary_zh": "福田一家古巴鸡尾酒吧的免费周中 salsa 与 bachata 之夜，含一节免费的 bachata 新手课。"
-  },
-  {
-   "id": "sea-world-series-trivia-night",
-   "title": "Sea World Series Trivia Night (Wednesdays)",
-   "title_zh": null,
-   "start": "2026-11-04T20:00:00+08:00",
-   "end": "2026-11-04T22:30:00+08:00",
-   "venue": "George & Dragon British Pub",
-   "address": "George & Dragon British Pub, Shekou",
-   "area": "Shekou",
-   "district": "南山区",
-   "categories": [
-    "Meetups",
-    "Pub Quiz"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "Free",
-   "languages": [
-    "en"
-   ],
-   "organizer": "Sea World Series Trivia",
-   "summary": "Shekou's Wednesday trivia league, alternating between George & Dragon and Gecko. No entry fee, teams of up to six.",
-   "image": "https://szmeetups.com/r2/m/c3/c311bb1feae25a9d66387d72c5805a08e7458f5f8b039f27e6a412dfb9ef6dc3/orig.jpg",
-   "url": "https://szmeetups.com/events/sea-world-series-trivia-night",
-   "calendar_url": "https://szmeetups.com/events/sea-world-series-trivia-night/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-04T20:00:00+08:00",
-    "2026-11-11T20:00:00+08:00",
-    "2026-11-18T20:00:00+08:00",
-    "2026-11-25T20:00:00+08:00",
-    "2026-12-02T20:00:00+08:00",
-    "2026-12-09T20:00:00+08:00",
-    "2026-12-16T20:00:00+08:00",
-    "2026-12-23T20:00:00+08:00"
-   ],
-   "summary_zh": "蛇口的周三 trivia 联赛，在 George & Dragon 与 Gecko 之间轮替。免费参加，每队最多六人。"
-  },
-  {
-   "id": "longhua-cross-border-sellers-tea-salon",
-   "title": "Cross-border Sellers' Tea Salon — Longhua (Wednesdays)",
-   "title_zh": null,
-   "start": "2026-11-04T20:00:00+08:00",
-   "end": "2026-11-04T22:00:00+08:00",
-   "venue": "Huanzhi Center (One Mall, Longhua)",
-   "address": "Huanzhi Center (One Mall, Longhua), Longhua",
-   "area": "Longhua",
-   "district": "龙华区",
-   "categories": [
-    "Meetups",
-    "Business"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "¥398",
-   "languages": [
-    "zh"
-   ],
-   "organizer": "Xiaoguai Cross-border Salon",
-   "summary": "Small weekly get-together for TikTok, Amazon and independent-site sellers in Longhua: swap suppliers, tactics and contacts over tea. Numbers are limited.",
-   "image": "https://szmeetups.com/r2/m/e8/e843ca8325979b60d8c00a7540a569dc3df57a5148c47c243ed97cb45e65ae70/orig.jpg",
-   "url": "https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon",
-   "calendar_url": "https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-04T20:00:00+08:00",
-    "2026-11-11T20:00:00+08:00",
-    "2026-11-18T20:00:00+08:00",
-    "2026-11-25T20:00:00+08:00",
-    "2026-12-02T20:00:00+08:00",
-    "2026-12-09T20:00:00+08:00",
-    "2026-12-16T20:00:00+08:00",
-    "2026-12-23T20:00:00+08:00"
-   ],
-   "summary_zh": "龙华的 TikTok、亚马逊和独立站卖家每周小聚：边喝茶边交换供应商、打法和人脉。名额有限。"
-  },
-  {
-   "id": "takeout-comedy-open-mic-wednesdays",
-   "title": "TakeOut Comedy Open Mic (Wednesdays)",
-   "title_zh": null,
-   "start": "2026-11-04T21:00:00+08:00",
-   "end": "2026-11-04T21:00:00+08:00",
-   "venue": "The Flames",
-   "address": "The Flames",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Comedy"
-   ],
-   "schema_type": "ComedyEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "TakeOut Comedy",
-   "summary": "Free English stand-up open mic in Sea World on Wednesdays: sign up with the host to do five minutes, or just come and watch.",
-   "image": "https://szmeetups.com/r2/m/1e/1e706cac57518a51eb8ca4ad28291977a7be77c220d85b4c0fd13df4785370cd/orig.jpg",
-   "url": "https://szmeetups.com/events/takeout-comedy-open-mic-wednesdays",
-   "calendar_url": "https://szmeetups.com/events/takeout-comedy-open-mic-wednesdays/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 9,
-   "next_occurrences": [
-    "2026-11-04T21:00:00+08:00",
-    "2026-11-11T21:00:00+08:00",
-    "2026-11-18T21:00:00+08:00",
-    "2026-11-25T21:00:00+08:00",
-    "2026-12-02T21:00:00+08:00",
-    "2026-12-09T21:00:00+08:00",
-    "2026-12-16T21:00:00+08:00",
-    "2026-12-23T21:00:00+08:00"
-   ],
-   "summary_zh": "海上世界周三的免费英文脱口秀开放麦：向主持人报名可讲五分钟，也可以只来观看。"
-  },
-  {
-   "id": "live-band-nights-the-terrace-shekou",
-   "title": "Live Band Every Night at The Terrace, Sea World",
-   "title_zh": null,
-   "start": "2026-11-04T21:30:00+08:00",
-   "end": "2026-11-04T21:30:00+08:00",
-   "venue": "The Terrace",
-   "address": "The Terrace",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Nightlife"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "The Terrace",
-   "summary": "The Terrace's house band T.A.S. plays covers every night from 9:30pm in Sea World, followed by DJ sets.",
-   "image": "https://szmeetups.com/r2/m/66/6643086f72c8fffbd9393dd6729362cffffb7ad201faa32910443b7e24e1f238/orig.jpg",
-   "url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou",
-   "calendar_url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 52,
-   "next_occurrences": [
-    "2026-11-04T21:30:00+08:00",
-    "2026-11-05T21:30:00+08:00",
-    "2026-11-06T21:30:00+08:00",
-    "2026-11-07T21:30:00+08:00",
-    "2026-11-08T21:30:00+08:00",
-    "2026-11-09T21:30:00+08:00",
-    "2026-11-10T21:30:00+08:00",
-    "2026-11-11T21:30:00+08:00"
-   ],
-   "summary_zh": "The Terrace 的驻场乐队 T.A.S. 每晚 9:30 起在海上世界演绎翻唱歌曲，之后是 DJ 时段。"
-  },
-  {
    "id": "grok-bot-amazon-listing-workshop-shenzhen-2026",
    "title": "Grok Bot for Amazon Listings — Shenzhen Workshop",
    "title_zh": null,
@@ -914,6 +613,44 @@
     "2026-11-05T14:00:00+08:00"
    ],
    "summary_zh": "一场中文实操卖家沙龙，用 Grok Bot 从竞品调研一路做到 listing 创建与发布。"
+  },
+  {
+   "id": "craft-head-pub-quiz",
+   "title": "Craft Head Pub Quiz (Thursdays)",
+   "title_zh": null,
+   "start": "2026-11-05T19:30:00+08:00",
+   "end": "2026-11-05T22:00:00+08:00",
+   "venue": "Craft Head Brewing Co.",
+   "address": "Craft Head Brewing Co., Futian",
+   "area": "Futian",
+   "district": "福田区",
+   "categories": [
+    "Meetups",
+    "Pub Quiz"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [
+    "en"
+   ],
+   "organizer": "Craft Head Brewing Co.",
+   "summary": "Thursday pub quiz at a Futian craft-beer bar: general knowledge, film, music and sport, with a free pint for each round's winners.",
+   "image": "https://szmeetups.com/r2/m/7c/7ce5513705ed54c6c7efefc91439daeaa1f83a7ab095b4d90836edc6dc2ec81f/orig.jpg",
+   "url": "https://szmeetups.com/events/craft-head-pub-quiz",
+   "calendar_url": "https://szmeetups.com/events/craft-head-pub-quiz/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 8,
+   "next_occurrences": [
+    "2026-11-05T19:30:00+08:00",
+    "2026-11-12T19:30:00+08:00",
+    "2026-11-19T19:30:00+08:00",
+    "2026-11-26T19:30:00+08:00",
+    "2026-12-03T19:30:00+08:00",
+    "2026-12-10T19:30:00+08:00",
+    "2026-12-17T19:30:00+08:00",
+    "2026-12-24T19:30:00+08:00"
+   ],
+   "summary_zh": "福田一家精酿啤酒吧的周四酒吧问答：常识、电影、音乐与体育，每轮获胜者可得一杯免费啤酒（一品脱）。"
   },
   {
    "id": "double-d-chinese-corner-thursdays",
@@ -955,44 +692,6 @@
    "summary_zh": "每周的普通话会话活动，在南山科技园附近的鲜山新中式茶馆。"
   },
   {
-   "id": "craft-head-pub-quiz",
-   "title": "Craft Head Pub Quiz (Thursdays)",
-   "title_zh": null,
-   "start": "2026-11-05T19:30:00+08:00",
-   "end": "2026-11-05T22:00:00+08:00",
-   "venue": "Craft Head Brewing Co.",
-   "address": "Craft Head Brewing Co., Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Meetups",
-    "Pub Quiz"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": null,
-   "languages": [
-    "en"
-   ],
-   "organizer": "Craft Head Brewing Co.",
-   "summary": "Thursday pub quiz at a Futian craft-beer bar: general knowledge, film, music and sport, with a free pint for each round's winners.",
-   "image": "https://szmeetups.com/r2/m/7c/7ce5513705ed54c6c7efefc91439daeaa1f83a7ab095b4d90836edc6dc2ec81f/orig.jpg",
-   "url": "https://szmeetups.com/events/craft-head-pub-quiz",
-   "calendar_url": "https://szmeetups.com/events/craft-head-pub-quiz/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-05T19:30:00+08:00",
-    "2026-11-12T19:30:00+08:00",
-    "2026-11-19T19:30:00+08:00",
-    "2026-11-26T19:30:00+08:00",
-    "2026-12-03T19:30:00+08:00",
-    "2026-12-10T19:30:00+08:00",
-    "2026-12-17T19:30:00+08:00",
-    "2026-12-24T19:30:00+08:00"
-   ],
-   "summary_zh": "福田一家精酿啤酒吧的周四酒吧问答：常识、电影、音乐与体育，每轮获胜者可得一杯免费啤酒（一品脱）。"
-  },
-  {
    "id": "ship-toastmasters-club-meeting",
    "title": "SHIP Toastmasters: Thursday Public Speaking Night (Hi-Tech Park)",
    "title_zh": null,
@@ -1029,6 +728,42 @@
    "summary_zh": "历史悠久的 Toastmasters 俱乐部，位于南山高科技园，周四 19:30–21:30。嘉宾可免费参观。"
   },
   {
+   "id": "open-stage-open-mic-at-no-vacancy",
+   "title": "Kiremico Open Mic",
+   "title_zh": null,
+   "start": "2026-11-05T20:00:00+08:00",
+   "end": "2026-11-05T20:00:00+08:00",
+   "venue": "No Vacancy Bar",
+   "address": "No Vacancy Bar",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Open Mic"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Kiremico",
+   "summary": "Weekly open mic from the Kiremico music community — instruments provided, every set recorded. All levels, every Thursday.",
+   "image": "https://szmeetups.com/r2/m/48/4897e55762ea11afc49dcdd6eff106e1ec4255c97aa3d14e0729b31f43baac91/orig.jpg",
+   "url": "https://szmeetups.com/events/open-stage-open-mic-at-no-vacancy",
+   "calendar_url": "https://szmeetups.com/events/open-stage-open-mic-at-no-vacancy/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 13,
+   "next_occurrences": [
+    "2026-11-05T20:00:00+08:00",
+    "2026-11-12T20:00:00+08:00",
+    "2026-11-19T20:00:00+08:00",
+    "2026-11-26T20:00:00+08:00",
+    "2026-12-03T20:00:00+08:00",
+    "2026-12-10T20:00:00+08:00",
+    "2026-12-17T20:00:00+08:00",
+    "2026-12-24T20:00:00+08:00"
+   ],
+   "summary_zh": "Kiremico 音乐社群每周举办的开放麦——提供乐器，每场演出都会录制。面向所有水平，每周四举行。"
+  },
+  {
    "id": "men-i-trust-shenzhen-2026",
    "title": "Men I Trust — Live in Shenzhen",
    "title_zh": "Men I Trust（我信任的人）2026演出-深圳站",
@@ -1056,6 +791,42 @@
     "2026-11-05T20:00:00+08:00"
    ],
    "summary_zh": "魁北克梦幻独立流行三人组：轻柔人声、温暖贝斯、轻松摇摆。"
+  },
+  {
+   "id": "live-band-nights-the-terrace-shekou",
+   "title": "Live Band Every Night at The Terrace, Sea World",
+   "title_zh": null,
+   "start": "2026-11-05T21:30:00+08:00",
+   "end": "2026-11-05T21:30:00+08:00",
+   "venue": "The Terrace",
+   "address": "The Terrace",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Nightlife"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "The Terrace",
+   "summary": "The Terrace's house band T.A.S. plays covers every night from 9:30pm in Sea World, followed by DJ sets.",
+   "image": "https://szmeetups.com/r2/m/66/6643086f72c8fffbd9393dd6729362cffffb7ad201faa32910443b7e24e1f238/orig.jpg",
+   "url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou",
+   "calendar_url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 51,
+   "next_occurrences": [
+    "2026-11-05T21:30:00+08:00",
+    "2026-11-06T21:30:00+08:00",
+    "2026-11-07T21:30:00+08:00",
+    "2026-11-08T21:30:00+08:00",
+    "2026-11-09T21:30:00+08:00",
+    "2026-11-10T21:30:00+08:00",
+    "2026-11-11T21:30:00+08:00",
+    "2026-11-12T21:30:00+08:00"
+   ],
+   "summary_zh": "The Terrace 的驻场乐队 T.A.S. 每晚 9:30 起在海上世界演绎翻唱歌曲，之后是 DJ 时段。"
   },
   {
    "id": "tiktok-shop-3c-seller-workshop-shenzhen-2026",
@@ -1089,6 +860,45 @@
    "summary_zh": "一场免费的中文卖家课程，主题包括 GMV Max、黑五 3C 活动、AI 运营和美国直播带货。"
   },
   {
+   "id": "english-corner-longhua-baishilong",
+   "title": "English Corner Longhua at The Crazy Coconut Bar (Baishilong)",
+   "title_zh": null,
+   "start": "2026-11-06T19:00:00+08:00",
+   "end": "2026-11-06T21:30:00+08:00",
+   "venue": "The Crazy Coconut Bar",
+   "address": "The Crazy Coconut Bar, Longhua",
+   "area": "Longhua",
+   "district": "龙华区",
+   "categories": [
+    "Meetups",
+    "Language Exchange"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "¥35",
+   "languages": [
+    "english",
+    "zh"
+   ],
+   "organizer": "The Crazy Coconut Bar",
+   "summary": "A relaxed English corner at a small Western bar above Baishilong metro, three nights a week: chat, games and music, open to every language and nationality.",
+   "image": "https://szmeetups.com/r2/m/39/392c295471ba6a65271593e4635b648d613a60f462cb1ad79cc8fc2eb433c95d/w1600.webp",
+   "url": "https://szmeetups.com/events/english-corner-longhua-baishilong",
+   "calendar_url": "https://szmeetups.com/events/english-corner-longhua-baishilong/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 25,
+   "next_occurrences": [
+    "2026-11-06T19:00:00+08:00",
+    "2026-11-08T19:00:00+08:00",
+    "2026-11-11T19:00:00+08:00",
+    "2026-11-13T19:00:00+08:00",
+    "2026-11-15T19:00:00+08:00",
+    "2026-11-18T19:00:00+08:00",
+    "2026-11-20T19:00:00+08:00",
+    "2026-11-22T19:00:00+08:00"
+   ],
+   "summary_zh": "轻松的英语角，在白石龙地铁站上方的一家小西式酒吧，每周三晚：聊天、游戏和音乐，欢迎所有语言和国籍的人。"
+  },
+  {
    "id": "a-little-conversation-shenzhen-2026",
    "title": "A Little Conversation (简单对话) — Live in Shenzhen",
    "title_zh": "只是一场简单对话—深圳站",
@@ -1116,6 +926,42 @@
     "2026-11-06T19:00:00+08:00"
    ],
    "summary_zh": "成都流行摇滚二人组简单对话（A Little Conversation）在其 2026 巡演中于 HOU LIVE 演出。"
+  },
+  {
+   "id": "cbd-toastmasters-club-meeting",
+   "title": "CBD Toastmasters: Friday Public Speaking Night (Futian)",
+   "title_zh": null,
+   "start": "2026-11-06T19:30:00+08:00",
+   "end": "2026-11-06T22:00:00+08:00",
+   "venue": "Shenmao Commercial Center",
+   "address": "Shenmao Commercial Center, Futian",
+   "area": "Futian",
+   "district": "福田区",
+   "categories": [
+    "Meetups",
+    "Business"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "CBD Toastmasters Club",
+   "summary": "Friday-evening Toastmasters club in central Futian, from 7:30pm. Open to all; free guest visits.",
+   "image": "https://szmeetups.com/img/fallback/meetup-business.jpg",
+   "url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting",
+   "calendar_url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 8,
+   "next_occurrences": [
+    "2026-11-06T19:30:00+08:00",
+    "2026-11-13T19:30:00+08:00",
+    "2026-11-20T19:30:00+08:00",
+    "2026-11-27T19:30:00+08:00",
+    "2026-12-04T19:30:00+08:00",
+    "2026-12-11T19:30:00+08:00",
+    "2026-12-18T19:30:00+08:00",
+    "2026-12-25T19:30:00+08:00"
+   ],
+   "summary_zh": "周五晚间的 Toastmasters 俱乐部，在福田市中心，19:30 开始。欢迎所有人，嘉宾可免费参观。"
   },
   {
    "id": "double-d-bilingual-corner-fridays",
@@ -1155,42 +1001,6 @@
     "2026-12-25T19:30:00+08:00"
    ],
    "summary_zh": "轻松的周五中英双语交流，面向本地与国际参与者。"
-  },
-  {
-   "id": "cbd-toastmasters-club-meeting",
-   "title": "CBD Toastmasters: Friday Public Speaking Night (Futian)",
-   "title_zh": null,
-   "start": "2026-11-06T19:30:00+08:00",
-   "end": "2026-11-06T22:00:00+08:00",
-   "venue": "Shenmao Commercial Center",
-   "address": "Shenmao Commercial Center, Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Meetups",
-    "Business"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "CBD Toastmasters Club",
-   "summary": "Friday-evening Toastmasters club in central Futian, from 7:30pm. Open to all; free guest visits.",
-   "image": "https://szmeetups.com/img/fallback/meetup-business.jpg",
-   "url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting",
-   "calendar_url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-06T19:30:00+08:00",
-    "2026-11-13T19:30:00+08:00",
-    "2026-11-20T19:30:00+08:00",
-    "2026-11-27T19:30:00+08:00",
-    "2026-12-04T19:30:00+08:00",
-    "2026-12-11T19:30:00+08:00",
-    "2026-12-18T19:30:00+08:00",
-    "2026-12-25T19:30:00+08:00"
-   ],
-   "summary_zh": "周五晚间的 Toastmasters 俱乐部，在福田市中心，19:30 开始。欢迎所有人，嘉宾可免费参观。"
   },
   {
    "id": "the-flames-language-culture-exchange",
@@ -1453,35 +1263,6 @@
    "summary_zh": "洛阳摇滚乐队飞行冠军携新专辑《浮出水面》巡演，在 CH8 演出。"
   },
   {
-   "id": "indignu-shenzhen-2026",
-   "title": "Indignu — Live in Shenzhen",
-   "title_zh": "葡萄牙提琴后摇 indignu 深圳站",
-   "start": "2026-11-07T20:00:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "HOU LIVE (KK ONE, Xiasha)",
-   "address": "B1, KK ONE mall, 9289 Binhe Blvd, Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Shows & Nightlife",
-    "Indie"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥178",
-   "languages": [],
-   "organizer": "IN-LIT",
-   "summary": "Portuguese post-rock with violin: slow-building instrumental pieces.",
-   "image": "https://szmeetups.com/r2/m/c8/c8da59866a5e976e984daae838b38abb6183dd77d77b96144219a2f5ccc92fa9/orig.jpg",
-   "url": "https://szmeetups.com/events/indignu-shenzhen-2026",
-   "calendar_url": "https://szmeetups.com/events/indignu-shenzhen-2026/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-11-07T20:00:00+08:00"
-   ],
-   "summary_zh": "葡萄牙后摇，配小提琴：缓慢推进的器乐作品。"
-  },
-  {
    "id": "grapes-not-angry-shenzhen-2026",
    "title": "Grapes Not Angry (葡萄不愤怒) «Where She Wants to Go» Tour — Shenzhen",
    "title_zh": "「她想去的地方」葡萄不愤怒2026巡演 深圳站",
@@ -1509,6 +1290,35 @@
     "2026-11-07T20:00:00+08:00"
    ],
    "summary_zh": "北京流行朋克乐队葡萄不愤怒，成立于 2013 年，将其 2026 巡演带到 MAO 海上世界店。"
+  },
+  {
+   "id": "indignu-shenzhen-2026",
+   "title": "Indignu — Live in Shenzhen",
+   "title_zh": "葡萄牙提琴后摇 indignu 深圳站",
+   "start": "2026-11-07T20:00:00+08:00",
+   "end": "2026-11-07T20:00:00+08:00",
+   "venue": "HOU LIVE (KK ONE, Xiasha)",
+   "address": "B1, KK ONE mall, 9289 Binhe Blvd, Futian",
+   "area": "Futian",
+   "district": "福田区",
+   "categories": [
+    "Shows & Nightlife",
+    "Indie"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "¥178",
+   "languages": [],
+   "organizer": "IN-LIT",
+   "summary": "Portuguese post-rock with violin: slow-building instrumental pieces.",
+   "image": "https://szmeetups.com/r2/m/c8/c8da59866a5e976e984daae838b38abb6183dd77d77b96144219a2f5ccc92fa9/orig.jpg",
+   "url": "https://szmeetups.com/events/indignu-shenzhen-2026",
+   "calendar_url": "https://szmeetups.com/events/indignu-shenzhen-2026/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-07T20:00:00+08:00"
+   ],
+   "summary_zh": "葡萄牙后摇，配小提琴：缓慢推进的器乐作品。"
   },
   {
    "id": "the-pains-of-being-pure-at-heart-shenzhen-2026",
@@ -1692,6 +1502,44 @@
     "2026-12-27T15:00:00+08:00"
    ],
    "summary_zh": "免费的周日下午英语角与文化交流活动，在大运公园里的一家书吧咖啡馆。"
+  },
+  {
+   "id": "liberty-english-dinner-party-english-corner",
+   "title": "Liberty English Dinner Party: English Corner (Wednesdays & Sundays)",
+   "title_zh": null,
+   "start": "2026-11-08T19:00:00+08:00",
+   "end": "2026-11-08T21:30:00+08:00",
+   "venue": "Venue TBC",
+   "address": "Venue TBC, Shenzhen District",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Meetups",
+    "Language Exchange"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [
+    "english"
+   ],
+   "organizer": "Liberty English (KICK IT)",
+   "summary": "English conversation over dinner, hosted by a native speaker: a new topic each week, all levels, mostly Chinese learners plus a few internationals.",
+   "image": "https://szmeetups.com/r2/m/b2/b2f0fbac9da11aa8b2bb3975dff4b363c33f9eaa8ea397363306ee5974ebc2b3/orig.jpg",
+   "url": "https://szmeetups.com/events/liberty-english-dinner-party-english-corner",
+   "calendar_url": "https://szmeetups.com/events/liberty-english-dinner-party-english-corner/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 16,
+   "next_occurrences": [
+    "2026-11-08T19:00:00+08:00",
+    "2026-11-11T19:00:00+08:00",
+    "2026-11-15T19:00:00+08:00",
+    "2026-11-18T19:00:00+08:00",
+    "2026-11-22T19:00:00+08:00",
+    "2026-11-25T19:00:00+08:00",
+    "2026-11-29T19:00:00+08:00",
+    "2026-12-02T19:00:00+08:00"
+   ],
+   "summary_zh": "晚餐桌上的英语对话，由母语者主持：每周一个新话题，适合所有水平，参与者以中国学习者为主，也有几位国际朋友。"
   },
   {
    "id": "sleep-leaps-shenzhen-2026",
@@ -1945,6 +1793,154 @@
    "summary_zh": "在 Barfly 轻松聊一小时英汉双语——这家蛇口酒吧自 2012 年营业——边喝一杯边聊。"
   },
   {
+   "id": "shekou-imagine-toastmasters-club-meeting",
+   "title": "Shekou IMAGINE Toastmasters: Wednesday Public Speaking Night",
+   "title_zh": null,
+   "start": "2026-11-11T19:30:00+08:00",
+   "end": "2026-11-11T22:00:00+08:00",
+   "venue": "Shekou Television (SKTV), Merchants Building",
+   "address": "Shekou Television (SKTV), Merchants Building, Shekou District",
+   "area": "Shekou",
+   "district": "南山区",
+   "categories": [
+    "Meetups",
+    "Business"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Shekou IMAGINE Toastmasters Club",
+   "summary": "Toastmasters public-speaking club in Shekou, Wednesday evenings 7:30–9:30 at Shekou Television on Gongyuan Road. Guests can visit for free.",
+   "image": "https://szmeetups.com/img/fallback/meetup-business.jpg",
+   "url": "https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting",
+   "calendar_url": "https://szmeetups.com/events/shekou-imagine-toastmasters-club-meeting/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-11T19:30:00+08:00",
+    "2026-11-18T19:30:00+08:00",
+    "2026-11-25T19:30:00+08:00",
+    "2026-12-02T19:30:00+08:00",
+    "2026-12-09T19:30:00+08:00",
+    "2026-12-16T19:30:00+08:00",
+    "2026-12-23T19:30:00+08:00"
+   ],
+   "summary_zh": "蛇口的 Toastmasters 公众演讲俱乐部，周三晚 19:30–21:30 在公园路的蛇口电视台。嘉宾可免费参观。"
+  },
+  {
+   "id": "latino-dance-wednesdays",
+   "title": "Mi Casa Es Su Casa: Wednesday Latin Night at Revolucion",
+   "title_zh": null,
+   "start": "2026-11-11T19:30:00+08:00",
+   "end": "2026-11-11T22:00:00+08:00",
+   "venue": "Revolucion Cocktail",
+   "address": "Revolucion Cocktail, Futian",
+   "area": "Futian",
+   "district": "福田区",
+   "categories": [
+    "Meetups",
+    "Dance"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "Free",
+   "languages": [
+    "en",
+    "zh",
+    "es"
+   ],
+   "organizer": "Revolucion Cocktail",
+   "summary": "Free midweek salsa and bachata night in a Cuban cocktail bar in Futian, with a free beginners' bachata lesson.",
+   "image": "https://szmeetups.com/r2/m/89/896fb9b157a5561a992d4fe42a17a9769f86d630523774dbb4006100cd7297f4/orig.jpg",
+   "url": "https://szmeetups.com/events/latino-dance-wednesdays",
+   "calendar_url": "https://szmeetups.com/events/latino-dance-wednesdays/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-11T19:30:00+08:00",
+    "2026-11-18T19:30:00+08:00",
+    "2026-11-25T19:30:00+08:00",
+    "2026-12-02T19:30:00+08:00",
+    "2026-12-09T19:30:00+08:00",
+    "2026-12-16T19:30:00+08:00",
+    "2026-12-23T19:30:00+08:00"
+   ],
+   "summary_zh": "福田一家古巴鸡尾酒吧的免费周中 salsa 与 bachata 之夜，含一节免费的 bachata 新手课。"
+  },
+  {
+   "id": "sea-world-series-trivia-night",
+   "title": "Sea World Series Trivia Night (Wednesdays)",
+   "title_zh": null,
+   "start": "2026-11-11T20:00:00+08:00",
+   "end": "2026-11-11T22:30:00+08:00",
+   "venue": "George & Dragon British Pub",
+   "address": "George & Dragon British Pub, Shekou",
+   "area": "Shekou",
+   "district": "南山区",
+   "categories": [
+    "Meetups",
+    "Pub Quiz"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "Free",
+   "languages": [
+    "en"
+   ],
+   "organizer": "Sea World Series Trivia",
+   "summary": "Shekou's Wednesday trivia league, alternating between George & Dragon and Gecko. No entry fee, teams of up to six.",
+   "image": "https://szmeetups.com/r2/m/c3/c311bb1feae25a9d66387d72c5805a08e7458f5f8b039f27e6a412dfb9ef6dc3/orig.jpg",
+   "url": "https://szmeetups.com/events/sea-world-series-trivia-night",
+   "calendar_url": "https://szmeetups.com/events/sea-world-series-trivia-night/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-11T20:00:00+08:00",
+    "2026-11-18T20:00:00+08:00",
+    "2026-11-25T20:00:00+08:00",
+    "2026-12-02T20:00:00+08:00",
+    "2026-12-09T20:00:00+08:00",
+    "2026-12-16T20:00:00+08:00",
+    "2026-12-23T20:00:00+08:00"
+   ],
+   "summary_zh": "蛇口的周三 trivia 联赛，在 George & Dragon 与 Gecko 之间轮替。免费参加，每队最多六人。"
+  },
+  {
+   "id": "longhua-cross-border-sellers-tea-salon",
+   "title": "Cross-border Sellers' Tea Salon — Longhua (Wednesdays)",
+   "title_zh": null,
+   "start": "2026-11-11T20:00:00+08:00",
+   "end": "2026-11-11T22:00:00+08:00",
+   "venue": "Huanzhi Center (One Mall, Longhua)",
+   "address": "Huanzhi Center (One Mall, Longhua), Longhua",
+   "area": "Longhua",
+   "district": "龙华区",
+   "categories": [
+    "Meetups",
+    "Business"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "¥398",
+   "languages": [
+    "zh"
+   ],
+   "organizer": "Xiaoguai Cross-border Salon",
+   "summary": "Small weekly get-together for TikTok, Amazon and independent-site sellers in Longhua: swap suppliers, tactics and contacts over tea. Numbers are limited.",
+   "image": "https://szmeetups.com/r2/m/e8/e843ca8325979b60d8c00a7540a569dc3df57a5148c47c243ed97cb45e65ae70/orig.jpg",
+   "url": "https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon",
+   "calendar_url": "https://szmeetups.com/events/longhua-cross-border-sellers-tea-salon/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-11T20:00:00+08:00",
+    "2026-11-18T20:00:00+08:00",
+    "2026-11-25T20:00:00+08:00",
+    "2026-12-02T20:00:00+08:00",
+    "2026-12-09T20:00:00+08:00",
+    "2026-12-16T20:00:00+08:00",
+    "2026-12-23T20:00:00+08:00"
+   ],
+   "summary_zh": "龙华的 TikTok、亚马逊和独立站卖家每周小聚：边喝茶边交换供应商、打法和人脉。名额有限。"
+  },
+  {
    "id": "schnellertollermeier-shenzhen-2026",
    "title": "Schnellertollermeier — Live in Shenzhen",
    "title_zh": "【声厂呈现】瑞士器乐三重奏Schnellertollermeier巡演·深圳站",
@@ -1972,6 +1968,42 @@
     "2026-11-11T20:30:00+08:00"
    ],
    "summary_zh": "瑞士器乐三人组，融合数学摇滚、爵士与噪音，由 SoundFact 呈现。"
+  },
+  {
+   "id": "takeout-comedy-open-mic-wednesdays",
+   "title": "TakeOut Comedy Open Mic (Wednesdays)",
+   "title_zh": null,
+   "start": "2026-11-11T21:00:00+08:00",
+   "end": "2026-11-11T21:00:00+08:00",
+   "venue": "The Flames",
+   "address": "The Flames",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Comedy"
+   ],
+   "schema_type": "ComedyEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "TakeOut Comedy",
+   "summary": "Free English stand-up open mic in Sea World on Wednesdays: sign up with the host to do five minutes, or just come and watch.",
+   "image": "https://szmeetups.com/r2/m/1e/1e706cac57518a51eb8ca4ad28291977a7be77c220d85b4c0fd13df4785370cd/orig.jpg",
+   "url": "https://szmeetups.com/events/takeout-comedy-open-mic-wednesdays",
+   "calendar_url": "https://szmeetups.com/events/takeout-comedy-open-mic-wednesdays/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 8,
+   "next_occurrences": [
+    "2026-11-11T21:00:00+08:00",
+    "2026-11-18T21:00:00+08:00",
+    "2026-11-25T21:00:00+08:00",
+    "2026-12-02T21:00:00+08:00",
+    "2026-12-09T21:00:00+08:00",
+    "2026-12-16T21:00:00+08:00",
+    "2026-12-23T21:00:00+08:00",
+    "2026-12-30T21:00:00+08:00"
+   ],
+   "summary_zh": "海上世界周三的免费英文脱口秀开放麦：向主持人报名可讲五分钟，也可以只来观看。"
   },
   {
    "id": "gong-gong-gong-shenzhen-2026",
@@ -3671,35 +3703,6 @@
    "summary_zh": "增材制造与 3D 打印展会；2026 年有 330 家参展商和 34,202 名观众。"
   },
   {
-   "id": "elexcon-2027",
-   "title": "ELEXCON 2027: Shenzhen International Electronics Show",
-   "title_zh": null,
-   "start": "2027-09-08T09:30:00+08:00",
-   "end": "2027-09-10T17:00:00+08:00",
-   "venue": "Shenzhen World Exhibition & Convention Center",
-   "address": "1 Zhancheng Rd, Fuhai, Bao'an District",
-   "area": "Bao'an",
-   "district": "宝安区",
-   "categories": [
-    "Trade Shows",
-    "elexcon Shenzhen International Electronics & Embedded Expo"
-   ],
-   "schema_type": "ExhibitionEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "Shenzhen Herong Zhongxin Exhibition Co., Ltd.",
-   "summary": "Electronic components and embedded systems show: chips, storage, embedded/edge AI, power semiconductors and automotive electronics.",
-   "image": "https://szmeetups.com/r2/m/3d/3d1f7a266a3ee45fe9a9ec8a543c4ab97caea33d71f7f8e8bdd5e5ee79b6fc57/orig.jpg",
-   "url": "https://szmeetups.com/events/elexcon-2027",
-   "calendar_url": "https://szmeetups.com/events/elexcon-2027/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2027-09-08T09:30:00+08:00"
-   ],
-   "summary_zh": "电子元器件与嵌入式系统展：芯片、存储、嵌入式/边缘 AI、功率半导体与汽车电子。"
-  },
-  {
    "id": "iicie-2027",
    "title": "IICIE 2027: International Integrated Circuit Innovation Expo",
    "title_zh": null,
@@ -3756,6 +3759,35 @@
     "2027-09-08T09:30:00+08:00"
    ],
    "summary_zh": "光电全产业链博览会，设八大主题展；2026 年有 4,060 家参展商、展览面积 260,000 平方米。"
+  },
+  {
+   "id": "elexcon-2027",
+   "title": "ELEXCON 2027: Shenzhen International Electronics Show",
+   "title_zh": null,
+   "start": "2027-09-08T09:30:00+08:00",
+   "end": "2027-09-10T17:00:00+08:00",
+   "venue": "Shenzhen World Exhibition & Convention Center",
+   "address": "1 Zhancheng Rd, Fuhai, Bao'an District",
+   "area": "Bao'an",
+   "district": "宝安区",
+   "categories": [
+    "Trade Shows",
+    "elexcon Shenzhen International Electronics & Embedded Expo"
+   ],
+   "schema_type": "ExhibitionEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Shenzhen Herong Zhongxin Exhibition Co., Ltd.",
+   "summary": "Electronic components and embedded systems show: chips, storage, embedded/edge AI, power semiconductors and automotive electronics.",
+   "image": "https://szmeetups.com/r2/m/3d/3d1f7a266a3ee45fe9a9ec8a543c4ab97caea33d71f7f8e8bdd5e5ee79b6fc57/orig.jpg",
+   "url": "https://szmeetups.com/events/elexcon-2027",
+   "calendar_url": "https://szmeetups.com/events/elexcon-2027/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2027-09-08T09:30:00+08:00"
+   ],
+   "summary_zh": "电子元器件与嵌入式系统展：芯片、存储、嵌入式/边缘 AI、功率半导体与汽车电子。"
   },
   {
    "id": "shenzhen-seo-conference-2027",
