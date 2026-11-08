@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T10:52:26+08:00",
+ "updated_at": "2026-11-08T10:52:26+08:00",
  "source_site": "https://szmeetups.com",
  "city": "深圳",
  "events": [
@@ -352,35 +352,6 @@
    "summary_zh": "英国艺术家 Jon Burgerman 色彩缤纷、可动手参与的展览，为蛇口新开的太子湾艺术中心揭幕，2026 年 9 月 30 日至 2027 年 2 月 28 日，票价 38 元起。"
   },
   {
-   "id": "michael-najjar-morphing-equilibrium-fotografiska-shenzhen",
-   "title": "Michael Najjar: Morphing Equilibrium — Fotografiska Shenzhen",
-   "title_zh": null,
-   "start": "2026-10-01T10:00:00+08:00",
-   "end": "2027-01-17T23:00:00+08:00",
-   "venue": "Fotografiska Shenzhen",
-   "address": "Fotografiska Shenzhen, Nanshan District",
-   "area": "Nanshan",
-   "district": "南山区",
-   "categories": [
-    "Around Town",
-    "Exhibition"
-   ],
-   "schema_type": "ExhibitionEvent",
-   "fee": "¥48",
-   "languages": [],
-   "organizer": "Fotografiska Shenzhen",
-   "summary": "German artist Michael Najjar's large photo and video works on a planet out of balance, with a Shenzhen piece shown here for the first time; until 17 January.",
-   "image": "https://szmeetups.com/img/fallback/around-exhibition.jpg",
-   "url": "https://szmeetups.com/events/michael-najjar-morphing-equilibrium-fotografiska-shenzhen",
-   "calendar_url": "https://szmeetups.com/events/michael-najjar-morphing-equilibrium-fotografiska-shenzhen/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-10-01T10:00:00+08:00"
-   ],
-   "summary_zh": "德国艺术家 Michael Najjar 的大型摄影与影像作品，主题是失衡的地球，其中一件深圳题材作品在此首次展出；展至 1 月 17 日。"
-  },
-  {
    "id": "shi-guowei-festa-fotografiska-shenzhen",
    "title": "Shi Guowei: Festa",
    "title_zh": null,
@@ -410,11 +381,11 @@
    "summary_zh": "中国节庆主题的手工上色照片，介于摄影与绘画之间。"
   },
   {
-   "id": "transcendent-realities-fotografiska-shenzhen",
-   "title": "Transcendent Realities: Monumental-Scale Photography",
+   "id": "michael-najjar-morphing-equilibrium-fotografiska-shenzhen",
+   "title": "Michael Najjar: Morphing Equilibrium — Fotografiska Shenzhen",
    "title_zh": null,
    "start": "2026-10-01T10:00:00+08:00",
-   "end": "2027-09-30T23:00:00+08:00",
+   "end": "2027-01-17T23:00:00+08:00",
    "venue": "Fotografiska Shenzhen",
    "address": "Fotografiska Shenzhen, Nanshan District",
    "area": "Nanshan",
@@ -427,45 +398,16 @@
    "fee": "¥48",
    "languages": [],
    "organizer": "Fotografiska Shenzhen",
-   "summary": "Six artists shown at Fotografiska Shanghai, reunited in an 8.5 m-high gallery. Includes Michael Najjar's aerial Shenzhen.",
-   "image": "https://szmeetups.com/r2/m/4b/4bc401fadb517b5299face061997a3d78ce314ce459d58d9be8b28892b40b690/w1600.webp",
-   "url": "https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen",
-   "calendar_url": "https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen/calendar.ics",
+   "summary": "German artist Michael Najjar's large photo and video works on a planet out of balance, with a Shenzhen piece shown here for the first time; until 17 January.",
+   "image": "https://szmeetups.com/img/fallback/around-exhibition.jpg",
+   "url": "https://szmeetups.com/events/michael-najjar-morphing-equilibrium-fotografiska-shenzhen",
+   "calendar_url": "https://szmeetups.com/events/michael-najjar-morphing-equilibrium-fotografiska-shenzhen/calendar.ics",
    "source": "SZMeetups",
    "occurrences_count": 1,
    "next_occurrences": [
     "2026-10-01T10:00:00+08:00"
    ],
-   "summary_zh": "曾在 Fotografiska 上海展出的六位艺术家，在一座 8.5 米挑高的展厅重聚，包括 Michael Najjar 的航拍深圳作品。"
-  },
-  {
-   "id": "toiletpaper-fotografiska-shenzhen",
-   "title": "TOILETPAPER: ToiletFotoPaperGrafiska",
-   "title_zh": null,
-   "start": "2026-10-01T10:00:00+08:00",
-   "end": "2027-03-14T23:00:00+08:00",
-   "venue": "Fotografiska Shenzhen",
-   "address": "Fotografiska Shenzhen, Nanshan District",
-   "area": "Nanshan",
-   "district": "南山区",
-   "categories": [
-    "Around Town",
-    "Exhibition"
-   ],
-   "schema_type": "ExhibitionEvent",
-   "fee": "¥48",
-   "languages": [],
-   "organizer": "Fotografiska Shenzhen",
-   "summary": "Maurizio Cattelan and Pierpaolo Ferrari's candy-coloured, surreal image world, in its first China show.",
-   "image": "https://szmeetups.com/r2/m/fa/fa926f3caf8d80ecc2575ab6ef07e57be80ea72f07207e73d215ece317655189/w1600.webp",
-   "url": "https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen",
-   "calendar_url": "https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-10-01T10:00:00+08:00"
-   ],
-   "summary_zh": "Maurizio Cattelan 与 Pierpaolo Ferrari 糖果色、超现实的影像世界，首次在中国展出。"
+   "summary_zh": "德国艺术家 Michael Najjar 的大型摄影与影像作品，主题是失衡的地球，其中一件深圳题材作品在此首次展出；展至 1 月 17 日。"
   },
   {
    "id": "prix-pictet-storm-fotografiska-shenzhen",
@@ -526,6 +468,64 @@
    "summary_zh": "在全新的 BASE 数字艺术中心，与 Apple TV+ 和 BBC 剧集中的等身大恐龙共处一小时，影像从地板投射到天花板，设有英文场次。"
   },
   {
+   "id": "toiletpaper-fotografiska-shenzhen",
+   "title": "TOILETPAPER: ToiletFotoPaperGrafiska",
+   "title_zh": null,
+   "start": "2026-10-01T10:00:00+08:00",
+   "end": "2027-03-14T23:00:00+08:00",
+   "venue": "Fotografiska Shenzhen",
+   "address": "Fotografiska Shenzhen, Nanshan District",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Around Town",
+    "Exhibition"
+   ],
+   "schema_type": "ExhibitionEvent",
+   "fee": "¥48",
+   "languages": [],
+   "organizer": "Fotografiska Shenzhen",
+   "summary": "Maurizio Cattelan and Pierpaolo Ferrari's candy-coloured, surreal image world, in its first China show.",
+   "image": "https://szmeetups.com/r2/m/fa/fa926f3caf8d80ecc2575ab6ef07e57be80ea72f07207e73d215ece317655189/w1600.webp",
+   "url": "https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen",
+   "calendar_url": "https://szmeetups.com/events/toiletpaper-fotografiska-shenzhen/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-10-01T10:00:00+08:00"
+   ],
+   "summary_zh": "Maurizio Cattelan 与 Pierpaolo Ferrari 糖果色、超现实的影像世界，首次在中国展出。"
+  },
+  {
+   "id": "transcendent-realities-fotografiska-shenzhen",
+   "title": "Transcendent Realities: Monumental-Scale Photography",
+   "title_zh": null,
+   "start": "2026-10-01T10:00:00+08:00",
+   "end": "2027-09-30T23:00:00+08:00",
+   "venue": "Fotografiska Shenzhen",
+   "address": "Fotografiska Shenzhen, Nanshan District",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Around Town",
+    "Exhibition"
+   ],
+   "schema_type": "ExhibitionEvent",
+   "fee": "¥48",
+   "languages": [],
+   "organizer": "Fotografiska Shenzhen",
+   "summary": "Six artists shown at Fotografiska Shanghai, reunited in an 8.5 m-high gallery. Includes Michael Najjar's aerial Shenzhen.",
+   "image": "https://szmeetups.com/r2/m/4b/4bc401fadb517b5299face061997a3d78ce314ce459d58d9be8b28892b40b690/w1600.webp",
+   "url": "https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen",
+   "calendar_url": "https://szmeetups.com/events/transcendent-realities-fotografiska-shenzhen/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-10-01T10:00:00+08:00"
+   ],
+   "summary_zh": "曾在 Fotografiska 上海展出的六位艺术家，在一座 8.5 米挑高的展厅重聚，包括 Michael Najjar 的航拍深圳作品。"
+  },
+  {
    "id": "splendid-china-sleepless-nights-halloween-2026",
    "title": "Sleepless Nights at Splendid China: Chinese Masquerade for Halloween",
    "title_zh": null,
@@ -584,389 +584,6 @@
    "summary_zh": "免费展览，梳理张伯驹与潘素的收藏、书法与绘画，以及他们与何香凝的交往。"
   },
   {
-   "id": "shenzhen-striders-park-run",
-   "title": "Shenzhen Striders Park Run (Saturdays, Talent Park)",
-   "title_zh": null,
-   "start": "2026-11-07T07:45:00+08:00",
-   "end": "2026-11-07T10:15:00+08:00",
-   "venue": "Shenzhen Talent Park",
-   "address": "Shenzhen Talent Park, Nanshan",
-   "area": "Nanshan",
-   "district": "南山区",
-   "categories": [
-    "Meetups",
-    "Sports & Fitness"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "Free",
-   "languages": [
-    "english",
-    "zh"
-   ],
-   "organizer": "Shenzhen Striders",
-   "summary": "Free, volunteer-run timed 2.5 km or 5 km loop of Shenzhen Talent Park every Saturday morning. Warm-up at 7:45, all paces welcome.",
-   "image": "https://szmeetups.com/r2/m/f0/f0678dd77d26fc7f9d54ab5d2cf1eb99262d09568d94f5f38ceb59bc304e8972/orig.jpg",
-   "url": "https://szmeetups.com/events/shenzhen-striders-park-run",
-   "calendar_url": "https://szmeetups.com/events/shenzhen-striders-park-run/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-07T07:45:00+08:00",
-    "2026-11-14T07:45:00+08:00",
-    "2026-11-21T07:45:00+08:00",
-    "2026-11-28T07:45:00+08:00",
-    "2026-12-05T07:45:00+08:00",
-    "2026-12-12T07:45:00+08:00",
-    "2026-12-19T07:45:00+08:00",
-    "2026-12-26T07:45:00+08:00"
-   ],
-   "summary_zh": "免费、由志愿者组织的计时跑：每周六早上在深圳人才公园环跑 2.5 公里或 5 公里，7:45 热身，欢迎所有配速。"
-  },
-  {
-   "id": "afrofit-sigma-coffee-saturdays",
-   "title": "AFROFIT at Sigma Coffee",
-   "title_zh": null,
-   "start": "2026-11-07T10:00:00+08:00",
-   "end": "2026-11-07T11:30:00+08:00",
-   "venue": "SIGMA Coffee Park",
-   "address": "SIGMA Coffee Park, Nanshan",
-   "area": "Nanshan",
-   "district": "南山区",
-   "categories": [
-    "Meetups",
-    "Dance Fitness"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": null,
-   "languages": [
-    "chinese",
-    "english",
-    "language-light"
-   ],
-   "organizer": "AfroPulz Dance Academy",
-   "summary": "A Saturday morning Afro dance-fitness class on Sigma Coffee's Xili rooftop.",
-   "image": "https://szmeetups.com/r2/m/2d/2d6efe3488fe94b5ecf9b1da2cfb4f2d6a6a332b19f333f13d86c66470d06d49/orig.jpg",
-   "url": "https://szmeetups.com/events/afrofit-sigma-coffee-saturdays",
-   "calendar_url": "https://szmeetups.com/events/afrofit-sigma-coffee-saturdays/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-07T10:00:00+08:00",
-    "2026-11-14T10:00:00+08:00",
-    "2026-11-21T10:00:00+08:00",
-    "2026-11-28T10:00:00+08:00",
-    "2026-12-05T10:00:00+08:00",
-    "2026-12-12T10:00:00+08:00",
-    "2026-12-19T10:00:00+08:00",
-    "2026-12-26T10:00:00+08:00"
-   ],
-   "summary_zh": "周六上午的非洲舞健身课，在 Sigma Coffee 西丽店的屋顶上。"
-  },
-  {
-   "id": "sunset-radio-casablanca-beach-club",
-   "title": "Sunset Radio at Casablanca Beach Club (Weekends)",
-   "title_zh": null,
-   "start": "2026-11-07T11:00:00+08:00",
-   "end": "2026-11-07T11:00:00+08:00",
-   "venue": "Casablanca Beach Club",
-   "address": "Casablanca Beach Club",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "DJ"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥20",
-   "languages": [],
-   "organizer": "MOOON BEACH CLUB",
-   "summary": "Beach DJs from lunch to past midnight on Shayuchong beach in Dapeng: sunset sets, cocktails, volleyball and an international crowd.",
-   "image": "https://szmeetups.com/r2/m/7e/7e0f2d980c3f2b02b016a405ced18c473c25373cd267af1e60f4d0e0d6ed2455/orig.jpg",
-   "url": "https://szmeetups.com/events/sunset-radio-casablanca-beach-club",
-   "calendar_url": "https://szmeetups.com/events/sunset-radio-casablanca-beach-club/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 17,
-   "next_occurrences": [
-    "2026-11-07T11:00:00+08:00",
-    "2026-11-08T11:00:00+08:00",
-    "2026-11-14T11:00:00+08:00",
-    "2026-11-15T11:00:00+08:00",
-    "2026-11-21T11:00:00+08:00",
-    "2026-11-22T11:00:00+08:00",
-    "2026-11-28T11:00:00+08:00",
-    "2026-11-29T11:00:00+08:00"
-   ],
-   "summary_zh": "大鹏沙鱼涌海滩上从午餐持续到午夜之后的海滩 DJ：日落演出、鸡尾酒、排球和国际化的人群。"
-  },
-  {
-   "id": "shekou-hash-house-harriers-saturday-run",
-   "title": "Shekou Hash House Harriers: Saturday Trail Run",
-   "title_zh": null,
-   "start": "2026-11-07T13:30:00+08:00",
-   "end": "2026-11-07T16:00:00+08:00",
-   "venue": "George & Dragon British Pub",
-   "address": "George & Dragon British Pub, Shekou",
-   "area": "Shekou",
-   "district": "南山区",
-   "categories": [
-    "Meetups",
-    "Sports & Fitness"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": null,
-   "languages": [
-    "english"
-   ],
-   "organizer": "Shekou Hash House Harriers",
-   "summary": "Every Saturday a bus leaves George & Dragon in Sea World at 13:30 for a hilly trail run or walk, then back to the pub for the circle. Just turn up.",
-   "image": "https://szmeetups.com/r2/m/4d/4de264af0fcc58c84b67c5c26dc3bc3070c94f3151cf613df004f73370f775d8/orig.jpg",
-   "url": "https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run",
-   "calendar_url": "https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 7,
-   "next_occurrences": [
-    "2026-11-07T13:30:00+08:00",
-    "2026-11-14T13:30:00+08:00",
-    "2026-11-21T13:30:00+08:00",
-    "2026-11-28T13:30:00+08:00",
-    "2026-12-05T13:30:00+08:00",
-    "2026-12-12T13:30:00+08:00",
-    "2026-12-19T13:30:00+08:00"
-   ],
-   "summary_zh": "每周六 13:30 有巴士从海上世界 George & Dragon 出发，去山间越野跑或徒步，之后回酒吧聚会。直接到场即可。"
-  },
-  {
-   "id": "joy-city-chinese-english-cantonese-corner",
-   "title": "Chinese, English & Cantonese Corner at Joy City (Saturdays)",
-   "title_zh": null,
-   "start": "2026-11-07T19:30:00+08:00",
-   "end": "2026-11-07T22:00:00+08:00",
-   "venue": "Venue TBC",
-   "address": "Venue TBC, Shenzhen District",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Meetups",
-    "Language Exchange"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": null,
-   "languages": [
-    "zh",
-    "english",
-    "粤语"
-   ],
-   "organizer": "SZMeetups",
-   "summary": "A Saturday-evening language corner for foreigners, Hong Kongers and locals: Mandarin, English and Cantonese.",
-   "image": "https://szmeetups.com/img/fallback/meetup-language-exchange.jpg",
-   "url": "https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner",
-   "calendar_url": "https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 9,
-   "next_occurrences": [
-    "2026-11-07T19:30:00+08:00",
-    "2026-11-14T19:30:00+08:00",
-    "2026-11-21T19:30:00+08:00",
-    "2026-11-28T19:30:00+08:00",
-    "2026-12-05T19:30:00+08:00",
-    "2026-12-12T19:30:00+08:00",
-    "2026-12-19T19:30:00+08:00",
-    "2026-12-26T19:30:00+08:00"
-   ],
-   "summary_zh": "周六晚间的语言角，面向外国人、香港人和本地人：普通话、英语和粤语。"
-  },
-  {
-   "id": "feixing-guanjun-shenzhen-2026",
-   "title": "飞行冠军 «Surfacing» Album Tour — Shenzhen",
-   "title_zh": "飞行冠军【浮出水面】2026新专辑巡演 深圳站",
-   "start": "2026-11-07T20:00:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "CH8 Livehouse (Yuehai)",
-   "address": "B1, Nanshan Culture & Sports Center, Yuehai, Nanshan",
-   "area": "Nanshan",
-   "district": "南山区",
-   "categories": [
-    "Shows & Nightlife",
-    "Indie"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥99–¥179",
-   "languages": [],
-   "organizer": "CH8 Livehouse (Yuehai)",
-   "summary": "Luoyang rock band 飞行冠军 tour their new album 浮出水面 (Surfacing) at CH8.",
-   "image": "https://szmeetups.com/r2/m/17/177adf2f4cefe57668e52f8a5e82fde2b587bbfefcc245f70a36b81242b6fdb3/orig.jpg",
-   "url": "https://szmeetups.com/events/feixing-guanjun-shenzhen-2026",
-   "calendar_url": "https://szmeetups.com/events/feixing-guanjun-shenzhen-2026/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-11-07T20:00:00+08:00"
-   ],
-   "summary_zh": "洛阳摇滚乐队飞行冠军携新专辑《浮出水面》巡演，在 CH8 演出。"
-  },
-  {
-   "id": "grapes-not-angry-shenzhen-2026",
-   "title": "Grapes Not Angry (葡萄不愤怒) «Where She Wants to Go» Tour — Shenzhen",
-   "title_zh": "「她想去的地方」葡萄不愤怒2026巡演 深圳站",
-   "start": "2026-11-07T20:00:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "MAO Livehouse Sea World",
-   "address": "MAO Livehouse Sea World",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Indie"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥109–¥129",
-   "languages": [],
-   "organizer": "MAO Livehouse Sea World",
-   "summary": "Beijing pop-punk band 葡萄不愤怒, around since 2013, bring their 2026 tour to MAO Sea World.",
-   "image": "https://szmeetups.com/r2/m/59/59bf404394f37809a33cadca0b88b2923a62eaebf6e36334ddaf2e8495be4cb4/orig.jpg",
-   "url": "https://szmeetups.com/events/grapes-not-angry-shenzhen-2026",
-   "calendar_url": "https://szmeetups.com/events/grapes-not-angry-shenzhen-2026/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-11-07T20:00:00+08:00"
-   ],
-   "summary_zh": "北京流行朋克乐队葡萄不愤怒，成立于 2013 年，将其 2026 巡演带到 MAO 海上世界店。"
-  },
-  {
-   "id": "indignu-shenzhen-2026",
-   "title": "Indignu — Live in Shenzhen",
-   "title_zh": "葡萄牙提琴后摇 indignu 深圳站",
-   "start": "2026-11-07T20:00:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "HOU LIVE (KK ONE, Xiasha)",
-   "address": "B1, KK ONE mall, 9289 Binhe Blvd, Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Shows & Nightlife",
-    "Indie"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥178",
-   "languages": [],
-   "organizer": "IN-LIT",
-   "summary": "Portuguese post-rock with violin: slow-building instrumental pieces.",
-   "image": "https://szmeetups.com/r2/m/c8/c8da59866a5e976e984daae838b38abb6183dd77d77b96144219a2f5ccc92fa9/orig.jpg",
-   "url": "https://szmeetups.com/events/indignu-shenzhen-2026",
-   "calendar_url": "https://szmeetups.com/events/indignu-shenzhen-2026/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-11-07T20:00:00+08:00"
-   ],
-   "summary_zh": "葡萄牙后摇，配小提琴：缓慢推进的器乐作品。"
-  },
-  {
-   "id": "the-pains-of-being-pure-at-heart-shenzhen-2026",
-   "title": "The Pains of Being Pure at Heart — Live in Shenzhen",
-   "title_zh": "澈心之痛2026深圳专场",
-   "start": "2026-11-07T20:00:00+08:00",
-   "end": "2026-11-07T20:00:00+08:00",
-   "venue": "B10 Live",
-   "address": "B10 Live",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Indie"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥168–¥220",
-   "languages": [],
-   "organizer": "Haze Sounds",
-   "summary": "New York noise-pop favourites with fuzzy guitars and sweet melodies, back with the original line-up.",
-   "image": "https://szmeetups.com/r2/m/db/db81f845ded8c681781792e078cfed053b62b7c41b963b0a7215a88b44b5d195/orig.jpg",
-   "url": "https://szmeetups.com/events/the-pains-of-being-pure-at-heart-shenzhen-2026",
-   "calendar_url": "https://szmeetups.com/events/the-pains-of-being-pure-at-heart-shenzhen-2026/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-11-07T20:00:00+08:00"
-   ],
-   "summary_zh": "纽约噪音流行宠儿，毛茸茸的吉他与甜美旋律，原班人马回归。"
-  },
-  {
-   "id": "latin-passion-saturday-social",
-   "title": "Passion Saturday: Latin Passion's Saturday Dance Party (Chegongmiao)",
-   "title_zh": null,
-   "start": "2026-11-07T21:30:00+08:00",
-   "end": "2026-11-08T00:00:00+08:00",
-   "venue": "Latin Passion Studio (Chegongmiao)",
-   "address": "Latin Passion Studio (Chegongmiao), Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Meetups",
-    "Dance"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": null,
-   "languages": [
-    "en",
-    "zh"
-   ],
-   "organizer": "Latin Passion Dance Academy",
-   "summary": "Latin Passion's Saturday party in its Chegongmiao studio: a kizomba room and a bachata/salsa room from 9:30pm, with a class before.",
-   "image": "https://szmeetups.com/img/fallback/meetup-dance.jpg",
-   "url": "https://szmeetups.com/events/latin-passion-saturday-social",
-   "calendar_url": "https://szmeetups.com/events/latin-passion-saturday-social/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 8,
-   "next_occurrences": [
-    "2026-11-07T21:30:00+08:00",
-    "2026-11-14T21:30:00+08:00",
-    "2026-11-21T21:30:00+08:00",
-    "2026-11-28T21:30:00+08:00",
-    "2026-12-05T21:30:00+08:00",
-    "2026-12-12T21:30:00+08:00",
-    "2026-12-19T21:30:00+08:00",
-    "2026-12-26T21:30:00+08:00"
-   ],
-   "summary_zh": "Latin Passion 在其车公庙工作室的周六派对：晚上 9:30 起设 kizomba 房和 bachata/salsa 房，派对前有课程。"
-  },
-  {
-   "id": "live-band-nights-the-terrace-shekou",
-   "title": "Live Band Every Night at The Terrace, Sea World",
-   "title_zh": null,
-   "start": "2026-11-07T21:30:00+08:00",
-   "end": "2026-11-07T21:30:00+08:00",
-   "venue": "The Terrace",
-   "address": "The Terrace",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Nightlife"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "The Terrace",
-   "summary": "The Terrace's house band T.A.S. plays covers every night from 9:30pm in Sea World, followed by DJ sets.",
-   "image": "https://szmeetups.com/r2/m/66/6643086f72c8fffbd9393dd6729362cffffb7ad201faa32910443b7e24e1f238/orig.jpg",
-   "url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou",
-   "calendar_url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 49,
-   "next_occurrences": [
-    "2026-11-07T21:30:00+08:00",
-    "2026-11-08T21:30:00+08:00",
-    "2026-11-09T21:30:00+08:00",
-    "2026-11-10T21:30:00+08:00",
-    "2026-11-11T21:30:00+08:00",
-    "2026-11-12T21:30:00+08:00",
-    "2026-11-13T21:30:00+08:00",
-    "2026-11-14T21:30:00+08:00"
-   ],
-   "summary_zh": "The Terrace 的驻场乐队 T.A.S. 每晚 9:30 起在海上世界演绎翻唱歌曲，之后是 DJ 时段。"
-  },
-  {
    "id": "free-chinese-class-for-foreigners-baoan",
    "title": "Free Chinese Class for Foreigners in Bao'an (Sundays)",
    "title_zh": null,
@@ -1004,6 +621,42 @@
     "2026-12-27T09:30:00+08:00"
    ],
    "summary_zh": "面向外国人的免费每周普通话课程：初级 9:30，中级 11:00，HSK 1–4。"
+  },
+  {
+   "id": "sunset-radio-casablanca-beach-club",
+   "title": "Sunset Radio at Casablanca Beach Club (Weekends)",
+   "title_zh": null,
+   "start": "2026-11-08T11:00:00+08:00",
+   "end": "2026-11-08T11:00:00+08:00",
+   "venue": "Casablanca Beach Club",
+   "address": "Casablanca Beach Club",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "DJ"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "¥20",
+   "languages": [],
+   "organizer": "MOOON BEACH CLUB",
+   "summary": "Beach DJs from lunch to past midnight on Shayuchong beach in Dapeng: sunset sets, cocktails, volleyball and an international crowd.",
+   "image": "https://szmeetups.com/r2/m/7e/7e0f2d980c3f2b02b016a405ced18c473c25373cd267af1e60f4d0e0d6ed2455/orig.jpg",
+   "url": "https://szmeetups.com/events/sunset-radio-casablanca-beach-club",
+   "calendar_url": "https://szmeetups.com/events/sunset-radio-casablanca-beach-club/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 16,
+   "next_occurrences": [
+    "2026-11-08T11:00:00+08:00",
+    "2026-11-14T11:00:00+08:00",
+    "2026-11-15T11:00:00+08:00",
+    "2026-11-21T11:00:00+08:00",
+    "2026-11-22T11:00:00+08:00",
+    "2026-11-28T11:00:00+08:00",
+    "2026-11-29T11:00:00+08:00",
+    "2026-12-05T11:00:00+08:00"
+   ],
+   "summary_zh": "大鹏沙鱼涌海滩上从午餐持续到午夜之后的海滩 DJ：日落演出、鸡尾酒、排球和国际化的人群。"
   },
   {
    "id": "changeway-bilingual-toastmasters-sunday-meeting",
@@ -1223,6 +876,42 @@
    "summary_zh": "The Flames 楼上的免费英文脱口秀开放麦，就在海上世界。可以当晚上台报名，也可以只来观看。"
   },
   {
+   "id": "live-band-nights-the-terrace-shekou",
+   "title": "Live Band Every Night at The Terrace, Sea World",
+   "title_zh": null,
+   "start": "2026-11-08T21:30:00+08:00",
+   "end": "2026-11-08T21:30:00+08:00",
+   "venue": "The Terrace",
+   "address": "The Terrace",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Nightlife"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "The Terrace",
+   "summary": "The Terrace's house band T.A.S. plays covers every night from 9:30pm in Sea World, followed by DJ sets.",
+   "image": "https://szmeetups.com/r2/m/66/6643086f72c8fffbd9393dd6729362cffffb7ad201faa32910443b7e24e1f238/orig.jpg",
+   "url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou",
+   "calendar_url": "https://szmeetups.com/events/live-band-nights-the-terrace-shekou/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 48,
+   "next_occurrences": [
+    "2026-11-08T21:30:00+08:00",
+    "2026-11-09T21:30:00+08:00",
+    "2026-11-10T21:30:00+08:00",
+    "2026-11-11T21:30:00+08:00",
+    "2026-11-12T21:30:00+08:00",
+    "2026-11-13T21:30:00+08:00",
+    "2026-11-14T21:30:00+08:00",
+    "2026-11-15T21:30:00+08:00"
+   ],
+   "summary_zh": "The Terrace 的驻场乐队 T.A.S. 每晚 9:30 起在海上世界演绎翻唱歌曲，之后是 DJ 时段。"
+  },
+  {
    "id": "dmz-toastmasters-club-meeting",
    "title": "DMZ Toastmasters: Monday Public Speaking Night (Houhai)",
    "title_zh": null,
@@ -1256,6 +945,38 @@
     "2026-12-21T19:30:00+08:00"
    ],
    "summary_zh": "周一晚间的 Toastmasters 俱乐部，在南山后海，19:30–21:30。嘉宾可免费参观。"
+  },
+  {
+   "id": "tigers-den-open-mic-mondays",
+   "title": "International Open Mic at Tiger's Den (Mondays)",
+   "title_zh": null,
+   "start": "2026-11-09T20:00:00+08:00",
+   "end": "2026-11-09T20:00:00+08:00",
+   "venue": "Tiger's Den",
+   "address": "Tiger's Den",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Nightlife"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Tiger's Den",
+   "summary": "A welcoming international open mic for music, comedy, stories and more, every Monday at 8pm. Free entry with one food or drink purchase.",
+   "image": "https://szmeetups.com/r2/m/d6/d6a108f3ef84b96076148a173662b9a3e280e73c510fcf88199bc43e5a061f0c/orig.jpg",
+   "url": "https://szmeetups.com/events/tigers-den-open-mic-mondays",
+   "calendar_url": "https://szmeetups.com/events/tigers-den-open-mic-mondays/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 4,
+   "next_occurrences": [
+    "2026-11-09T20:00:00+08:00",
+    "2026-11-16T20:00:00+08:00",
+    "2026-11-23T20:00:00+08:00",
+    "2026-11-30T20:00:00+08:00"
+   ],
+   "summary_zh": "每周一晚 8 点的国际开放麦，欢迎音乐、喜剧、故事等各类表演，免费入场，需消费一份餐饮。"
   },
   {
    "id": "siafl-monday-night-football",
@@ -1623,6 +1344,64 @@
    "summary_zh": "海上世界周三的免费英文脱口秀开放麦：向主持人报名可讲五分钟，也可以只来观看。"
   },
   {
+   "id": "crazy-thursday-ai-app-builder-november-12-2026",
+   "title": "Crazy Thursday: AI & App Builder Meetup",
+   "title_zh": null,
+   "start": "2026-11-12T12:00:00+08:00",
+   "end": "2026-11-12T18:00:00+08:00",
+   "venue": "FuSan Cafe (Qianhai Stone Park)",
+   "address": "FuSan Cafe (Qianhai Stone Park), Nanshan",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Meetups",
+    "Tech"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [],
+   "organizer": "FuSan Cafe (Qianhai Stone Park)",
+   "summary": "An informal afternoon for app builders, designers and curious makers to share ideas and meet by the sea in Qianhai.",
+   "image": "https://szmeetups.com/img/fallback/meetup.jpg",
+   "url": "https://szmeetups.com/events/crazy-thursday-ai-app-builder-november-12-2026",
+   "calendar_url": "https://szmeetups.com/events/crazy-thursday-ai-app-builder-november-12-2026/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-12T12:00:00+08:00"
+   ],
+   "summary_zh": "一个轻松的下午聚会，应用开发者、设计师和好奇的创客们在前海海边分享想法、互相认识。"
+  },
+  {
+   "id": "kiremico-open-mic-exit-babylon",
+   "title": "Kiremico Open Mic — Exit Babylon",
+   "title_zh": null,
+   "start": "2026-11-12T19:00:00+08:00",
+   "end": "2026-11-12T19:00:00+08:00",
+   "venue": "Exit Babylon 出空间",
+   "address": "Exit Babylon 出空间",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Open Mic"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Kiremico",
+   "summary": "Kiremico's open mic at Exit Babylon in Shekou — instruments provided, free entry, 7pm start.",
+   "image": "https://szmeetups.com/r2/m/cb/cbfae1326ef69d20e5eacc935e96e9e13e8d2038c6bbb4583d8b1d4a0c0048c5/orig.jpg",
+   "url": "https://szmeetups.com/events/kiremico-open-mic-exit-babylon",
+   "calendar_url": "https://szmeetups.com/events/kiremico-open-mic-exit-babylon/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-12T19:00:00+08:00"
+   ],
+   "summary_zh": "Kiremico 在蛇口 Exit Babylon 举办的开放麦，提供乐器，免费入场，晚 7 点开始。"
+  },
+  {
    "id": "double-d-chinese-corner-thursdays",
    "title": "Double D Chinese Corner (Thursdays, Nanshan)",
    "title_zh": null,
@@ -1733,42 +1512,6 @@
    "summary_zh": "历史悠久的 Toastmasters 俱乐部，位于南山高科技园，周四 19:30–21:30。嘉宾可免费参观。"
   },
   {
-   "id": "open-stage-open-mic-at-no-vacancy",
-   "title": "Kiremico Open Mic",
-   "title_zh": null,
-   "start": "2026-11-12T20:00:00+08:00",
-   "end": "2026-11-12T20:00:00+08:00",
-   "venue": "No Vacancy Bar",
-   "address": "No Vacancy Bar",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Open Mic"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "Kiremico",
-   "summary": "Weekly open mic from the Kiremico music community — instruments provided, every set recorded. All levels, every Thursday.",
-   "image": "https://szmeetups.com/r2/m/48/4897e55762ea11afc49dcdd6eff106e1ec4255c97aa3d14e0729b31f43baac91/orig.jpg",
-   "url": "https://szmeetups.com/events/open-stage-open-mic-at-no-vacancy",
-   "calendar_url": "https://szmeetups.com/events/open-stage-open-mic-at-no-vacancy/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 12,
-   "next_occurrences": [
-    "2026-11-12T20:00:00+08:00",
-    "2026-11-19T20:00:00+08:00",
-    "2026-11-26T20:00:00+08:00",
-    "2026-12-03T20:00:00+08:00",
-    "2026-12-10T20:00:00+08:00",
-    "2026-12-17T20:00:00+08:00",
-    "2026-12-24T20:00:00+08:00",
-    "2026-12-31T20:00:00+08:00"
-   ],
-   "summary_zh": "Kiremico 音乐社群每周举办的开放麦——提供乐器，每场演出都会录制。面向所有水平，每周四举行。"
-  },
-  {
    "id": "gong-gong-gong-shenzhen-2026",
    "title": "Gong Gong Gong (工工工) — «80 Minutes» Live in Shenzhen",
    "title_zh": "八十分钟工工工-深圳",
@@ -1796,41 +1539,6 @@
     "2026-11-12T20:00:00+08:00"
    ],
    "summary_zh": "北京吉他与贝斯二人组工工工在 B10 演出 80 分钟：40 分钟《Phantom Rhythm》精选，40 分钟下张专辑的新歌。"
-  },
-  {
-   "id": "cbd-toastmasters-club-meeting",
-   "title": "CBD Toastmasters: Friday Public Speaking Night (Futian)",
-   "title_zh": null,
-   "start": "2026-11-13T19:30:00+08:00",
-   "end": "2026-11-13T22:00:00+08:00",
-   "venue": "Shenmao Commercial Center",
-   "address": "Shenmao Commercial Center, Futian",
-   "area": "Futian",
-   "district": "福田区",
-   "categories": [
-    "Meetups",
-    "Business"
-   ],
-   "schema_type": "SocialEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "CBD Toastmasters Club",
-   "summary": "Friday-evening Toastmasters club in central Futian, from 7:30pm. Open to all; free guest visits.",
-   "image": "https://szmeetups.com/img/fallback/meetup-business.jpg",
-   "url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting",
-   "calendar_url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 7,
-   "next_occurrences": [
-    "2026-11-13T19:30:00+08:00",
-    "2026-11-20T19:30:00+08:00",
-    "2026-11-27T19:30:00+08:00",
-    "2026-12-04T19:30:00+08:00",
-    "2026-12-11T19:30:00+08:00",
-    "2026-12-18T19:30:00+08:00",
-    "2026-12-25T19:30:00+08:00"
-   ],
-   "summary_zh": "周五晚间的 Toastmasters 俱乐部，在福田市中心，19:30 开始。欢迎所有人，嘉宾可免费参观。"
   },
   {
    "id": "double-d-bilingual-corner-fridays",
@@ -1869,6 +1577,41 @@
     "2026-12-25T19:30:00+08:00"
    ],
    "summary_zh": "轻松的周五中英双语交流，面向本地与国际参与者。"
+  },
+  {
+   "id": "cbd-toastmasters-club-meeting",
+   "title": "CBD Toastmasters: Friday Public Speaking Night (Futian)",
+   "title_zh": null,
+   "start": "2026-11-13T19:30:00+08:00",
+   "end": "2026-11-13T22:00:00+08:00",
+   "venue": "Shenmao Commercial Center",
+   "address": "Shenmao Commercial Center, Futian",
+   "area": "Futian",
+   "district": "福田区",
+   "categories": [
+    "Meetups",
+    "Business"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "CBD Toastmasters Club",
+   "summary": "Friday-evening Toastmasters club in central Futian, from 7:30pm. Open to all; free guest visits.",
+   "image": "https://szmeetups.com/img/fallback/meetup-business.jpg",
+   "url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting",
+   "calendar_url": "https://szmeetups.com/events/cbd-toastmasters-club-meeting/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-13T19:30:00+08:00",
+    "2026-11-20T19:30:00+08:00",
+    "2026-11-27T19:30:00+08:00",
+    "2026-12-04T19:30:00+08:00",
+    "2026-12-11T19:30:00+08:00",
+    "2026-12-18T19:30:00+08:00",
+    "2026-12-25T19:30:00+08:00"
+   ],
+   "summary_zh": "周五晚间的 Toastmasters 俱乐部，在福田市中心，19:30 开始。欢迎所有人，嘉宾可免费参观。"
   },
   {
    "id": "the-flames-language-culture-exchange",
@@ -1910,6 +1653,35 @@
    "summary_zh": "海上世界周五晚的语言文化交流：桌游、饮品和任意语言的对话，参与者有本地人、学生和来自世界各地的外国人。"
   },
   {
+   "id": "kiremico-open-mic-renaissance-apark",
+   "title": "Kiremico Open Mic — Renaissance aPark",
+   "title_zh": null,
+   "start": "2026-11-13T20:00:00+08:00",
+   "end": "2026-11-13T20:00:00+08:00",
+   "venue": "Renaissance (aPark)",
+   "address": "Renaissance (aPark)",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Open Mic"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Kiremico",
+   "summary": "Kiremico's open mic at Renaissance aPark in Meilin — instruments provided, free entry, 8pm.",
+   "image": "https://szmeetups.com/r2/m/4a/4ad5373ecbf2faf27fe832ef0336e829aa40cc510c32ce378716741f26315256/orig.jpg",
+   "url": "https://szmeetups.com/events/kiremico-open-mic-renaissance-apark",
+   "calendar_url": "https://szmeetups.com/events/kiremico-open-mic-renaissance-apark/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-13T20:00:00+08:00"
+   ],
+   "summary_zh": "Kiremico 在梅林 Renaissance aPark 举办的开放麦，提供乐器，免费入场，晚 8 点。"
+  },
+  {
    "id": "the-seven-mile-journey-shenzhen-2026",
    "title": "The Seven Mile Journey — Tour 2026, Shenzhen",
    "title_zh": "New Noise呈现｜The Seven Mile Journey 2026 巡演  深圳站",
@@ -1937,6 +1709,226 @@
     "2026-11-13T20:30:00+08:00"
    ],
    "summary_zh": "丹麦器乐后摇老将，由 New Noise 呈现。"
+  },
+  {
+   "id": "shenzhen-striders-park-run",
+   "title": "Shenzhen Striders Park Run (Saturdays, Talent Park)",
+   "title_zh": null,
+   "start": "2026-11-14T07:45:00+08:00",
+   "end": "2026-11-14T10:15:00+08:00",
+   "venue": "Shenzhen Talent Park",
+   "address": "Shenzhen Talent Park, Nanshan",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Meetups",
+    "Sports & Fitness"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": "Free",
+   "languages": [
+    "english",
+    "zh"
+   ],
+   "organizer": "Shenzhen Striders",
+   "summary": "Free, volunteer-run timed 2.5 km or 5 km loop of Shenzhen Talent Park every Saturday morning. Warm-up at 7:45, all paces welcome.",
+   "image": "https://szmeetups.com/r2/m/f0/f0678dd77d26fc7f9d54ab5d2cf1eb99262d09568d94f5f38ceb59bc304e8972/orig.jpg",
+   "url": "https://szmeetups.com/events/shenzhen-striders-park-run",
+   "calendar_url": "https://szmeetups.com/events/shenzhen-striders-park-run/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-14T07:45:00+08:00",
+    "2026-11-21T07:45:00+08:00",
+    "2026-11-28T07:45:00+08:00",
+    "2026-12-05T07:45:00+08:00",
+    "2026-12-12T07:45:00+08:00",
+    "2026-12-19T07:45:00+08:00",
+    "2026-12-26T07:45:00+08:00"
+   ],
+   "summary_zh": "免费、由志愿者组织的计时跑：每周六早上在深圳人才公园环跑 2.5 公里或 5 公里，7:45 热身，欢迎所有配速。"
+  },
+  {
+   "id": "afrofit-sigma-coffee-saturdays",
+   "title": "AFROFIT at Sigma Coffee",
+   "title_zh": null,
+   "start": "2026-11-14T10:00:00+08:00",
+   "end": "2026-11-14T11:30:00+08:00",
+   "venue": "SIGMA Coffee Park",
+   "address": "SIGMA Coffee Park, Nanshan",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Meetups",
+    "Dance Fitness"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [
+    "chinese",
+    "english",
+    "language-light"
+   ],
+   "organizer": "AfroPulz Dance Academy",
+   "summary": "A Saturday morning Afro dance-fitness class on Sigma Coffee's Xili rooftop.",
+   "image": "https://szmeetups.com/r2/m/2d/2d6efe3488fe94b5ecf9b1da2cfb4f2d6a6a332b19f333f13d86c66470d06d49/orig.jpg",
+   "url": "https://szmeetups.com/events/afrofit-sigma-coffee-saturdays",
+   "calendar_url": "https://szmeetups.com/events/afrofit-sigma-coffee-saturdays/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-14T10:00:00+08:00",
+    "2026-11-21T10:00:00+08:00",
+    "2026-11-28T10:00:00+08:00",
+    "2026-12-05T10:00:00+08:00",
+    "2026-12-12T10:00:00+08:00",
+    "2026-12-19T10:00:00+08:00",
+    "2026-12-26T10:00:00+08:00"
+   ],
+   "summary_zh": "周六上午的非洲舞健身课，在 Sigma Coffee 西丽店的屋顶上。"
+  },
+  {
+   "id": "shekou-hash-house-harriers-saturday-run",
+   "title": "Shekou Hash House Harriers: Saturday Trail Run",
+   "title_zh": null,
+   "start": "2026-11-14T13:30:00+08:00",
+   "end": "2026-11-14T16:00:00+08:00",
+   "venue": "George & Dragon British Pub",
+   "address": "George & Dragon British Pub, Shekou",
+   "area": "Shekou",
+   "district": "南山区",
+   "categories": [
+    "Meetups",
+    "Sports & Fitness"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [
+    "english"
+   ],
+   "organizer": "Shekou Hash House Harriers",
+   "summary": "Every Saturday a bus leaves George & Dragon in Sea World at 13:30 for a hilly trail run or walk, then back to the pub for the circle. Just turn up.",
+   "image": "https://szmeetups.com/r2/m/4d/4de264af0fcc58c84b67c5c26dc3bc3070c94f3151cf613df004f73370f775d8/orig.jpg",
+   "url": "https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run",
+   "calendar_url": "https://szmeetups.com/events/shekou-hash-house-harriers-saturday-run/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 6,
+   "next_occurrences": [
+    "2026-11-14T13:30:00+08:00",
+    "2026-11-21T13:30:00+08:00",
+    "2026-11-28T13:30:00+08:00",
+    "2026-12-05T13:30:00+08:00",
+    "2026-12-12T13:30:00+08:00",
+    "2026-12-19T13:30:00+08:00"
+   ],
+   "summary_zh": "每周六 13:30 有巴士从海上世界 George & Dragon 出发，去山间越野跑或徒步，之后回酒吧聚会。直接到场即可。"
+  },
+  {
+   "id": "chillpill-gta-vice-city-beach-party-2026",
+   "title": "CHILLPILL: Vice City Beach Party at Casablanca",
+   "title_zh": null,
+   "start": "2026-11-14T15:00:00+08:00",
+   "end": "2026-11-14T15:00:00+08:00",
+   "venue": "Casablanca Beach Club",
+   "address": "Casablanca Beach Club",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Party"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": null,
+   "languages": [],
+   "organizer": "Casablanca Beach Club",
+   "summary": "A GTA-inspired sunset beach party in Dapeng with a ten-DJ lineup, house music and photo spots.",
+   "image": "https://szmeetups.com/r2/m/f4/f4d4d66663408449d905dbce856afdaf733a53f95c668738d919fbd219a05230/orig.jpg",
+   "url": "https://szmeetups.com/events/chillpill-gta-vice-city-beach-party-2026",
+   "calendar_url": "https://szmeetups.com/events/chillpill-gta-vice-city-beach-party-2026/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-14T15:00:00+08:00"
+   ],
+   "summary_zh": "一场以 GTA 为灵感的大鹏日落海滩派对，十位 DJ 阵容、浩室音乐，还有拍照打卡点。"
+  },
+  {
+   "id": "joy-city-chinese-english-cantonese-corner",
+   "title": "Chinese, English & Cantonese Corner at Joy City (Saturdays)",
+   "title_zh": null,
+   "start": "2026-11-14T19:30:00+08:00",
+   "end": "2026-11-14T22:00:00+08:00",
+   "venue": "Venue TBC",
+   "address": "Venue TBC, Shenzhen District",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Meetups",
+    "Language Exchange"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [
+    "zh",
+    "english",
+    "粤语"
+   ],
+   "organizer": "SZMeetups",
+   "summary": "A Saturday-evening language corner for foreigners, Hong Kongers and locals: Mandarin, English and Cantonese.",
+   "image": "https://szmeetups.com/img/fallback/meetup-language-exchange.jpg",
+   "url": "https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner",
+   "calendar_url": "https://szmeetups.com/events/joy-city-chinese-english-cantonese-corner/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 8,
+   "next_occurrences": [
+    "2026-11-14T19:30:00+08:00",
+    "2026-11-21T19:30:00+08:00",
+    "2026-11-28T19:30:00+08:00",
+    "2026-12-05T19:30:00+08:00",
+    "2026-12-12T19:30:00+08:00",
+    "2026-12-19T19:30:00+08:00",
+    "2026-12-26T19:30:00+08:00",
+    "2027-01-02T19:30:00+08:00"
+   ],
+   "summary_zh": "周六晚间的语言角，面向外国人、香港人和本地人：普通话、英语和粤语。"
+  },
+  {
+   "id": "latin-passion-saturday-social",
+   "title": "Passion Saturday: Latin Passion's Saturday Dance Party (Chegongmiao)",
+   "title_zh": null,
+   "start": "2026-11-14T21:30:00+08:00",
+   "end": "2026-11-15T00:00:00+08:00",
+   "venue": "Latin Passion Studio (Chegongmiao)",
+   "address": "Latin Passion Studio (Chegongmiao), Futian",
+   "area": "Futian",
+   "district": "福田区",
+   "categories": [
+    "Meetups",
+    "Dance"
+   ],
+   "schema_type": "SocialEvent",
+   "fee": null,
+   "languages": [
+    "en",
+    "zh"
+   ],
+   "organizer": "Latin Passion Dance Academy",
+   "summary": "Latin Passion's Saturday party in its Chegongmiao studio: a kizomba room and a bachata/salsa room from 9:30pm, with a class before.",
+   "image": "https://szmeetups.com/img/fallback/meetup-dance.jpg",
+   "url": "https://szmeetups.com/events/latin-passion-saturday-social",
+   "calendar_url": "https://szmeetups.com/events/latin-passion-saturday-social/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 7,
+   "next_occurrences": [
+    "2026-11-14T21:30:00+08:00",
+    "2026-11-21T21:30:00+08:00",
+    "2026-11-28T21:30:00+08:00",
+    "2026-12-05T21:30:00+08:00",
+    "2026-12-12T21:30:00+08:00",
+    "2026-12-19T21:30:00+08:00",
+    "2026-12-26T21:30:00+08:00"
+   ],
+   "summary_zh": "Latin Passion 在其车公庙工作室的周六派对：晚上 9:30 起设 kizomba 房和 bachata/salsa 房，派对前有课程。"
   },
   {
    "id": "ai-wordpress-meetup-shenzhen-november-2026",
@@ -1997,6 +1989,37 @@
    "summary_zh": "独立乐队潮池蓝（Chaosland）将带合成器色彩的独立流行带到 B10 Live。"
   },
   {
+   "id": "amcham-south-china-business-summit-apec-2026-shenzhen",
+   "title": "AmCham South China Business Summit & Philadelphia Orchestra Chamber Ensemble",
+   "title_zh": null,
+   "start": "2026-11-17T13:30:00+08:00",
+   "end": "2026-11-17T18:15:00+08:00",
+   "venue": "Novel Park Summer Palace Auditorium",
+   "address": "Novel Park Summer Palace Auditorium, Nanshan",
+   "area": "Nanshan",
+   "district": "南山区",
+   "categories": [
+    "Trade Shows & Conferences",
+    "Business"
+   ],
+   "schema_type": "BusinessEvent",
+   "fee": "Free",
+   "languages": [
+    "english"
+   ],
+   "organizer": "AmCham South China",
+   "summary": "An English-language APEC sidelines business summit followed by a Philadelphia Orchestra chamber ensemble performance. Free, with member priority.",
+   "image": "https://szmeetups.com/img/fallback/conference.jpg",
+   "url": "https://szmeetups.com/events/amcham-south-china-business-summit-apec-2026-shenzhen",
+   "calendar_url": "https://szmeetups.com/events/amcham-south-china-business-summit-apec-2026-shenzhen/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-17T13:30:00+08:00"
+   ],
+   "summary_zh": "一场英语进行的 APEC 边会商务峰会，随后是 Philadelphia Orchestra 室内乐团演出。免费，会员优先。"
+  },
+  {
    "id": "tiktok-shop-managed-selling-roadshow-shenzhen-2026",
    "title": "TikTok Shop Managed Selling Roadshow — Shenzhen",
    "title_zh": null,
@@ -2028,6 +2051,42 @@
    "summary_zh": "免费的 TikTok Shop 卖家巡回活动，主题包括全托管与本地托管计划、平台支持和黑五供货机会。"
   },
   {
+   "id": "open-stage-open-mic-at-no-vacancy",
+   "title": "Kiremico Open Mic",
+   "title_zh": null,
+   "start": "2026-11-19T20:00:00+08:00",
+   "end": "2026-11-19T20:00:00+08:00",
+   "venue": "No Vacancy Bar",
+   "address": "No Vacancy Bar",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Open Mic"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Kiremico",
+   "summary": "Weekly open mic from the Kiremico music community — instruments provided, every set recorded. All levels, every Thursday.",
+   "image": "https://szmeetups.com/r2/m/48/4897e55762ea11afc49dcdd6eff106e1ec4255c97aa3d14e0729b31f43baac91/orig.jpg",
+   "url": "https://szmeetups.com/events/open-stage-open-mic-at-no-vacancy",
+   "calendar_url": "https://szmeetups.com/events/open-stage-open-mic-at-no-vacancy/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 11,
+   "next_occurrences": [
+    "2026-11-19T20:00:00+08:00",
+    "2026-11-26T20:00:00+08:00",
+    "2026-12-03T20:00:00+08:00",
+    "2026-12-10T20:00:00+08:00",
+    "2026-12-17T20:00:00+08:00",
+    "2026-12-24T20:00:00+08:00",
+    "2026-12-31T20:00:00+08:00",
+    "2027-01-07T20:00:00+08:00"
+   ],
+   "summary_zh": "Kiremico 音乐社群每周举办的开放麦——提供乐器，每场演出都会录制。面向所有水平，每周四举行。"
+  },
+  {
    "id": "lo-ta-yu-spring-dragon-shenzhen",
    "title": "Lo Ta-yu «Spring Dragon Symphony Night» — Shenzhen",
    "title_zh": "2026罗大佑《春龙交响夜》巡回终章-深圳站",
@@ -2056,6 +2115,35 @@
     "2026-11-21T19:30:00+08:00"
    ],
    "summary_zh": "台湾创作歌手罗大佑以交响乐版《Spring Dragon》巡演收官，在龙岗连演两晚，全坐席。"
+  },
+  {
+   "id": "unprocessed-shenzhen-2026",
+   "title": "Unprocessed — Tour 2026, Shenzhen",
+   "title_zh": "欧陆前卫重型风向标UNPROCESSED 2026巡演深圳站",
+   "start": "2026-11-20T20:00:00+08:00",
+   "end": "2026-11-20T20:00:00+08:00",
+   "venue": "B10 Live",
+   "address": "B10 Live",
+   "area": "Shenzhen",
+   "district": null,
+   "categories": [
+    "Shows & Nightlife",
+    "Indie"
+   ],
+   "schema_type": "MusicEvent",
+   "fee": "¥180–¥320",
+   "languages": [],
+   "organizer": "B10 Live",
+   "summary": "Continental-European progressive heavy music from Germany's Unprocessed.",
+   "image": "https://szmeetups.com/r2/m/f6/f6125b716f3c4d76edcc643a8c0f27bf4db6798e51be44149dacefd4b52639c3/orig.jpg",
+   "url": "https://szmeetups.com/events/unprocessed-shenzhen-2026",
+   "calendar_url": "https://szmeetups.com/events/unprocessed-shenzhen-2026/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2026-11-20T20:00:00+08:00"
+   ],
+   "summary_zh": "来自德国 Unprocessed 的欧洲大陆前卫重型音乐。"
   },
   {
    "id": "shallowend-shenzhen-2026",
@@ -2114,35 +2202,6 @@
     "2026-11-20T20:00:00+08:00"
    ],
    "summary_zh": "北京独立乐队脆莓（Brickleberry）在其 Vibrant Life 巡演中，于 HOU LIVE 的 Joy Harbour 空间演出。"
-  },
-  {
-   "id": "unprocessed-shenzhen-2026",
-   "title": "Unprocessed — Tour 2026, Shenzhen",
-   "title_zh": "欧陆前卫重型风向标UNPROCESSED 2026巡演深圳站",
-   "start": "2026-11-20T20:00:00+08:00",
-   "end": "2026-11-20T20:00:00+08:00",
-   "venue": "B10 Live",
-   "address": "B10 Live",
-   "area": "Shenzhen",
-   "district": null,
-   "categories": [
-    "Shows & Nightlife",
-    "Indie"
-   ],
-   "schema_type": "MusicEvent",
-   "fee": "¥180–¥320",
-   "languages": [],
-   "organizer": "B10 Live",
-   "summary": "Continental-European progressive heavy music from Germany's Unprocessed.",
-   "image": "https://szmeetups.com/r2/m/f6/f6125b716f3c4d76edcc643a8c0f27bf4db6798e51be44149dacefd4b52639c3/orig.jpg",
-   "url": "https://szmeetups.com/events/unprocessed-shenzhen-2026",
-   "calendar_url": "https://szmeetups.com/events/unprocessed-shenzhen-2026/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2026-11-20T20:00:00+08:00"
-   ],
-   "summary_zh": "来自德国 Unprocessed 的欧洲大陆前卫重型音乐。"
   },
   {
    "id": "dccc-julefrokost-shenzhen-2026",
@@ -3578,6 +3637,35 @@
    "summary_zh": "增材制造与 3D 打印展会；2026 年有 330 家参展商和 34,202 名观众。"
   },
   {
+   "id": "iicie-2027",
+   "title": "IICIE 2027: International Integrated Circuit Innovation Expo",
+   "title_zh": null,
+   "start": "2027-09-08T09:30:00+08:00",
+   "end": "2027-09-10T17:00:00+08:00",
+   "venue": "Shenzhen World Exhibition & Convention Center",
+   "address": "1 Zhancheng Rd, Fuhai, Bao'an District",
+   "area": "Bao'an",
+   "district": "宝安区",
+   "categories": [
+    "Trade Shows",
+    "International Integrated Circuit Innovation Expo (IICIE)"
+   ],
+   "schema_type": "ExhibitionEvent",
+   "fee": "Free",
+   "languages": [],
+   "organizer": "Shenzhen Herong Zhongxin Exhibition Co., Ltd.",
+   "summary": "Integrated-circuit industry-chain expo: chip design, manufacturing, packaging and equipment; 935 exhibitors in 2026.",
+   "image": "https://szmeetups.com/r2/m/ce/cebf6e5dcdfbb592d8a62270756a1b58907256d0f7b4751ae1b9f1e52f89af14/orig.jpg",
+   "url": "https://szmeetups.com/events/iicie-2027",
+   "calendar_url": "https://szmeetups.com/events/iicie-2027/calendar.ics",
+   "source": "SZMeetups",
+   "occurrences_count": 1,
+   "next_occurrences": [
+    "2027-09-08T09:30:00+08:00"
+   ],
+   "summary_zh": "集成电路产业链博览会：芯片设计、制造、封测与设备；2026 年有 935 家参展商。"
+  },
+  {
    "id": "cioe-2027",
    "title": "CIOE 2027: 28th China Int'l Optoelectronic Expo",
    "title_zh": null,
@@ -3634,35 +3722,6 @@
     "2027-09-08T09:30:00+08:00"
    ],
    "summary_zh": "电子元器件与嵌入式系统展：芯片、存储、嵌入式/边缘 AI、功率半导体与汽车电子。"
-  },
-  {
-   "id": "iicie-2027",
-   "title": "IICIE 2027: International Integrated Circuit Innovation Expo",
-   "title_zh": null,
-   "start": "2027-09-08T09:30:00+08:00",
-   "end": "2027-09-10T17:00:00+08:00",
-   "venue": "Shenzhen World Exhibition & Convention Center",
-   "address": "1 Zhancheng Rd, Fuhai, Bao'an District",
-   "area": "Bao'an",
-   "district": "宝安区",
-   "categories": [
-    "Trade Shows",
-    "International Integrated Circuit Innovation Expo (IICIE)"
-   ],
-   "schema_type": "ExhibitionEvent",
-   "fee": "Free",
-   "languages": [],
-   "organizer": "Shenzhen Herong Zhongxin Exhibition Co., Ltd.",
-   "summary": "Integrated-circuit industry-chain expo: chip design, manufacturing, packaging and equipment; 935 exhibitors in 2026.",
-   "image": "https://szmeetups.com/r2/m/ce/cebf6e5dcdfbb592d8a62270756a1b58907256d0f7b4751ae1b9f1e52f89af14/orig.jpg",
-   "url": "https://szmeetups.com/events/iicie-2027",
-   "calendar_url": "https://szmeetups.com/events/iicie-2027/calendar.ics",
-   "source": "SZMeetups",
-   "occurrences_count": 1,
-   "next_occurrences": [
-    "2027-09-08T09:30:00+08:00"
-   ],
-   "summary_zh": "集成电路产业链博览会：芯片设计、制造、封测与设备；2026 年有 935 家参展商。"
   },
   {
    "id": "shenzhen-seo-conference-2027",

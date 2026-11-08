@@ -1,642 +1,666 @@
 {
- "new-link-kapoor-eliasson-shenzhen-international-art-museum": {
-  "h": "35bc4f48dec2",
-  "zh": "Kapoor、Eliasson 等国际艺术大牌齐聚新开馆的深圳国际美术馆，其他楼层还有徐冰的展览与一场艺术与科技双年展。"
- },
- "qian-lihuai-weft-genesis-sea-world-culture-arts-center": {
-  "h": "4c6b983b68e0",
-  "zh": "出自一位曾在巴黎、威尼斯展出的乌镇匠人之手的 20 多件大型竹编作品，结尾是一间陈列近 100 颗发光竹球的暗室。"
- },
- "pan-yuliang-exhibition-mocape-shenzhen": {
-  "h": "7e6ce56e7fed",
-  "zh": "潘玉良油画、水墨、线描与版画大型回顾展，追溯这位先锋现代艺术家在中国与欧洲之间的艺术轨迹。"
- },
- "lingnan-macro-insect-photography-shenzhen-art-museum": {
-  "h": "220493e5023b",
-  "zh": "数百幅微距摄影作品，展现深圳山野与公园里的蝴蝶、昆虫、花朵结构等微小生命。"
- },
- "yan-shanchun-archaeology-of-memory-mocape": {
-  "h": "7b71a733e472",
-  "zh": "以静谧西湖山水见长的深圳画家严善錞个展，在福田 MOCAPE 展出至 11 月 19 日。"
- },
- "austronesian-seafarers-exhibition-ocat-shenzhen": {
-  "h": "33431cc2c0fd",
-  "zh": "南岛语族的日常与祭祀器物——他们曾从中国—台湾海岸扬帆横渡太平洋；展于华侨城创意文化园 OCAT，至 11 月 1 日。"
- },
- "dunhuang-in-bloom-chang-shana-shenzhen-art-museum": {
-  "h": "b1f2a85adcff",
-  "zh": "设计家常沙娜约 300 件作品：她一生临摹敦煌壁画、将敦煌图案转化为现代设计，其中包括中国第一件国礼。"
- },
- "sun-xun-star-map-and-fantasy-wanxia-1012-shekou": {
-  "h": "7d2badbfd30f",
-  "zh": "孙逊手绘动画世界的免费个展：木刻、金箔与水墨，源自他耗时十年的动画长片。"
- },
- "foreign-lands-and-mother-tongue-he-xiangning-art-museum": {
-  "h": "abf282f2f7ed",
-  "zh": "海外华人创作者的设计、字体与艺术作品，遍布这座华侨城美术馆的六大主展厅。"
- },
- "happy-valley-halloween-shenzhen-2026": {
-  "h": "d81a15b796b3",
-  "zh": "深圳规模最大的万圣节活动：十座鬼屋、主题夜游区、巡游和数百名装扮角色，在欢乐谷持续至 11 月 22 日。"
- },
- "david-hockney-bigger-closer-shenzhen": {
-  "h": "30e31b8ed8cb",
-  "zh": "曾在伦敦 Lightroom 首演的 David Hockney 沉浸式展览，现来到深圳湾万象城全新的 BASE 数字艺术中心，设有英文场次。"
- },
- "city-polyphony-shenzhen-time-mocape-2026": {
-  "h": "59edbd2ec225",
-  "zh": "一幅深圳的当代艺术肖像：通过艺术家关于迁徙、大芬、气候、植物与城市急速变迁的记忆来讲述。"
- },
- "jon-burgerman-its-great-to-create-prince-bay-art-center": {
-  "h": "629d8e345b4d",
-  "zh": "英国艺术家 Jon Burgerman 色彩缤纷、可动手参与的展览，为蛇口新开的太子湾艺术中心揭幕，2026 年 9 月 30 日至 2027 年 2 月 28 日，票价 38 元起。"
- },
- "michael-najjar-morphing-equilibrium-fotografiska-shenzhen": {
-  "h": "0c0ca2fb2c73",
-  "zh": "德国艺术家 Michael Najjar 的大型摄影与影像作品，主题是失衡的地球，其中一件深圳题材作品在此首次展出；展至 1 月 17 日。"
- },
- "transcendent-realities-fotografiska-shenzhen": {
-  "h": "fc43433168a3",
-  "zh": "曾在 Fotografiska 上海展出的六位艺术家，在一座 8.5 米挑高的展厅重聚，包括 Michael Najjar 的航拍深圳作品。"
- },
- "toiletpaper-fotografiska-shenzhen": {
-  "h": "3044cbc395d2",
-  "zh": "Maurizio Cattelan 与 Pierpaolo Ferrari 糖果色、超现实的影像世界，首次在中国展出。"
- },
- "shi-guowei-festa-fotografiska-shenzhen": {
-  "h": "80184b984c3b",
-  "zh": "中国节庆主题的手工上色照片，介于摄影与绘画之间。"
- },
- "prix-pictet-storm-fotografiska-shenzhen": {
-  "h": "9dd6425dbf3c",
-  "zh": "全球重要的摄影与可持续发展大奖 Prix Pictet 的 12 组入围系列，在 Fotografiska 深圳开馆季展出。"
- },
- "prehistoric-planet-dinosaurs-immersive-shenzhen": {
-  "h": "f79c47f3e0ee",
-  "zh": "在全新的 BASE 数字艺术中心，与 Apple TV+ 和 BBC 剧集中的等身大恐龙共处一小时，影像从地板投射到天花板，设有英文场次。"
- },
- "splendid-china-sleepless-nights-halloween-2026": {
-  "h": "1728a7593239",
-  "zh": "锦绣中华的万圣节玩法：面具夜游节，配上戏曲鬼怪、宋朝街市人物和 DJ 带队的收尾巡游。"
- },
- "zhang-boju-pan-su-art-exhibition-shenzhen-2026": {
-  "h": "4689c9cf4a1f",
-  "zh": "免费展览，梳理张伯驹与潘素的收藏、书法与绘画，以及他们与何香凝的交往。"
- },
- "revolucion-dia-de-muertos-halloween-2026": {
-  "h": "76bc131af851",
-  "zh": "10 月 30 日和 31 日：骷髅面部彩绘、表演与舞蹈，在福田。"
- },
- "gg-halloween-night-market-2026": {
-  "h": "756eb2c07086",
-  "zh": "2026 年 10 月 30 日至 11 月 1 日，下午 4 点至晚上 11 点。"
- },
- "shenzhen-striders-park-run": {
-  "h": "e98ec053a634",
-  "zh": "免费、由志愿者组织的计时跑：每周六早上在深圳人才公园环跑 2.5 公里或 5 公里，7:45 热身，欢迎所有配速。"
- },
- "afrofit-sigma-coffee-saturdays": {
-  "h": "c2a7056f2ef9",
-  "zh": "周六上午的非洲舞健身课，在 Sigma Coffee 西丽店的屋顶上。"
- },
- "sunset-radio-casablanca-beach-club": {
-  "h": "f985b6191593",
-  "zh": "大鹏沙鱼涌海滩上从午餐持续到午夜之后的海滩 DJ：日落演出、鸡尾酒、排球和国际化的人群。"
- },
- "mixblood-halloween-casablanca-beach-club-2026": {
-  "h": "90b9586b5783",
-  "zh": "沙鱼涌全天万圣节海滩派对：八位 DJ、日落后篝火、恐怖主题舞者和现场化妆师。"
- },
- "flames-kids-halloween-party-2026": {
-  "h": "3e58e5552000",
-  "zh": "双语儿童万圣节派对，含自助午餐、面部彩绘、手作、游戏和服装比赛。"
- },
- "brass-house-halloween-2026": {
-  "h": "fd20e47534ff",
-  "zh": "DJ Traxtarr 与 Manuvitch，以及在水围举行的服装比赛。"
- },
- "la-galerie-halloween-jazz-2026": {
-  "h": "64c0d84440c1",
-  "zh": "La Galerie Wine Club 主办万圣节爵士之夜，主唱 Freya Tsang 与吉他手 Li Xiaomu 演出。"
- },
- "shekou-hash-house-harriers-saturday-run": {
-  "h": "710ac5031fe2",
-  "zh": "每周六 13:30 有巴士从海上世界 George & Dragon 出发，去山间越野跑或徒步，之后回酒吧聚会。直接到场即可。"
- },
- "mj-apanay-shenzhen-2026": {
-  "h": "7243d4b1915a",
-  "zh": "菲律宾创作歌手 mj apanay 首次中国巡演：HOU LIVE 下午场演出。"
- },
- "aqua-afro-wave-pool-party-sensea-2026-10-31": {
-  "h": "022bc21535c0",
-  "zh": "SENSEA 西涌海滩上方无边泳池的泳池派对，从下午持续到日落：Afrobeat、Amapiano 与 Afro House，下午 2 点至晚上 9 点。"
- },
- "ranoo-halloween-island-takeover-2026": {
-  "h": "7443db6fb078",
-  "zh": "RANOO 万圣节市集欢迎人与宠物参加：变装、不给糖就捣蛋、肖像照与宠物游行，地点在太子湾 VILLA，时间为下午 3:30 至 10 点。"
- },
- "social-face-halloween-sunset-k11-2026": {
-  "h": "2a7ca8480fa3",
-  "zh": "Social Face 在 K11 ECOAST 的 NANA BADA 举办万圣节日落 DJ 派对，UNDERMIND 与神秘嘉宾 DJ 演绎流行、EDM 与 house 音乐。"
- },
- "craft-head-12th-anniversary-2026": {
-  "h": "3cdf4bae19eb",
-  "zh": "万圣节周末的周年庆：每小时抽奖，啤酒特价 12 元。"
- },
- "k11-ecoast-halloween-pirate-night-2026": {
-  "h": "a46a0d64c7c6",
-  "zh": "K11 ECOAST 在南馆屋顶花园举办海盗主题万圣节 DJ 派对。"
- },
- "cube-climb-or-trick-hubei-2026": {
-  "h": "9925f4316a6f",
-  "zh": "CUBE 湖北店举办万圣节攀岩线路、游戏、奖品和服装比赛。"
- },
- "cube-climb-or-trick-baoti-2026": {
-  "h": "8d1dc56e2c49",
-  "zh": "CUBE 宝体店的万圣节攀岩派对，有荧光攀岩线路、游戏、奖品和服装比赛。"
- },
- "vinyl-house-thriller-night-2026": {
-  "h": "28748ad0af12",
-  "zh": "深圳的 Michael Jackson 粉丝社群与 Vinyl House 举办万圣节聚会：黑胶唱片、Thriller 舞蹈、视频、抽奖和一款主题饮品。"
- },
- "yoga-lin-super-butler-shenzhen": {
-  "h": "5035ee31bf26",
-  "zh": "台湾歌手林宥嘉《Super Butler》世界巡演两晚，10 月 30–31 日在深圳湾体育场举行。"
- },
- "it-takes-2-halloween-weekend-xili-2026": {
-  "h": "4dcd7a73a258",
-  "zh": "在西丽，两晚的变装、鸡尾酒和结识新朋友。"
- },
- "latin-passion-halloween-neon-party-2026": {
-  "h": "4212f7d184e5",
-  "zh": "荧光妆容、bachata 课程，以及在车公庙的两间房拉丁舞派对。"
- },
- "joy-city-chinese-english-cantonese-corner": {
-  "h": "e0f34b59e44c",
-  "zh": "周六晚间的语言角，面向外国人、香港人和本地人：普通话、英语和粤语。"
- },
- "karen-souza-shenzhen-2026": {
-  "h": "1b466ac11aa1",
-  "zh": "阿根廷烟嗓爵士与 bossa nova 歌手的晚间音乐会，全坐席。"
- },
- "spanish-club-dia-de-muertos-party-2026": {
-  "h": "8a87b8b0b69a",
-  "zh": "亡灵节庆祝活动，有游戏、变装和饮品，在罗湖。"
- },
- "club-hive-halloween-party-nanshan-2026": {
-  "h": "cbd14aceb704",
-  "zh": "一场变装社交活动，含短途散步、化妆、现场音乐和 DJ。"
- },
- "msf-halloween-party-wooz-hilton-futian-2026": {
-  "h": "5875205c2283",
-  "zh": "MSF 年度万圣节之夜移师福田希尔顿 23 楼的 WOOZ：嘻哈、Afro 与 dancehall，每张票含一杯迎宾饮品。"
- },
- "ours-halloween-mgm-prince-bay-2026": {
-  "h": "62d970716c24",
-  "zh": "在太子湾上方 32 楼的万圣节之夜：室内有现场灵魂乐队，屋顶露台有六位 house DJ。"
- },
- "chillpill-thai-eerie-story-upperhills-2026": {
-  "h": "16cdffacbbbe",
-  "zh": "CHILLPILL 把泰式主题万圣节派对带到深业上城三楼的泰国餐饮广场，四位 DJ 演绎东南亚 house 音乐。"
- },
- "flames-halloween-night-soul-blend-2026": {
-  "h": "195cf4eb38bd",
-  "zh": "The Flames 举办成人万圣节派对，晚上 8 点开始。"
- },
- "renaissance-cantonese-ghost-stories-2026": {
-  "h": "dfbeb5aa37db",
-  "zh": "DooBusking 在 aPark 的 Renaissance 将粤语歌曲与鬼故事结合，庆祝万圣节。"
- },
- "fancywall-shenzhen-2026": {
-  "h": "5416554985e3",
-  "zh": "独立乐队花墙（FancyWall）成军十年，在万圣节之夜于 MAO 带来《This, That》巡演。"
- },
- "gba-culture-arts-festival-2026-shenzhen": {
-  "h": "0f88c3690371",
-  "zh": "为期一个月、覆盖大湾区 11 座城市的演出季：148 部剧目、25 场展览和约 100 场免费公众活动，首次在深圳开幕。"
- },
- "summertime-sadness-shenzhen-2026": {
-  "h": "12fa2bf9f75a",
-  "zh": "夏日麽麽茶（Summertime Sadness）以循环驱动的舞曲朋克，开启首次全国巡演。"
- },
- "kings-bar-halloween-party-baoan-2026": {
-  "h": "f144def0e6f4",
-  "zh": "在宝安中心的 King's Bar，两晚变装、DJ EYE 和最佳服装比赛。"
- },
- "tigers-den-den-of-the-dead-halloween-2026": {
-  "h": "608df5c1c1c5",
-  "zh": "万圣节之夜免费入场的变装派对，在 Tiger's Den 位于福田体育公园旁的新址，DJ Sahasra 晚上 9 点起演出。"
- },
- "pandora-parties-halloween-lost-kingdom-2026": {
-  "h": "f3dc104be6bf",
-  "zh": "Pandora Parties 为深圳本地与国际人群举办的第 11 届万圣节派对：在南山的变装与假面派对，有 DJ、服装比赛和摄影师。"
- },
- "latin-passion-saturday-social": {
-  "h": "03dfc9860474",
-  "zh": "Latin Passion 在其车公庙工作室的周六派对：晚上 9:30 起设 kizomba 房和 bachata/salsa 房，派对前有课程。"
- },
- "live-band-nights-the-terrace-shekou": {
-  "h": "1f7940ae3cea",
-  "zh": "The Terrace 的驻场乐队 T.A.S. 每晚 9:30 起在海上世界演绎翻唱歌曲，之后是 DJ 时段。"
- },
- "noise-after-dark-bar-mine-2026": {
-  "h": "170fbe7ac8f7",
-  "zh": "NOISE 在 BAR MINE 呈现 After Dark，KAIYI、KEY 与 K1SOV 演绎流行、嘻哈、EDM 与 techno。"
- },
- "free-chinese-class-for-foreigners-baoan": {
-  "h": "74ffd427ee18",
-  "zh": "面向外国人的免费每周普通话课程：初级 9:30，中级 11:00，HSK 1–4。"
- },
- "amazon-peak-season-advertising-salon-shenzhen-2026": {
-  "h": "817ecfd2d6e7",
-  "zh": "一场小型中文卖家沙龙，探讨亚马逊旺季广告还有哪些增长空间，以及如何设定合理的花费边界。"
- },
- "changeway-bilingual-toastmasters-sunday-meeting": {
-  "h": "ac976223cce5",
-  "zh": "英汉双语 Toastmasters 俱乐部，周日下午 2:30 在车公庙附近开会，嘉宾可旁听。"
- },
- "convovibe-english-corner-universiade-park": {
-  "h": "f9ed90856a57",
-  "zh": "免费的周日下午英语角与文化交流活动，在大运公园里的一家书吧咖啡馆。"
- },
- "english-corner-longhua-baishilong": {
-  "h": "d17b06ce035c",
-  "zh": "轻松的英语角，在白石龙地铁站上方的一家小西式酒吧，每周三晚：聊天、游戏和音乐，欢迎所有语言和国籍的人。"
- },
- "liberty-english-dinner-party-english-corner": {
-  "h": "3284bd50150c",
-  "zh": "晚餐桌上的英语对话，由母语者主持：每周一个新话题，适合所有水平，参与者以中国学习者为主，也有几位国际朋友。"
- },
- "mosi-zishi-shenzhen-2026": {
-  "h": "c81a0aa1ff37",
-  "zh": "来自凉山的彝族民谣创作歌手莫西子诗，带着他的乐队和极具穿透力的嗓音，在 B10 演出仅此一晚。"
- },
- "quadrant-shenzhen-2026": {
-  "h": "e37ad2342701",
-  "zh": "北京器乐乐队 Quadrant（气象限定）在其亚洲巡演中来到 HOU LIVE：数学摇滚、后摇与中西部 emo，无人声。"
- },
- "takeout-comedy-open-mic": {
-  "h": "b643953ca228",
-  "zh": "The Flames 楼上的免费英文脱口秀开放麦，就在海上世界。可以当晚上台报名，也可以只来观看。"
- },
- "daydayuphood-halloween-rave-bus-2026": {
-  "h": "03bd61b2cb6c",
-  "zh": "双层派对巴士，车上有 DJ，万圣节之夜三小时环游城市，最后在罗湖的 after-party 收尾。"
- },
- "dmz-toastmasters-club-meeting": {
-  "h": "0a03a20fd0f9",
-  "zh": "周一晚间的 Toastmasters 俱乐部，在南山后海，19:30–21:30。嘉宾可免费参观。"
- },
- "siafl-monday-night-football": {
-  "h": "e6807c914037",
-  "zh": "深圳的外籍足球联赛每周一 20:45 在福田海滨生态体育公园的灯光球场开赛：可以来观赛，也可以报名找一支球队。"
- },
- "speak-and-bloom-shekou-tuesday-english-corner": {
-  "h": "416e306dcf00",
-  "zh": "蛇口的一个小型周二上午英语讨论小组，为轻松练口语和结识新朋友而设。"
- },
- "shenzhen-toastmasters-club-weekly-meeting": {
-  "h": "4d371d005630",
-  "zh": "深圳第一家 Toastmasters 俱乐部，自 2003 年起每周二举行：英文演讲、即兴 Table Topics 和友善点评。嘉宾免费，无需预约。"
- },
- "barfly-shekou-language-exchange": {
-  "h": "b7061971d706",
-  "zh": "在 Barfly 轻松聊一小时英汉双语——这家蛇口酒吧自 2012 年营业——边喝一杯边聊。"
- },
- "shekou-imagine-toastmasters-club-meeting": {
-  "h": "c0e9bde49c84",
-  "zh": "蛇口的 Toastmasters 公众演讲俱乐部，周三晚 19:30–21:30 在公园路的蛇口电视台。嘉宾可免费参观。"
- },
- "latino-dance-wednesdays": {
-  "h": "f5499749ade3",
-  "zh": "福田一家古巴鸡尾酒吧的免费周中 salsa 与 bachata 之夜，含一节免费的 bachata 新手课。"
- },
- "longhua-cross-border-sellers-tea-salon": {
-  "h": "9e160df1a3ce",
-  "zh": "龙华的 TikTok、亚马逊和独立站卖家每周小聚：边喝茶边交换供应商、打法和人脉。名额有限。"
- },
- "sea-world-series-trivia-night": {
-  "h": "942a1791f8f4",
-  "zh": "蛇口的周三 trivia 联赛，在 George & Dragon 与 Gecko 之间轮替。免费参加，每队最多六人。"
- },
- "takeout-comedy-open-mic-wednesdays": {
-  "h": "12ec57b25608",
-  "zh": "海上世界周三的免费英文脱口秀开放麦：向主持人报名可讲五分钟，也可以只来观看。"
- },
- "grok-bot-amazon-listing-workshop-shenzhen-2026": {
-  "h": "9346020c73f9",
-  "zh": "一场中文实操卖家沙龙，用 Grok Bot 从竞品调研一路做到 listing 创建与发布。"
- },
- "double-d-chinese-corner-thursdays": {
-  "h": "58f8de8fc2de",
-  "zh": "每周的普通话会话活动，在南山科技园附近的鲜山新中式茶馆。"
- },
- "craft-head-pub-quiz": {
-  "h": "6d14fd7696d0",
-  "zh": "福田一家精酿啤酒吧的周四酒吧问答：常识、电影、音乐与体育，每轮获胜者可得一杯免费啤酒（一品脱）。"
- },
- "ship-toastmasters-club-meeting": {
-  "h": "09f8fe6f643f",
-  "zh": "历史悠久的 Toastmasters 俱乐部，位于南山高科技园，周四 19:30–21:30。嘉宾可免费参观。"
- },
- "men-i-trust-shenzhen-2026": {
-  "h": "17b5c6f6e9f4",
-  "zh": "魁北克梦幻独立流行三人组：轻柔人声、温暖贝斯、轻松摇摆。"
- },
- "tiktok-shop-3c-seller-workshop-shenzhen-2026": {
-  "h": "8cce3d42104d",
-  "zh": "一场免费的中文卖家课程，主题包括 GMV Max、黑五 3C 活动、AI 运营和美国直播带货。"
- },
- "a-little-conversation-shenzhen-2026": {
-  "h": "4c150ef58531",
-  "zh": "成都流行摇滚二人组简单对话（A Little Conversation）在其 2026 巡演中于 HOU LIVE 演出。"
- },
- "cbd-toastmasters-club-meeting": {
-  "h": "03032ac5a1c2",
-  "zh": "周五晚间的 Toastmasters 俱乐部，在福田市中心，19:30 开始。欢迎所有人，嘉宾可免费参观。"
- },
- "double-d-bilingual-corner-fridays": {
-  "h": "d64fb45ae959",
-  "zh": "轻松的周五中英双语交流，面向本地与国际参与者。"
- },
- "the-flames-language-culture-exchange": {
-  "h": "7bc3a0727549",
-  "zh": "海上世界周五晚的语言文化交流：桌游、饮品和任意语言的对话，参与者有本地人、学生和来自世界各地的外国人。"
- },
- "feixing-guanjun-shenzhen-2026": {
-  "h": "b5f432d556e3",
-  "zh": "洛阳摇滚乐队飞行冠军携新专辑《浮出水面》巡演，在 CH8 演出。"
- },
- "indignu-shenzhen-2026": {
-  "h": "ef33246499a4",
-  "zh": "葡萄牙后摇，配小提琴：缓慢推进的器乐作品。"
- },
- "grapes-not-angry-shenzhen-2026": {
-  "h": "48689a24f6e6",
-  "zh": "北京流行朋克乐队葡萄不愤怒，成立于 2013 年，将其 2026 巡演带到 MAO 海上世界店。"
- },
- "the-pains-of-being-pure-at-heart-shenzhen-2026": {
-  "h": "cb100c0188ab",
-  "zh": "纽约噪音流行宠儿，毛茸茸的吉他与甜美旋律，原班人马回归。"
- },
- "sleep-leaps-shenzhen-2026": {
-  "h": "cdea85a2a23f",
-  "zh": "成都四人乐队 Sleep Leaps 在其 2026 巡演中于 B10 Live 演绎带 lo-fi 色彩的独立摇滚。"
- },
- "schnellertollermeier-shenzhen-2026": {
-  "h": "eeaaa25adb87",
-  "zh": "瑞士器乐三人组，融合数学摇滚、爵士与噪音，由 SoundFact 呈现。"
- },
- "gong-gong-gong-shenzhen-2026": {
-  "h": "4186c14b9ee3",
-  "zh": "北京吉他与贝斯二人组工工工在 B10 演出 80 分钟：40 分钟《Phantom Rhythm》精选，40 分钟下张专辑的新歌。"
- },
- "the-seven-mile-journey-shenzhen-2026": {
-  "h": "0207a093adb8",
-  "zh": "丹麦器乐后摇老将，由 New Noise 呈现。"
- },
- "chaosland-shenzhen-2026": {
-  "h": "9e818776f8e6",
-  "zh": "独立乐队潮池蓝（Chaosland）将带合成器色彩的独立流行带到 B10 Live。"
- },
- "tiktok-shop-managed-selling-roadshow-shenzhen-2026": {
-  "h": "12745c5c3f1d",
-  "zh": "免费的 TikTok Shop 卖家巡回活动，主题包括全托管与本地托管计划、平台支持和黑五供货机会。"
- },
- "lo-ta-yu-spring-dragon-shenzhen": {
-  "h": "e3f3b351d17a",
-  "zh": "台湾创作歌手罗大佑以交响乐版《Spring Dragon》巡演收官，在龙岗连演两晚，全坐席。"
- },
- "shallowend-shenzhen-2026": {
-  "h": "01d00100ff2d",
-  "zh": "北京独立乐队浅水（ShallowEnd），摩登天空 M-LAB 旗下，携新专辑《容器》巡演。"
- },
- "brickleberry-shenzhen-2026": {
-  "h": "81edc97db508",
-  "zh": "北京独立乐队脆莓（Brickleberry）在其 Vibrant Life 巡演中，于 HOU LIVE 的 Joy Harbour 空间演出。"
- },
- "unprocessed-shenzhen-2026": {
-  "h": "8a424783e561",
-  "zh": "来自德国 Unprocessed 的欧洲大陆前卫重型音乐。"
- },
- "dccc-julefrokost-shenzhen-2026": {
-  "h": "24f6cc958595",
-  "zh": "丹麦商会在前海的深圳圣诞派对：丹麦圣诞菜单、颂歌、游戏和大型抽奖。欢迎所有人，不限丹麦人。"
- },
- "david-hugo-shenzhen-2026": {
-  "h": "2e76b7916344",
-  "zh": "美国创作歌手 David Hugo 在 HOU LIVE 的下午场演出。"
- },
- "kings-of-convenience-shenzhen-2026": {
-  "h": "2b88533a8d65",
-  "zh": "挪威温柔的民谣流行二人组：两把吉他、贴近的和声和一个安静愉快的现场。"
- },
- "brandtech-global-brand-innovation-summit-shenzhen-2026": {
-  "h": "fd8d16c98790",
-  "zh": "为期一天的品牌出海峰会，跨境营销演讲者与服务商齐聚深圳会展中心。"
- },
- "cpse-shenzhen-2026": {
-  "h": "2028b96c1624",
-  "zh": "电动车充电、换电站、光储充、储能与电池技术展会。"
- },
- "black-country-new-road-shenzhen-2026": {
-  "h": "de27d0bcf600",
-  "zh": "英国艺术摇滚组合 Black Country, New Road 的 2026 巡演来到 MAO：小提琴、萨克斯与强烈的动态起伏。"
- },
- "chtf-2026": {
-  "h": "4e4f8a7e8df7",
-  "zh": "中国规模最大的国家级高科技展会，自 1999 年起举办：AI、机器人、半导体、低空经济、能源与生物科技；2026 年新增“大能源”板块。"
- },
- "teach-each-other-ai-meetup": {
-  "h": "5c07ff4900e1",
-  "zh": "华强北的月度实操聚会，主题是用 AI 写代码：带上你的笔记本电脑、你的问题和你正在做的项目。"
- },
- "site-tourism-2026": {
-  "h": "d79272de5eb1",
-  "zh": "华南旅游商贸与消费展，结合 B2B 对接与公众活动，另有研学旅行和自驾装备展。"
- },
- "tian-yuan-shenzhen-2026": {
-  "h": "8dfd2038bd44",
-  "zh": "歌手、演员兼 Hopscotch 主唱田原，带着她的乐队 Impossible Triangle 巡演新专辑。"
- },
- "ln-party-shenzhen-2026": {
-  "h": "c43a416f29c1",
-  "zh": "北京独立乐队昨夜派对（L.N.Party）在 HOU LIVE 为其 2026《For Us》巡演收官。"
- },
- "demxntia-shenzhen-2026": {
-  "h": "c42021644811",
-  "zh": "来自坦帕的越南裔美国创作歌手兼制作人 demxntia，融合 R&B 与电子流行，正在进行 2026 巡演。"
- },
- "itherm-2026": {
-  "h": "5d005ef4e28b",
-  "zh": "热管理会议与展览：导热材料、零部件、数据中心液冷、电动车/电池/储能热管理方案和测试设备。"
- },
- "cilf-2026": {
-  "h": "cbec1895c7e4",
-  "zh": "中国首个获商务部批准的供应链展会（自 2006 年起）：跨境物流、仓储、物流科技与无人车。"
- },
- "loupe-south-china-2026": {
-  "h": "8b21724b86ec",
-  "zh": "更名后的华南国际标签展（原 Labelexpo South China）：标签、中幅柔性包装与联线折叠纸盒，现场有印刷机运转演示。"
- },
- "hkpca-show-2026": {
-  "h": "542ad02c7711",
-  "zh": "以“AI 驱动科技”为主题的 PCB 与电子组装展会：HDI、玻璃基板、高速材料、AI 制造与先进封装。"
- },
- "dmp-2026": {
-  "h": "0f751278988f",
-  "zh": "华南工业机械展：数控机床、刀具、塑料机械、压铸、自动化/机器人与 3D 打印。"
- },
- "weifang-gaizao-shenzhen-2026": {
-  "h": "b19793920cde",
-  "zh": "福州乐队危房改造在其 2026 巡演中，将电子摇滚与中国民乐器融合。"
- },
- "a-gongguan-shenzhen-2026": {
-  "h": "f8d169660417",
-  "zh": "六人独立摇滚乐队 A公馆把深圳这场演出变成“摇滚铁人三项”：pogo、康茄舞队和跳水式跃入人群。"
- },
- "shenzhen-marathon-2026": {
-  "h": "3493dcfcaf55",
-  "zh": "深圳的大型全程马拉松：30,000 名跑者从市民中心出发，沿深南大道跑到宝安海滨。参赛资格靠抽签。"
- },
- "cibe-shenzhen-2026": {
-  "h": "69131ab21c42",
-  "zh": "CIBE 深圳站，面向美业与健康产业：院线美容、护肤、健康养生、美甲美睫与医疗美容。"
- },
- "cinie-2026": {
-  "h": "741dc2d4aa4a",
-  "zh": "年度核工业会议与展览，由中国能源研究会与中广核主办，中国主要核电与电力集团参与。"
- },
- "shenzhen-medical-devices-expo-2026": {
-  "h": "01ec6e04bbd4",
-  "zh": "医疗器械展会：医疗电子、影像、体外诊断、康复、外科器械、感染控制与家庭医疗。"
- },
- "sdhe-2026": {
-  "h": "444d4660bc12",
-  "zh": "口腔设备与材料展览，结合学术论坛和 120 多场面向牙科专业人士的会议。"
- },
- "tiktok-shop-europe-workshop-shenzhen-2026": {
-  "h": "df92e96ac293",
-  "zh": "TikTok Shop 面向拓展其 13 个欧洲市场的卖家的巡回活动：入驻、类目与内容驱动的销售。地址在报名后发送。"
- },
- "wakin-chau-shenzhen-concert-2026": {
-  "h": "7431a2dcc975",
-  "zh": "资深歌手周华健在大运体育馆连演两晚，全场大合唱的华语流行经典。"
- },
- "jon-steingard-shenzhen-2026": {
-  "h": "a3b6a7e5935f",
-  "zh": "以《Sold Out》和《Wildfire》为人所知的声音，在 MAO 的一场深圳演出。"
- },
- "maker-faire-shenzhen-2026": {
-  "h": "309ce2e7e6e7",
-  "zh": "深圳年度创客节 12 月 12–13 日回到万科云设计公社：来自世界各地的硬件创客、演示、工作坊、演讲和晚间派对，主题是 AI 与硬件相遇。"
- },
- "rainie-yang-shenzhen-concert-2026": {
-  "h": "9b2aaf42f3a9",
-  "zh": "台湾流行歌手兼演员杨丞琳在其世界巡演中，来到深圳体育中心体育场。"
- },
- "gdg-shenzhen-devfest-2026": {
-  "h": "4b4d25886541",
-  "zh": "GDG 深圳年度 DevFest：一整天的演讲与实操课程，主题包括 AI 智能体、编程助手、云与应用开发，面向大湾区的开发者。"
- },
- "buyi-band-shenzhen-2026": {
-  "h": "b3e7c676e406",
-  "zh": "成立 31 年的老牌摇滚乐队布衣，将其精简的吉他-贝斯-鼓巡演带到 B10 Live。"
- },
- "shenzhen-tea-expo-autumn-2026": {
-  "h": "c26dfc920cff",
-  "zh": "华巨臣秋季茶博会：来自约 2,000 家参展商的茶叶、茶具、包装与新式茶饮，展览面积 75,000 平方米。"
- },
- "shenzhen-agri-food-expo-2026": {
-  "h": "6c1662c12362",
-  "zh": "连接生态农业、食品配料与乡村振兴生产者与大湾区及东南亚买家的商贸展。"
- },
- "shenzhen-jewellery-jade-expo-2026": {
-  "h": "188225aad372",
-  "zh": "珠宝、玉石与饰品展，结合大湾区珠宝消费季。"
- },
- "shenzhen-100-trail-race-2026": {
-  "h": "a0614c3be61e",
-  "zh": "深圳的大型山地赛：100 公里从大鹏所城到大梅沙，爬升 7,190 米，另有 60 公里、35 公里和 10 公里组别，12 月 25–27 日。"
- },
- "shenzhen-bachata-festival-2027": {
-  "h": "0a2db00291cd",
-  "zh": "深圳首个国际 bachata 周末：13 小时工作坊、三晚派对和一场 Jack & Jill 比赛，教师来自欧洲和中国。"
- },
- "led-china-2027": {
-  "h": "48370748cac6",
-  "zh": "LED 显示、视听与数字标牌展会，是 Trust Exhibition 春季展的一部分，与 SIGN CHINA 同期举办。"
- },
- "shenzhen-pet-fair-2027": {
-  "h": "79922acb8df2",
-  "zh": "华南大型宠物行业展：宠物食品、玩具、猫砂、智能喂食器、美容与兽医用品、跨境电商馆，还有面向宠物主人的猫狗秀。"
- },
- "isle-2027": {
-  "h": "4f6ec456e04a",
-  "zh": "LED 与大屏智能显示、视听系统集成、专业灯光音响与标牌展会，参展商 1,000 多家。"
- },
- "szi-expo-2027": {
-  "h": "fb73a8ada238",
-  "zh": "成人健康与保健产品的 B2B 商贸展。"
- },
- "sife-2027": {
-  "h": "f76b495fb944",
-  "zh": "设计导向的家具展，涵盖住宅、建筑、室内、家具、软装、照明与办公空间。"
- },
- "ites-2027": {
-  "h": "e75738e3ad74",
-  "zh": "大型工业制造技术与设备展：机床、自动化与精密制造。"
- },
- "siuf-2027": {
-  "h": "67213a7814b0",
-  "zh": "深圳内衣行业年度展会：文胸、塑身衣、家居服、袜子与泳装品牌及工厂、面料与纤维，另有走秀和设计奖项。"
- },
- "gifts-home-fair-2027": {
-  "h": "4c497d0dcff6",
-  "zh": "深圳礼品展春季版：礼品、手工艺品、手表与家居用品，面向企业、经销、零售与电商买家。"
- },
- "cime-shenzhen-2027": {
-  "h": "f8749b4701c3",
-  "zh": "三个同期展会：AI 计算基础设施、数据中心液冷，以及导热界面与散热材料。"
- },
- "shenzhen-watch-week-2027": {
-  "h": "7922a7cdfcb1",
-  "zh": "深圳年度钟表展，加上 WINNOTIME 可穿戴创新展。场馆待确认；2026 年那届在福田会展中心举行。"
- },
- "ccbec-2027": {
-  "h": "20ab6509cbf0",
-  "zh": "B2B 跨境电商选品与服务展：平台、物流、支付与营销。"
- },
- "iote-2027": {
-  "h": "4bf24fab161a",
-  "zh": "中国规模最大的专业物联网展之一，自 2009 年起举办；设有 AGIC 2027 AI 产业专区。"
- },
- "formnext-asia-2027": {
-  "h": "0ab0fade71eb",
-  "zh": "增材制造与 3D 打印展会；2026 年有 330 家参展商和 34,202 名观众。"
- },
- "elexcon-2027": {
-  "h": "8238fead81f3",
-  "zh": "电子元器件与嵌入式系统展：芯片、存储、嵌入式/边缘 AI、功率半导体与汽车电子。"
- },
- "cioe-2027": {
-  "h": "49de5d0acb5e",
-  "zh": "光电全产业链博览会，设八大主题展；2026 年有 4,060 家参展商、展览面积 260,000 平方米。"
- },
- "iicie-2027": {
-  "h": "fa8072a671c8",
-  "zh": "集成电路产业链博览会：芯片设计、制造、封测与设备；2026 年有 935 家参展商。"
- },
- "shenzhen-seo-conference-2027": {
-  "h": "6f0b9252ce23",
-  "zh": "英文 SEO 大会，连接西方与中国的搜索营销人，2027 年 9 月 19–24 日在深圳瑞吉酒店。"
- },
- "ai-wordpress-meetup-shenzhen-november-2026": {
-  "h": "a1ba161bc29f",
-  "zh": "通过项目示例、动手实践与交流互动，探索 AI 辅助的 WordPress 建站。"
- },
- "open-stage-open-mic-at-no-vacancy": {
-  "h": "f59caaa4bc0d",
-  "zh": "Kiremico 音乐社群每周举办的开放麦——提供乐器，每场演出都会录制。面向所有水平，每周四举行。"
- }
+  "new-link-kapoor-eliasson-shenzhen-international-art-museum": {
+    "h": "35bc4f48dec2",
+    "zh": "Kapoor、Eliasson 等国际艺术大牌齐聚新开馆的深圳国际美术馆，其他楼层还有徐冰的展览与一场艺术与科技双年展。"
+  },
+  "qian-lihuai-weft-genesis-sea-world-culture-arts-center": {
+    "h": "4c6b983b68e0",
+    "zh": "出自一位曾在巴黎、威尼斯展出的乌镇匠人之手的 20 多件大型竹编作品，结尾是一间陈列近 100 颗发光竹球的暗室。"
+  },
+  "pan-yuliang-exhibition-mocape-shenzhen": {
+    "h": "7e6ce56e7fed",
+    "zh": "潘玉良油画、水墨、线描与版画大型回顾展，追溯这位先锋现代艺术家在中国与欧洲之间的艺术轨迹。"
+  },
+  "lingnan-macro-insect-photography-shenzhen-art-museum": {
+    "h": "220493e5023b",
+    "zh": "数百幅微距摄影作品，展现深圳山野与公园里的蝴蝶、昆虫、花朵结构等微小生命。"
+  },
+  "yan-shanchun-archaeology-of-memory-mocape": {
+    "h": "7b71a733e472",
+    "zh": "以静谧西湖山水见长的深圳画家严善錞个展，在福田 MOCAPE 展出至 11 月 19 日。"
+  },
+  "austronesian-seafarers-exhibition-ocat-shenzhen": {
+    "h": "33431cc2c0fd",
+    "zh": "南岛语族的日常与祭祀器物——他们曾从中国—台湾海岸扬帆横渡太平洋；展于华侨城创意文化园 OCAT，至 11 月 1 日。"
+  },
+  "dunhuang-in-bloom-chang-shana-shenzhen-art-museum": {
+    "h": "b1f2a85adcff",
+    "zh": "设计家常沙娜约 300 件作品：她一生临摹敦煌壁画、将敦煌图案转化为现代设计，其中包括中国第一件国礼。"
+  },
+  "sun-xun-star-map-and-fantasy-wanxia-1012-shekou": {
+    "h": "7d2badbfd30f",
+    "zh": "孙逊手绘动画世界的免费个展：木刻、金箔与水墨，源自他耗时十年的动画长片。"
+  },
+  "foreign-lands-and-mother-tongue-he-xiangning-art-museum": {
+    "h": "abf282f2f7ed",
+    "zh": "海外华人创作者的设计、字体与艺术作品，遍布这座华侨城美术馆的六大主展厅。"
+  },
+  "happy-valley-halloween-shenzhen-2026": {
+    "h": "d81a15b796b3",
+    "zh": "深圳规模最大的万圣节活动：十座鬼屋、主题夜游区、巡游和数百名装扮角色，在欢乐谷持续至 11 月 22 日。"
+  },
+  "david-hockney-bigger-closer-shenzhen": {
+    "h": "30e31b8ed8cb",
+    "zh": "曾在伦敦 Lightroom 首演的 David Hockney 沉浸式展览，现来到深圳湾万象城全新的 BASE 数字艺术中心，设有英文场次。"
+  },
+  "city-polyphony-shenzhen-time-mocape-2026": {
+    "h": "59edbd2ec225",
+    "zh": "一幅深圳的当代艺术肖像：通过艺术家关于迁徙、大芬、气候、植物与城市急速变迁的记忆来讲述。"
+  },
+  "jon-burgerman-its-great-to-create-prince-bay-art-center": {
+    "h": "629d8e345b4d",
+    "zh": "英国艺术家 Jon Burgerman 色彩缤纷、可动手参与的展览，为蛇口新开的太子湾艺术中心揭幕，2026 年 9 月 30 日至 2027 年 2 月 28 日，票价 38 元起。"
+  },
+  "michael-najjar-morphing-equilibrium-fotografiska-shenzhen": {
+    "h": "0c0ca2fb2c73",
+    "zh": "德国艺术家 Michael Najjar 的大型摄影与影像作品，主题是失衡的地球，其中一件深圳题材作品在此首次展出；展至 1 月 17 日。"
+  },
+  "transcendent-realities-fotografiska-shenzhen": {
+    "h": "fc43433168a3",
+    "zh": "曾在 Fotografiska 上海展出的六位艺术家，在一座 8.5 米挑高的展厅重聚，包括 Michael Najjar 的航拍深圳作品。"
+  },
+  "toiletpaper-fotografiska-shenzhen": {
+    "h": "3044cbc395d2",
+    "zh": "Maurizio Cattelan 与 Pierpaolo Ferrari 糖果色、超现实的影像世界，首次在中国展出。"
+  },
+  "shi-guowei-festa-fotografiska-shenzhen": {
+    "h": "80184b984c3b",
+    "zh": "中国节庆主题的手工上色照片，介于摄影与绘画之间。"
+  },
+  "prix-pictet-storm-fotografiska-shenzhen": {
+    "h": "9dd6425dbf3c",
+    "zh": "全球重要的摄影与可持续发展大奖 Prix Pictet 的 12 组入围系列，在 Fotografiska 深圳开馆季展出。"
+  },
+  "prehistoric-planet-dinosaurs-immersive-shenzhen": {
+    "h": "f79c47f3e0ee",
+    "zh": "在全新的 BASE 数字艺术中心，与 Apple TV+ 和 BBC 剧集中的等身大恐龙共处一小时，影像从地板投射到天花板，设有英文场次。"
+  },
+  "splendid-china-sleepless-nights-halloween-2026": {
+    "h": "1728a7593239",
+    "zh": "锦绣中华的万圣节玩法：面具夜游节，配上戏曲鬼怪、宋朝街市人物和 DJ 带队的收尾巡游。"
+  },
+  "zhang-boju-pan-su-art-exhibition-shenzhen-2026": {
+    "h": "4689c9cf4a1f",
+    "zh": "免费展览，梳理张伯驹与潘素的收藏、书法与绘画，以及他们与何香凝的交往。"
+  },
+  "revolucion-dia-de-muertos-halloween-2026": {
+    "h": "76bc131af851",
+    "zh": "10 月 30 日和 31 日：骷髅面部彩绘、表演与舞蹈，在福田。"
+  },
+  "gg-halloween-night-market-2026": {
+    "h": "756eb2c07086",
+    "zh": "2026 年 10 月 30 日至 11 月 1 日，下午 4 点至晚上 11 点。"
+  },
+  "shenzhen-striders-park-run": {
+    "h": "e98ec053a634",
+    "zh": "免费、由志愿者组织的计时跑：每周六早上在深圳人才公园环跑 2.5 公里或 5 公里，7:45 热身，欢迎所有配速。"
+  },
+  "afrofit-sigma-coffee-saturdays": {
+    "h": "c2a7056f2ef9",
+    "zh": "周六上午的非洲舞健身课，在 Sigma Coffee 西丽店的屋顶上。"
+  },
+  "sunset-radio-casablanca-beach-club": {
+    "h": "f985b6191593",
+    "zh": "大鹏沙鱼涌海滩上从午餐持续到午夜之后的海滩 DJ：日落演出、鸡尾酒、排球和国际化的人群。"
+  },
+  "mixblood-halloween-casablanca-beach-club-2026": {
+    "h": "90b9586b5783",
+    "zh": "沙鱼涌全天万圣节海滩派对：八位 DJ、日落后篝火、恐怖主题舞者和现场化妆师。"
+  },
+  "flames-kids-halloween-party-2026": {
+    "h": "3e58e5552000",
+    "zh": "双语儿童万圣节派对，含自助午餐、面部彩绘、手作、游戏和服装比赛。"
+  },
+  "brass-house-halloween-2026": {
+    "h": "fd20e47534ff",
+    "zh": "DJ Traxtarr 与 Manuvitch，以及在水围举行的服装比赛。"
+  },
+  "la-galerie-halloween-jazz-2026": {
+    "h": "64c0d84440c1",
+    "zh": "La Galerie Wine Club 主办万圣节爵士之夜，主唱 Freya Tsang 与吉他手 Li Xiaomu 演出。"
+  },
+  "shekou-hash-house-harriers-saturday-run": {
+    "h": "710ac5031fe2",
+    "zh": "每周六 13:30 有巴士从海上世界 George & Dragon 出发，去山间越野跑或徒步，之后回酒吧聚会。直接到场即可。"
+  },
+  "mj-apanay-shenzhen-2026": {
+    "h": "7243d4b1915a",
+    "zh": "菲律宾创作歌手 mj apanay 首次中国巡演：HOU LIVE 下午场演出。"
+  },
+  "aqua-afro-wave-pool-party-sensea-2026-10-31": {
+    "h": "022bc21535c0",
+    "zh": "SENSEA 西涌海滩上方无边泳池的泳池派对，从下午持续到日落：Afrobeat、Amapiano 与 Afro House，下午 2 点至晚上 9 点。"
+  },
+  "ranoo-halloween-island-takeover-2026": {
+    "h": "7443db6fb078",
+    "zh": "RANOO 万圣节市集欢迎人与宠物参加：变装、不给糖就捣蛋、肖像照与宠物游行，地点在太子湾 VILLA，时间为下午 3:30 至 10 点。"
+  },
+  "social-face-halloween-sunset-k11-2026": {
+    "h": "2a7ca8480fa3",
+    "zh": "Social Face 在 K11 ECOAST 的 NANA BADA 举办万圣节日落 DJ 派对，UNDERMIND 与神秘嘉宾 DJ 演绎流行、EDM 与 house 音乐。"
+  },
+  "craft-head-12th-anniversary-2026": {
+    "h": "3cdf4bae19eb",
+    "zh": "万圣节周末的周年庆：每小时抽奖，啤酒特价 12 元。"
+  },
+  "k11-ecoast-halloween-pirate-night-2026": {
+    "h": "a46a0d64c7c6",
+    "zh": "K11 ECOAST 在南馆屋顶花园举办海盗主题万圣节 DJ 派对。"
+  },
+  "cube-climb-or-trick-hubei-2026": {
+    "h": "9925f4316a6f",
+    "zh": "CUBE 湖北店举办万圣节攀岩线路、游戏、奖品和服装比赛。"
+  },
+  "cube-climb-or-trick-baoti-2026": {
+    "h": "8d1dc56e2c49",
+    "zh": "CUBE 宝体店的万圣节攀岩派对，有荧光攀岩线路、游戏、奖品和服装比赛。"
+  },
+  "vinyl-house-thriller-night-2026": {
+    "h": "28748ad0af12",
+    "zh": "深圳的 Michael Jackson 粉丝社群与 Vinyl House 举办万圣节聚会：黑胶唱片、Thriller 舞蹈、视频、抽奖和一款主题饮品。"
+  },
+  "yoga-lin-super-butler-shenzhen": {
+    "h": "5035ee31bf26",
+    "zh": "台湾歌手林宥嘉《Super Butler》世界巡演两晚，10 月 30–31 日在深圳湾体育场举行。"
+  },
+  "it-takes-2-halloween-weekend-xili-2026": {
+    "h": "4dcd7a73a258",
+    "zh": "在西丽，两晚的变装、鸡尾酒和结识新朋友。"
+  },
+  "latin-passion-halloween-neon-party-2026": {
+    "h": "4212f7d184e5",
+    "zh": "荧光妆容、bachata 课程，以及在车公庙的两间房拉丁舞派对。"
+  },
+  "joy-city-chinese-english-cantonese-corner": {
+    "h": "e0f34b59e44c",
+    "zh": "周六晚间的语言角，面向外国人、香港人和本地人：普通话、英语和粤语。"
+  },
+  "karen-souza-shenzhen-2026": {
+    "h": "1b466ac11aa1",
+    "zh": "阿根廷烟嗓爵士与 bossa nova 歌手的晚间音乐会，全坐席。"
+  },
+  "spanish-club-dia-de-muertos-party-2026": {
+    "h": "8a87b8b0b69a",
+    "zh": "亡灵节庆祝活动，有游戏、变装和饮品，在罗湖。"
+  },
+  "club-hive-halloween-party-nanshan-2026": {
+    "h": "cbd14aceb704",
+    "zh": "一场变装社交活动，含短途散步、化妆、现场音乐和 DJ。"
+  },
+  "msf-halloween-party-wooz-hilton-futian-2026": {
+    "h": "5875205c2283",
+    "zh": "MSF 年度万圣节之夜移师福田希尔顿 23 楼的 WOOZ：嘻哈、Afro 与 dancehall，每张票含一杯迎宾饮品。"
+  },
+  "ours-halloween-mgm-prince-bay-2026": {
+    "h": "62d970716c24",
+    "zh": "在太子湾上方 32 楼的万圣节之夜：室内有现场灵魂乐队，屋顶露台有六位 house DJ。"
+  },
+  "chillpill-thai-eerie-story-upperhills-2026": {
+    "h": "16cdffacbbbe",
+    "zh": "CHILLPILL 把泰式主题万圣节派对带到深业上城三楼的泰国餐饮广场，四位 DJ 演绎东南亚 house 音乐。"
+  },
+  "flames-halloween-night-soul-blend-2026": {
+    "h": "195cf4eb38bd",
+    "zh": "The Flames 举办成人万圣节派对，晚上 8 点开始。"
+  },
+  "renaissance-cantonese-ghost-stories-2026": {
+    "h": "dfbeb5aa37db",
+    "zh": "DooBusking 在 aPark 的 Renaissance 将粤语歌曲与鬼故事结合，庆祝万圣节。"
+  },
+  "fancywall-shenzhen-2026": {
+    "h": "5416554985e3",
+    "zh": "独立乐队花墙（FancyWall）成军十年，在万圣节之夜于 MAO 带来《This, That》巡演。"
+  },
+  "gba-culture-arts-festival-2026-shenzhen": {
+    "h": "0f88c3690371",
+    "zh": "为期一个月、覆盖大湾区 11 座城市的演出季：148 部剧目、25 场展览和约 100 场免费公众活动，首次在深圳开幕。"
+  },
+  "summertime-sadness-shenzhen-2026": {
+    "h": "12fa2bf9f75a",
+    "zh": "夏日麽麽茶（Summertime Sadness）以循环驱动的舞曲朋克，开启首次全国巡演。"
+  },
+  "kings-bar-halloween-party-baoan-2026": {
+    "h": "f144def0e6f4",
+    "zh": "在宝安中心的 King's Bar，两晚变装、DJ EYE 和最佳服装比赛。"
+  },
+  "tigers-den-den-of-the-dead-halloween-2026": {
+    "h": "608df5c1c1c5",
+    "zh": "万圣节之夜免费入场的变装派对，在 Tiger's Den 位于福田体育公园旁的新址，DJ Sahasra 晚上 9 点起演出。"
+  },
+  "pandora-parties-halloween-lost-kingdom-2026": {
+    "h": "f3dc104be6bf",
+    "zh": "Pandora Parties 为深圳本地与国际人群举办的第 11 届万圣节派对：在南山的变装与假面派对，有 DJ、服装比赛和摄影师。"
+  },
+  "latin-passion-saturday-social": {
+    "h": "03dfc9860474",
+    "zh": "Latin Passion 在其车公庙工作室的周六派对：晚上 9:30 起设 kizomba 房和 bachata/salsa 房，派对前有课程。"
+  },
+  "live-band-nights-the-terrace-shekou": {
+    "h": "1f7940ae3cea",
+    "zh": "The Terrace 的驻场乐队 T.A.S. 每晚 9:30 起在海上世界演绎翻唱歌曲，之后是 DJ 时段。"
+  },
+  "noise-after-dark-bar-mine-2026": {
+    "h": "170fbe7ac8f7",
+    "zh": "NOISE 在 BAR MINE 呈现 After Dark，KAIYI、KEY 与 K1SOV 演绎流行、嘻哈、EDM 与 techno。"
+  },
+  "free-chinese-class-for-foreigners-baoan": {
+    "h": "74ffd427ee18",
+    "zh": "面向外国人的免费每周普通话课程：初级 9:30，中级 11:00，HSK 1–4。"
+  },
+  "amazon-peak-season-advertising-salon-shenzhen-2026": {
+    "h": "817ecfd2d6e7",
+    "zh": "一场小型中文卖家沙龙，探讨亚马逊旺季广告还有哪些增长空间，以及如何设定合理的花费边界。"
+  },
+  "changeway-bilingual-toastmasters-sunday-meeting": {
+    "h": "ac976223cce5",
+    "zh": "英汉双语 Toastmasters 俱乐部，周日下午 2:30 在车公庙附近开会，嘉宾可旁听。"
+  },
+  "convovibe-english-corner-universiade-park": {
+    "h": "f9ed90856a57",
+    "zh": "免费的周日下午英语角与文化交流活动，在大运公园里的一家书吧咖啡馆。"
+  },
+  "english-corner-longhua-baishilong": {
+    "h": "d17b06ce035c",
+    "zh": "轻松的英语角，在白石龙地铁站上方的一家小西式酒吧，每周三晚：聊天、游戏和音乐，欢迎所有语言和国籍的人。"
+  },
+  "liberty-english-dinner-party-english-corner": {
+    "h": "3284bd50150c",
+    "zh": "晚餐桌上的英语对话，由母语者主持：每周一个新话题，适合所有水平，参与者以中国学习者为主，也有几位国际朋友。"
+  },
+  "mosi-zishi-shenzhen-2026": {
+    "h": "c81a0aa1ff37",
+    "zh": "来自凉山的彝族民谣创作歌手莫西子诗，带着他的乐队和极具穿透力的嗓音，在 B10 演出仅此一晚。"
+  },
+  "quadrant-shenzhen-2026": {
+    "h": "e37ad2342701",
+    "zh": "北京器乐乐队 Quadrant（气象限定）在其亚洲巡演中来到 HOU LIVE：数学摇滚、后摇与中西部 emo，无人声。"
+  },
+  "takeout-comedy-open-mic": {
+    "h": "b643953ca228",
+    "zh": "The Flames 楼上的免费英文脱口秀开放麦，就在海上世界。可以当晚上台报名，也可以只来观看。"
+  },
+  "daydayuphood-halloween-rave-bus-2026": {
+    "h": "03bd61b2cb6c",
+    "zh": "双层派对巴士，车上有 DJ，万圣节之夜三小时环游城市，最后在罗湖的 after-party 收尾。"
+  },
+  "dmz-toastmasters-club-meeting": {
+    "h": "0a03a20fd0f9",
+    "zh": "周一晚间的 Toastmasters 俱乐部，在南山后海，19:30–21:30。嘉宾可免费参观。"
+  },
+  "siafl-monday-night-football": {
+    "h": "e6807c914037",
+    "zh": "深圳的外籍足球联赛每周一 20:45 在福田海滨生态体育公园的灯光球场开赛：可以来观赛，也可以报名找一支球队。"
+  },
+  "speak-and-bloom-shekou-tuesday-english-corner": {
+    "h": "416e306dcf00",
+    "zh": "蛇口的一个小型周二上午英语讨论小组，为轻松练口语和结识新朋友而设。"
+  },
+  "shenzhen-toastmasters-club-weekly-meeting": {
+    "h": "4d371d005630",
+    "zh": "深圳第一家 Toastmasters 俱乐部，自 2003 年起每周二举行：英文演讲、即兴 Table Topics 和友善点评。嘉宾免费，无需预约。"
+  },
+  "barfly-shekou-language-exchange": {
+    "h": "b7061971d706",
+    "zh": "在 Barfly 轻松聊一小时英汉双语——这家蛇口酒吧自 2012 年营业——边喝一杯边聊。"
+  },
+  "shekou-imagine-toastmasters-club-meeting": {
+    "h": "c0e9bde49c84",
+    "zh": "蛇口的 Toastmasters 公众演讲俱乐部，周三晚 19:30–21:30 在公园路的蛇口电视台。嘉宾可免费参观。"
+  },
+  "latino-dance-wednesdays": {
+    "h": "f5499749ade3",
+    "zh": "福田一家古巴鸡尾酒吧的免费周中 salsa 与 bachata 之夜，含一节免费的 bachata 新手课。"
+  },
+  "longhua-cross-border-sellers-tea-salon": {
+    "h": "9e160df1a3ce",
+    "zh": "龙华的 TikTok、亚马逊和独立站卖家每周小聚：边喝茶边交换供应商、打法和人脉。名额有限。"
+  },
+  "sea-world-series-trivia-night": {
+    "h": "942a1791f8f4",
+    "zh": "蛇口的周三 trivia 联赛，在 George & Dragon 与 Gecko 之间轮替。免费参加，每队最多六人。"
+  },
+  "takeout-comedy-open-mic-wednesdays": {
+    "h": "12ec57b25608",
+    "zh": "海上世界周三的免费英文脱口秀开放麦：向主持人报名可讲五分钟，也可以只来观看。"
+  },
+  "grok-bot-amazon-listing-workshop-shenzhen-2026": {
+    "h": "9346020c73f9",
+    "zh": "一场中文实操卖家沙龙，用 Grok Bot 从竞品调研一路做到 listing 创建与发布。"
+  },
+  "double-d-chinese-corner-thursdays": {
+    "h": "58f8de8fc2de",
+    "zh": "每周的普通话会话活动，在南山科技园附近的鲜山新中式茶馆。"
+  },
+  "craft-head-pub-quiz": {
+    "h": "6d14fd7696d0",
+    "zh": "福田一家精酿啤酒吧的周四酒吧问答：常识、电影、音乐与体育，每轮获胜者可得一杯免费啤酒（一品脱）。"
+  },
+  "ship-toastmasters-club-meeting": {
+    "h": "09f8fe6f643f",
+    "zh": "历史悠久的 Toastmasters 俱乐部，位于南山高科技园，周四 19:30–21:30。嘉宾可免费参观。"
+  },
+  "men-i-trust-shenzhen-2026": {
+    "h": "17b5c6f6e9f4",
+    "zh": "魁北克梦幻独立流行三人组：轻柔人声、温暖贝斯、轻松摇摆。"
+  },
+  "tiktok-shop-3c-seller-workshop-shenzhen-2026": {
+    "h": "8cce3d42104d",
+    "zh": "一场免费的中文卖家课程，主题包括 GMV Max、黑五 3C 活动、AI 运营和美国直播带货。"
+  },
+  "a-little-conversation-shenzhen-2026": {
+    "h": "4c150ef58531",
+    "zh": "成都流行摇滚二人组简单对话（A Little Conversation）在其 2026 巡演中于 HOU LIVE 演出。"
+  },
+  "cbd-toastmasters-club-meeting": {
+    "h": "03032ac5a1c2",
+    "zh": "周五晚间的 Toastmasters 俱乐部，在福田市中心，19:30 开始。欢迎所有人，嘉宾可免费参观。"
+  },
+  "double-d-bilingual-corner-fridays": {
+    "h": "d64fb45ae959",
+    "zh": "轻松的周五中英双语交流，面向本地与国际参与者。"
+  },
+  "the-flames-language-culture-exchange": {
+    "h": "7bc3a0727549",
+    "zh": "海上世界周五晚的语言文化交流：桌游、饮品和任意语言的对话，参与者有本地人、学生和来自世界各地的外国人。"
+  },
+  "feixing-guanjun-shenzhen-2026": {
+    "h": "b5f432d556e3",
+    "zh": "洛阳摇滚乐队飞行冠军携新专辑《浮出水面》巡演，在 CH8 演出。"
+  },
+  "indignu-shenzhen-2026": {
+    "h": "ef33246499a4",
+    "zh": "葡萄牙后摇，配小提琴：缓慢推进的器乐作品。"
+  },
+  "grapes-not-angry-shenzhen-2026": {
+    "h": "48689a24f6e6",
+    "zh": "北京流行朋克乐队葡萄不愤怒，成立于 2013 年，将其 2026 巡演带到 MAO 海上世界店。"
+  },
+  "the-pains-of-being-pure-at-heart-shenzhen-2026": {
+    "h": "cb100c0188ab",
+    "zh": "纽约噪音流行宠儿，毛茸茸的吉他与甜美旋律，原班人马回归。"
+  },
+  "sleep-leaps-shenzhen-2026": {
+    "h": "cdea85a2a23f",
+    "zh": "成都四人乐队 Sleep Leaps 在其 2026 巡演中于 B10 Live 演绎带 lo-fi 色彩的独立摇滚。"
+  },
+  "schnellertollermeier-shenzhen-2026": {
+    "h": "eeaaa25adb87",
+    "zh": "瑞士器乐三人组，融合数学摇滚、爵士与噪音，由 SoundFact 呈现。"
+  },
+  "gong-gong-gong-shenzhen-2026": {
+    "h": "4186c14b9ee3",
+    "zh": "北京吉他与贝斯二人组工工工在 B10 演出 80 分钟：40 分钟《Phantom Rhythm》精选，40 分钟下张专辑的新歌。"
+  },
+  "the-seven-mile-journey-shenzhen-2026": {
+    "h": "0207a093adb8",
+    "zh": "丹麦器乐后摇老将，由 New Noise 呈现。"
+  },
+  "chaosland-shenzhen-2026": {
+    "h": "9e818776f8e6",
+    "zh": "独立乐队潮池蓝（Chaosland）将带合成器色彩的独立流行带到 B10 Live。"
+  },
+  "tiktok-shop-managed-selling-roadshow-shenzhen-2026": {
+    "h": "12745c5c3f1d",
+    "zh": "免费的 TikTok Shop 卖家巡回活动，主题包括全托管与本地托管计划、平台支持和黑五供货机会。"
+  },
+  "lo-ta-yu-spring-dragon-shenzhen": {
+    "h": "e3f3b351d17a",
+    "zh": "台湾创作歌手罗大佑以交响乐版《Spring Dragon》巡演收官，在龙岗连演两晚，全坐席。"
+  },
+  "shallowend-shenzhen-2026": {
+    "h": "01d00100ff2d",
+    "zh": "北京独立乐队浅水（ShallowEnd），摩登天空 M-LAB 旗下，携新专辑《容器》巡演。"
+  },
+  "brickleberry-shenzhen-2026": {
+    "h": "81edc97db508",
+    "zh": "北京独立乐队脆莓（Brickleberry）在其 Vibrant Life 巡演中，于 HOU LIVE 的 Joy Harbour 空间演出。"
+  },
+  "unprocessed-shenzhen-2026": {
+    "h": "8a424783e561",
+    "zh": "来自德国 Unprocessed 的欧洲大陆前卫重型音乐。"
+  },
+  "dccc-julefrokost-shenzhen-2026": {
+    "h": "24f6cc958595",
+    "zh": "丹麦商会在前海的深圳圣诞派对：丹麦圣诞菜单、颂歌、游戏和大型抽奖。欢迎所有人，不限丹麦人。"
+  },
+  "david-hugo-shenzhen-2026": {
+    "h": "2e76b7916344",
+    "zh": "美国创作歌手 David Hugo 在 HOU LIVE 的下午场演出。"
+  },
+  "kings-of-convenience-shenzhen-2026": {
+    "h": "2b88533a8d65",
+    "zh": "挪威温柔的民谣流行二人组：两把吉他、贴近的和声和一个安静愉快的现场。"
+  },
+  "brandtech-global-brand-innovation-summit-shenzhen-2026": {
+    "h": "fd8d16c98790",
+    "zh": "为期一天的品牌出海峰会，跨境营销演讲者与服务商齐聚深圳会展中心。"
+  },
+  "cpse-shenzhen-2026": {
+    "h": "2028b96c1624",
+    "zh": "电动车充电、换电站、光储充、储能与电池技术展会。"
+  },
+  "black-country-new-road-shenzhen-2026": {
+    "h": "de27d0bcf600",
+    "zh": "英国艺术摇滚组合 Black Country, New Road 的 2026 巡演来到 MAO：小提琴、萨克斯与强烈的动态起伏。"
+  },
+  "chtf-2026": {
+    "h": "4e4f8a7e8df7",
+    "zh": "中国规模最大的国家级高科技展会，自 1999 年起举办：AI、机器人、半导体、低空经济、能源与生物科技；2026 年新增“大能源”板块。"
+  },
+  "teach-each-other-ai-meetup": {
+    "h": "5c07ff4900e1",
+    "zh": "华强北的月度实操聚会，主题是用 AI 写代码：带上你的笔记本电脑、你的问题和你正在做的项目。"
+  },
+  "site-tourism-2026": {
+    "h": "d79272de5eb1",
+    "zh": "华南旅游商贸与消费展，结合 B2B 对接与公众活动，另有研学旅行和自驾装备展。"
+  },
+  "tian-yuan-shenzhen-2026": {
+    "h": "8dfd2038bd44",
+    "zh": "歌手、演员兼 Hopscotch 主唱田原，带着她的乐队 Impossible Triangle 巡演新专辑。"
+  },
+  "ln-party-shenzhen-2026": {
+    "h": "c43a416f29c1",
+    "zh": "北京独立乐队昨夜派对（L.N.Party）在 HOU LIVE 为其 2026《For Us》巡演收官。"
+  },
+  "demxntia-shenzhen-2026": {
+    "h": "c42021644811",
+    "zh": "来自坦帕的越南裔美国创作歌手兼制作人 demxntia，融合 R&B 与电子流行，正在进行 2026 巡演。"
+  },
+  "itherm-2026": {
+    "h": "5d005ef4e28b",
+    "zh": "热管理会议与展览：导热材料、零部件、数据中心液冷、电动车/电池/储能热管理方案和测试设备。"
+  },
+  "cilf-2026": {
+    "h": "cbec1895c7e4",
+    "zh": "中国首个获商务部批准的供应链展会（自 2006 年起）：跨境物流、仓储、物流科技与无人车。"
+  },
+  "loupe-south-china-2026": {
+    "h": "8b21724b86ec",
+    "zh": "更名后的华南国际标签展（原 Labelexpo South China）：标签、中幅柔性包装与联线折叠纸盒，现场有印刷机运转演示。"
+  },
+  "hkpca-show-2026": {
+    "h": "542ad02c7711",
+    "zh": "以“AI 驱动科技”为主题的 PCB 与电子组装展会：HDI、玻璃基板、高速材料、AI 制造与先进封装。"
+  },
+  "dmp-2026": {
+    "h": "0f751278988f",
+    "zh": "华南工业机械展：数控机床、刀具、塑料机械、压铸、自动化/机器人与 3D 打印。"
+  },
+  "weifang-gaizao-shenzhen-2026": {
+    "h": "b19793920cde",
+    "zh": "福州乐队危房改造在其 2026 巡演中，将电子摇滚与中国民乐器融合。"
+  },
+  "a-gongguan-shenzhen-2026": {
+    "h": "f8d169660417",
+    "zh": "六人独立摇滚乐队 A公馆把深圳这场演出变成“摇滚铁人三项”：pogo、康茄舞队和跳水式跃入人群。"
+  },
+  "shenzhen-marathon-2026": {
+    "h": "3493dcfcaf55",
+    "zh": "深圳的大型全程马拉松：30,000 名跑者从市民中心出发，沿深南大道跑到宝安海滨。参赛资格靠抽签。"
+  },
+  "cibe-shenzhen-2026": {
+    "h": "69131ab21c42",
+    "zh": "CIBE 深圳站，面向美业与健康产业：院线美容、护肤、健康养生、美甲美睫与医疗美容。"
+  },
+  "cinie-2026": {
+    "h": "741dc2d4aa4a",
+    "zh": "年度核工业会议与展览，由中国能源研究会与中广核主办，中国主要核电与电力集团参与。"
+  },
+  "shenzhen-medical-devices-expo-2026": {
+    "h": "01ec6e04bbd4",
+    "zh": "医疗器械展会：医疗电子、影像、体外诊断、康复、外科器械、感染控制与家庭医疗。"
+  },
+  "sdhe-2026": {
+    "h": "444d4660bc12",
+    "zh": "口腔设备与材料展览，结合学术论坛和 120 多场面向牙科专业人士的会议。"
+  },
+  "tiktok-shop-europe-workshop-shenzhen-2026": {
+    "h": "df92e96ac293",
+    "zh": "TikTok Shop 面向拓展其 13 个欧洲市场的卖家的巡回活动：入驻、类目与内容驱动的销售。地址在报名后发送。"
+  },
+  "wakin-chau-shenzhen-concert-2026": {
+    "h": "7431a2dcc975",
+    "zh": "资深歌手周华健在大运体育馆连演两晚，全场大合唱的华语流行经典。"
+  },
+  "jon-steingard-shenzhen-2026": {
+    "h": "a3b6a7e5935f",
+    "zh": "以《Sold Out》和《Wildfire》为人所知的声音，在 MAO 的一场深圳演出。"
+  },
+  "maker-faire-shenzhen-2026": {
+    "h": "309ce2e7e6e7",
+    "zh": "深圳年度创客节 12 月 12–13 日回到万科云设计公社：来自世界各地的硬件创客、演示、工作坊、演讲和晚间派对，主题是 AI 与硬件相遇。"
+  },
+  "rainie-yang-shenzhen-concert-2026": {
+    "h": "9b2aaf42f3a9",
+    "zh": "台湾流行歌手兼演员杨丞琳在其世界巡演中，来到深圳体育中心体育场。"
+  },
+  "gdg-shenzhen-devfest-2026": {
+    "h": "4b4d25886541",
+    "zh": "GDG 深圳年度 DevFest：一整天的演讲与实操课程，主题包括 AI 智能体、编程助手、云与应用开发，面向大湾区的开发者。"
+  },
+  "buyi-band-shenzhen-2026": {
+    "h": "b3e7c676e406",
+    "zh": "成立 31 年的老牌摇滚乐队布衣，将其精简的吉他-贝斯-鼓巡演带到 B10 Live。"
+  },
+  "shenzhen-tea-expo-autumn-2026": {
+    "h": "c26dfc920cff",
+    "zh": "华巨臣秋季茶博会：来自约 2,000 家参展商的茶叶、茶具、包装与新式茶饮，展览面积 75,000 平方米。"
+  },
+  "shenzhen-agri-food-expo-2026": {
+    "h": "6c1662c12362",
+    "zh": "连接生态农业、食品配料与乡村振兴生产者与大湾区及东南亚买家的商贸展。"
+  },
+  "shenzhen-jewellery-jade-expo-2026": {
+    "h": "188225aad372",
+    "zh": "珠宝、玉石与饰品展，结合大湾区珠宝消费季。"
+  },
+  "shenzhen-100-trail-race-2026": {
+    "h": "a0614c3be61e",
+    "zh": "深圳的大型山地赛：100 公里从大鹏所城到大梅沙，爬升 7,190 米，另有 60 公里、35 公里和 10 公里组别，12 月 25–27 日。"
+  },
+  "shenzhen-bachata-festival-2027": {
+    "h": "0a2db00291cd",
+    "zh": "深圳首个国际 bachata 周末：13 小时工作坊、三晚派对和一场 Jack & Jill 比赛，教师来自欧洲和中国。"
+  },
+  "led-china-2027": {
+    "h": "48370748cac6",
+    "zh": "LED 显示、视听与数字标牌展会，是 Trust Exhibition 春季展的一部分，与 SIGN CHINA 同期举办。"
+  },
+  "shenzhen-pet-fair-2027": {
+    "h": "79922acb8df2",
+    "zh": "华南大型宠物行业展：宠物食品、玩具、猫砂、智能喂食器、美容与兽医用品、跨境电商馆，还有面向宠物主人的猫狗秀。"
+  },
+  "isle-2027": {
+    "h": "4f6ec456e04a",
+    "zh": "LED 与大屏智能显示、视听系统集成、专业灯光音响与标牌展会，参展商 1,000 多家。"
+  },
+  "szi-expo-2027": {
+    "h": "fb73a8ada238",
+    "zh": "成人健康与保健产品的 B2B 商贸展。"
+  },
+  "sife-2027": {
+    "h": "f76b495fb944",
+    "zh": "设计导向的家具展，涵盖住宅、建筑、室内、家具、软装、照明与办公空间。"
+  },
+  "ites-2027": {
+    "h": "e75738e3ad74",
+    "zh": "大型工业制造技术与设备展：机床、自动化与精密制造。"
+  },
+  "siuf-2027": {
+    "h": "67213a7814b0",
+    "zh": "深圳内衣行业年度展会：文胸、塑身衣、家居服、袜子与泳装品牌及工厂、面料与纤维，另有走秀和设计奖项。"
+  },
+  "gifts-home-fair-2027": {
+    "h": "4c497d0dcff6",
+    "zh": "深圳礼品展春季版：礼品、手工艺品、手表与家居用品，面向企业、经销、零售与电商买家。"
+  },
+  "cime-shenzhen-2027": {
+    "h": "f8749b4701c3",
+    "zh": "三个同期展会：AI 计算基础设施、数据中心液冷，以及导热界面与散热材料。"
+  },
+  "shenzhen-watch-week-2027": {
+    "h": "7922a7cdfcb1",
+    "zh": "深圳年度钟表展，加上 WINNOTIME 可穿戴创新展。场馆待确认；2026 年那届在福田会展中心举行。"
+  },
+  "ccbec-2027": {
+    "h": "20ab6509cbf0",
+    "zh": "B2B 跨境电商选品与服务展：平台、物流、支付与营销。"
+  },
+  "iote-2027": {
+    "h": "4bf24fab161a",
+    "zh": "中国规模最大的专业物联网展之一，自 2009 年起举办；设有 AGIC 2027 AI 产业专区。"
+  },
+  "formnext-asia-2027": {
+    "h": "0ab0fade71eb",
+    "zh": "增材制造与 3D 打印展会；2026 年有 330 家参展商和 34,202 名观众。"
+  },
+  "elexcon-2027": {
+    "h": "8238fead81f3",
+    "zh": "电子元器件与嵌入式系统展：芯片、存储、嵌入式/边缘 AI、功率半导体与汽车电子。"
+  },
+  "cioe-2027": {
+    "h": "49de5d0acb5e",
+    "zh": "光电全产业链博览会，设八大主题展；2026 年有 4,060 家参展商、展览面积 260,000 平方米。"
+  },
+  "iicie-2027": {
+    "h": "fa8072a671c8",
+    "zh": "集成电路产业链博览会：芯片设计、制造、封测与设备；2026 年有 935 家参展商。"
+  },
+  "shenzhen-seo-conference-2027": {
+    "h": "6f0b9252ce23",
+    "zh": "英文 SEO 大会，连接西方与中国的搜索营销人，2027 年 9 月 19–24 日在深圳瑞吉酒店。"
+  },
+  "ai-wordpress-meetup-shenzhen-november-2026": {
+    "h": "a1ba161bc29f",
+    "zh": "通过项目示例、动手实践与交流互动，探索 AI 辅助的 WordPress 建站。"
+  },
+  "open-stage-open-mic-at-no-vacancy": {
+    "h": "f59caaa4bc0d",
+    "zh": "Kiremico 音乐社群每周举办的开放麦——提供乐器，每场演出都会录制。面向所有水平，每周四举行。"
+  },
+  "tigers-den-open-mic-mondays": {
+    "h": "e4f1b654365d",
+    "zh": "每周一晚 8 点的国际开放麦，欢迎音乐、喜剧、故事等各类表演，免费入场，需消费一份餐饮。"
+  },
+  "crazy-thursday-ai-app-builder-november-12-2026": {
+    "h": "fcd55b96a36b",
+    "zh": "一个轻松的下午聚会，应用开发者、设计师和好奇的创客们在前海海边分享想法、互相认识。"
+  },
+  "kiremico-open-mic-exit-babylon": {
+    "h": "cecc06c678b9",
+    "zh": "Kiremico 在蛇口 Exit Babylon 举办的开放麦，提供乐器，免费入场，晚 7 点开始。"
+  },
+  "kiremico-open-mic-renaissance-apark": {
+    "h": "60de6d75a15d",
+    "zh": "Kiremico 在梅林 Renaissance aPark 举办的开放麦，提供乐器，免费入场，晚 8 点。"
+  },
+  "chillpill-gta-vice-city-beach-party-2026": {
+    "h": "359a55ce7c2d",
+    "zh": "一场以 GTA 为灵感的大鹏日落海滩派对，十位 DJ 阵容、浩室音乐，还有拍照打卡点。"
+  },
+  "amcham-south-china-business-summit-apec-2026-shenzhen": {
+    "h": "56b644c43515",
+    "zh": "一场英语进行的 APEC 边会商务峰会，随后是 Philadelphia Orchestra 室内乐团演出。免费，会员优先。"
+  }
 }
