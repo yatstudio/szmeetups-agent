@@ -61,6 +61,11 @@ a{color:var(--green)}
 .statsline{font-size:.82rem;color:var(--ink-ter);margin-top:10px;font-variant-numeric:tabular-nums}
 .statsline b{color:var(--green);font-weight:800}
 /* ===== agent bar ===== */
+.cmdline{margin:0 auto;max-width:780px;font-family:var(--font-mono);background:rgba(0,0,0,.3);border:1px solid var(--border);border-radius:var(--r-md);padding:12px 16px;color:var(--green);display:flex;gap:12px;align-items:center;flex-wrap:wrap;font-size:.92rem}
+.cmdline .u{color:var(--ink-sec);font-size:.83rem;word-break:break-all}
+.cmdline button{margin-left:auto;background:rgba(46,230,168,.12);border:1px solid rgba(46,230,168,.3);color:var(--green);border-radius:8px;padding:5px 12px;font:inherit;font-size:.82rem;cursor:pointer}
+[data-theme="light"] .cmdline{background:#edf2f0;border-color:rgba(16,42,32,.12);color:var(--green)}
+[data-theme="light"] .cmdline button{background:rgba(10,125,85,.08);border-color:rgba(10,125,85,.3)}
 .agentbar{background:var(--panel);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
 .agentbar .wrap{display:flex;gap:12px;align-items:center;padding-top:9px;padding-bottom:9px;flex-wrap:wrap}
 .agentbar p{margin:0;font-size:.88rem;flex:1;min-width:240px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink-sec)}
@@ -189,7 +194,7 @@ input[type=search]{font-size:16px}
 <a class="topbar-brand" href="https://yatslist.com" aria-label="Yat's List"><span class="brandmark">&gt; yat's list<span class="cur">_</span></span></a>
 <nav class="topbar-nav">
 <a href="https://yatslist.com" id="nav-home">深圳活动清单</a>
-<a href="https://yatslist.com/hackathons.html" id="nav-hack">黑客松专题</a>
+<a href="https://yatslist.com/hackathons.html" id="nav-hack">黑客松清单</a>
 <a href="./" class="on" id="nav-expat" aria-current="page">外国人活动</a>
 <span class="langsw" role="group" aria-label="Language"><button type="button" data-setlang="zh">简体</button><span class="lsep">|</span><button type="button" data-setlang="tw">繁體</button><span class="lsep">|</span><button type="button" data-setlang="en">EN</button></span>
 <span class="themesw" role="group" aria-label="Theme"><button type="button" data-settheme="auto">自动</button><span class="lsep">|</span><button type="button" data-settheme="light" aria-label="白天" title="白天">☀</button><span class="lsep">|</span><button type="button" data-settheme="dark" aria-label="晚上" title="晚上">☾</button></span>
@@ -199,6 +204,7 @@ input[type=search]{font-size:16px}
 <header class="hero"><div class="wrap">
 <h1 id="page-title">深圳外国人活动清单</h1>
 <p class="tagline" id="tagline"></p>
+<div class="cmdline"><span>$ subscribe: yat's list · <span id="cmd-label">外国人活动</span></span><span class="u">https://yatstudio.github.io/szmeetups-agent/events.json</span><button type="button" id="cmd-copy">复制</button></div>
 <div class="statsline" id="st-line">Loading…</div>
 </div></header>
 <div class="agentbar"><div class="wrap">
@@ -264,7 +270,7 @@ const PROMPT_ZH=`请订阅「SZMeetups Agent 镜像」并给我深圳活动提�
 const PROMPT_TW=`請訂閱「SZMeetups Agent 鏡像」並給我深圳活動提醒：數據源 https://yatstudio.github.io/szmeetups-agent/events.json（每天更新，無需登錄；這是 szmeetups.com 的非官方鏡像）。每天讀取一次，按我的興趣和所在區域篩選；有新活動符合我的興趣時當天告訴我；我標記想參加的活動，開始前 3 天和前 1 天各提醒我一次。不要編造數據源裡沒有的活動，提醒時附上 szmeetups.com 的原始活動鏈接。`;
 const STRINGS={
 zh:{docTitle:"深圳外国人活动清单 | SZMeetups 镜像",
-navHome:"深圳活动清单",navHack:"黑客松专题",navExpat:"外国人活动",pageTitle:"深圳外国人活动清单",
+navHome:"深圳活动清单",navHack:"黑客松清单",navExpat:"外国人活动",pageTitle:"深圳外国人活动清单",cmdLabel:"外国人活动",cmdCopy:"复制",cmdCopied:"已复制 ✓",
 themeAuto:"自动",themeLight:"白天",themeDark:"晚上",themeLabel:"主题",
 tagline:`<b>深圳有什么好玩的</b> —— 聚会 · 演出与夜生活 · 展览 · 展会，镜像自 <b>szmeetups.com</b>，供真人与 AI Agent 使用，每天更新。`,
 agentbar:`🤖 <b>别自己刷——交给你的 Agent。</b>把订阅话术复制给你的 Agent，按你的兴趣给你推送深圳活动提醒。`,
@@ -289,7 +295,7 @@ footFeeds:`数据接口（开放、无需登录）：<a href="events.json">event
 footSrc:`<a href="https://szmeetups.com" target="_blank" rel="noopener">szmeetups.com</a> 的非官方 Agent 友好镜像——全部活动数据 © SZMeetups，请始终回链原始活动页。出发前请在原站确认最终信息。`,
 footContact:`合作联系：<a href="mailto:yat@yatslist.com">yat@yatslist.com</a>`},
 tw:{docTitle:"深圳外國人活動清單 | SZMeetups 鏡像",
-navHome:"深圳活動清單",navHack:"黑客松專題",navExpat:"外國人活動",pageTitle:"深圳外國人活動清單",
+navHome:"深圳活動清單",navHack:"黑客松清單",navExpat:"外國人活動",pageTitle:"深圳外國人活動清單",cmdLabel:"外國人活動",cmdCopy:"複製",cmdCopied:"已複製 ✓",
 themeAuto:"自動",themeLight:"白天",themeDark:"晚上",themeLabel:"主題",
 tagline:`<b>深圳有什麼好玩的</b> —— 聚會 · 演出與夜生活 · 展覽 · 展會，鏡像自 <b>szmeetups.com</b>，供真人與 AI Agent 使用，每天更新。`,
 agentbar:`🤖 <b>別自己刷——交給你的 Agent。</b>把訂閱話術複製給你的 Agent，按你的興趣給你推送深圳活動提醒。`,
@@ -314,7 +320,7 @@ footFeeds:`數據接口（開放、無需登錄）：<a href="events.json">event
 footSrc:`<a href="https://szmeetups.com" target="_blank" rel="noopener">szmeetups.com</a> 的非官方 Agent 友好鏡像——全部活動數據 © SZMeetups，請始終回鏈原始活動頁。出發前請在原站確認最終資訊。`,
 footContact:`合作聯繫：<a href="mailto:yat@yatslist.com">yat@yatslist.com</a>`},
 en:{docTitle:"Shenzhen Expat Events | SZMeetups Mirror",
-navHome:"Shenzhen Events",navHack:"Hackathons",navExpat:"Expat Events",pageTitle:"Shenzhen Expat Events",
+navHome:"Shenzhen Events",navHack:"Hackathons",navExpat:"Expat Events",pageTitle:"Shenzhen Expat Events",cmdLabel:"Expat Events",cmdCopy:"Copy",cmdCopied:"Copied ✓",
 themeAuto:"Auto",themeLight:"Light",themeDark:"Dark",themeLabel:"Theme",
 tagline:`<b>What's on in Shenzhen</b> — meetups · shows &amp; nightlife · exhibitions · trade shows, mirrored from <b>szmeetups.com</b> for humans and AI agents, updated daily.`,
 agentbar:`🤖 <b>Don't browse — delegate.</b> Copy the subscription prompt to your Agent and get Shenzhen event reminders matched to your interests.`,
@@ -493,7 +499,7 @@ function applyLang(){
   document.title=t.docTitle;
   document.querySelectorAll(".langsw button").forEach(b=>{const on=b.dataset.setlang===LANG;b.classList.toggle("on",on);b.setAttribute("aria-pressed",on?"true":"false")});
   _st("#nav-home",t.navHome);_st("#nav-hack",t.navHack);_st("#nav-expat",t.navExpat);
-  _st("#page-title",t.pageTitle);
+  _st("#page-title",t.pageTitle);_st("#cmd-label",t.cmdLabel);_st("#cmd-copy",t.cmdCopy);
   _sh("#tagline",t.tagline);
   _sh("#agentbar-p",t.agentbar);
   document.querySelectorAll(".copybtn").forEach(b=>b.textContent=t.copy);
@@ -514,6 +520,7 @@ function applyLang(){
 function setLang(l){LANG=(l==="en"||l==="tw")?l:"zh";try{localStorage.setItem("szLang",LANG)}catch(e){}applyLang()}
 document.querySelectorAll("[data-setlang]").forEach(b=>b.addEventListener("click",()=>setLang(b.dataset.setlang)));
 window.copyPrompt=b=>{if(navigator.clipboard)navigator.clipboard.writeText(document.getElementById("subprompt").innerText).then(()=>{const t=b.textContent;b.textContent=S().copied;setTimeout(()=>b.textContent=S().copy,1500)})};
+document.getElementById("cmd-copy").addEventListener("click",function(){if(navigator.clipboard)navigator.clipboard.writeText("https://yatstudio.github.io/szmeetups-agent/events.json").then(()=>{this.textContent=S().cmdCopied;setTimeout(()=>this.textContent=S().cmdCopy,1200)})});
 function measureBar(){
   const tb=document.querySelector(".topbar");if(tb)document.documentElement.style.setProperty("--tbh",tb.offsetHeight+"px");
   const b=document.querySelector(".bar");if(b)document.documentElement.style.setProperty("--barh",b.offsetHeight+"px");
